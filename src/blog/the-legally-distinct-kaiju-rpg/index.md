@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # The Legally Distinct Kaiju RPG
+
 
 I published "[Gamera the RPG](/the-gamera-rpg/)" under a different name...
 

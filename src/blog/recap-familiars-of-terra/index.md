@@ -9,7 +9,7 @@ tags:
   - familiars of terra
 ---
     
-    # Recap: Familiars of Terra
+
 
 > **Familiars of Terra** is a tabletop roleplay game set in Terra, a fantasy world in which every person has an animal familiar. As a heroic Seeker you travel the lands with your familiar healing the devastation of a war which left nations scarred and people scattered. Be a beacon of hope ushering in a new era for Terra. Help restore the land to its former beauty, bond with your familiar and discover your joined destiny, become a hero people will sing about for years to come!
 

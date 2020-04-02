@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Champions Lite Danger Edition
+
 
 I'm ready to playtest one version of this game, using Danger instead of END to balance power use. That version of the game is here:
 

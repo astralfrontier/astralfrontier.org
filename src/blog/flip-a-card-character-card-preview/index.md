@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Character Card Preview
+
 
 These aren't the official cards - this is a preview of what I plan to create. My goal is to run this past a few people for feedback, before committing to the card creation process.
 

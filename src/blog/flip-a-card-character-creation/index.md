@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Character Creation
+
 
 Like the [previous post](/flip-a-card-task-resolution/), this is a rundown of some options for an RPG fundamental: creating a character to play.
 

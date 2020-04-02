@@ -8,7 +8,7 @@ tags:
   - demigods
 ---
     
-    # How I Run Demigods
+
 
 The [Demigods](https://demigodspbta.com/) game has a published Quickstart that I've been using to run stuff for my Monday group. You can see the recaps [here](https://forum.menagerie.team/tags/c/games/demigods/17/recap). How am I running this game, and what are my influences?
 

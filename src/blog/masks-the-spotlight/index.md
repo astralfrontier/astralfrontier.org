@@ -10,7 +10,7 @@ tags:
   - masks
 ---
     
-    # Masks: the Spotlight
+
 
 One of the lessons of writing the [Silverline](/masks-silverline/) project has been about what "the spotlight" means in a game.
 

@@ -9,7 +9,7 @@ tags:
   - demigods
 ---
     
-    # Demigods: GM notes
+
 
 I ran Demigods for my Monday night group again. Here's some notes about the session as a GM, and some thoughts about how I ran this. The recap is here: [https://forum.menagerie.team/t/demigods-session-3/812](https://forum.menagerie.team/t/demigods-session-3/812)
 

@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Champions Lite Playtesting
+
 
 I put together enough of a playtest document that people could create characters and go to town. Google Doc is here:
 

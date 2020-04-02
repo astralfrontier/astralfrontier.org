@@ -7,7 +7,7 @@ tags:
   - palaver
 ---
     
-    # Don't Give a Shit
+
 
 Here's some general GM advice.
 

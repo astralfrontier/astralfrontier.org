@@ -8,7 +8,7 @@ tags:
   - gm tools
 ---
     
-    # Procedurally Generating Aliens
+
 
 A friend prompted me (in [this](https://twitter.com/GraypawnTweets/status/1211092828593348608) tweet, reproduced here) thus:
 

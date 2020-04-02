@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Champions Lite
+
 
 I got ideas for how to condense [Champions](https://en.wikipedia.org/wiki/Champions_(role-playing_game)) down into a few key pages, a project called [Champions Lite](https://docs.google.com/document/d/106Wa591CzAyqeiwYJX8hu2YsBGFWTDCqgam5MQP6GlM/edit). What I didn't have was a good idea for how to translate the original game's combat mechanics into an elegant and on-point system. So here's a shot at how to organize the game.
 

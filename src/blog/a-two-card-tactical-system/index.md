@@ -8,7 +8,7 @@ tags:
   - flip-a-card
 ---
     
-    # A two-card tactical system
+
 
 I'm thinking through how to bring more granular combat to flip-a-card, if that's of interest to a group. This isn't specifically that idea, just one way to accomplish it.
 

@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # Gamera the RPG
+
 
 1. One player is the Kid. They narrate for themselves, the monster, & all NPCs.
 2. All other players create a Civilian, Scientist, or Military PC.

@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Task Resolution
+
 
 What are some options for task resolution in the flip-a-card system?
 

@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Automation
+
 
 I wrote some basic Node.js scripting to parse YAML files for cards, and output a CSV that I can feed into nanDECK. This replaces the old Google Sheets download process, and lets me do some pretty awesome stuff. The Github repository is here: [https://github.com/astralfrontier/flip-a-card](https://github.com/astralfrontier/flip-a-card)
 

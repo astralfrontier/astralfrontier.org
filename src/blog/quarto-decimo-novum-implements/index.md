@@ -11,7 +11,7 @@ tags:
   - genesys
 ---
     
-    # Quarto Decimo Novum: Implements
+
 
 These are the magical implements (Genesys p. 218) used by different classes and jobs in the game.
 

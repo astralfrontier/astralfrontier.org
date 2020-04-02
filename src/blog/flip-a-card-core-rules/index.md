@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Core Rules
+
 
 There won't be many "core rules" for a game like this, but we can talk about a few RPG staples, and see how they work.
 

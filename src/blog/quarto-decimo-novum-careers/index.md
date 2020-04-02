@@ -11,7 +11,7 @@ tags:
   - genesys
 ---
     
-    # Quarto Decimo Novum: Careers
+
 
 These are the careers available for starting characters. These are not the final "jobs" (e.g. Paladin, Black Mage, Scholar) - those will be introduced in a separate post.
 
@@ -19,7 +19,11 @@ These are the careers available for starting characters. These are not the final
 
 These careers specialize in combat.
 
-map[images:[map[height:%!s(float64=64) src:/content/images/2019/11/sp5mrWVjVxTfzVZbsKE0YJlLx0.png fileName:sp5mrWVjVxTfzVZbsKE0YJlLx0.png row:%!s(float64=0) width:%!s(float64=64)] map[row:%!s(float64=0) src:/content/images/2019/11/wCYPhfqOddtXkUkBQf6_7eWUjc.png width:%!s(float64=64) height:%!s(float64=64) fileName:wCYPhfqOddtXkUkBQf6_7eWUjc.png] map[src:/content/images/2019/11/eaJatBZQrhQOU3V6FBnuxzR4iU.png width:%!s(float64=64) height:%!s(float64=64) fileName:eaJatBZQrhQOU3V6FBnuxzR4iU.png row:%!s(float64=0)]]]
+![](/content/images/2019/11/sp5mrWVjVxTfzVZbsKE0YJlLx0.png)
+
+![](/content/images/2019/11/wCYPhfqOddtXkUkBQf6_7eWUjc.png)
+
+![](/content/images/2019/11/eaJatBZQrhQOU3V6FBnuxzR4iU.png)
 
 ### Arcanist
 
@@ -33,7 +37,11 @@ Hunters, sentries, and soldiers in the Twelveswood, specializing in the bow. Man
 
 Masters of healing magic, conjurers are the protectors and healers of Gridania. They mediate between the elemental spirits and the spoken races of the Twelveswood. **Skills**: Charm, Conjury Aether, Knowledge (Aether), Knowledge (Nature), Medicine, Negotiation, Perception, Survival.
 
-map[images:[map[fileName:Jk768MD2Ejd7XopHym7bnXJTWg.png row:%!s(float64=0) width:%!s(float64=400) height:%!s(float64=400) src:/content/images/2019/11/Jk768MD2Ejd7XopHym7bnXJTWg-1.png] map[fileName:8yYujJqsxOUYkOkAU8VauXyQNg.png row:%!s(float64=0) width:%!s(float64=64) height:%!s(float64=64) src:/content/images/2019/11/8yYujJqsxOUYkOkAU8VauXyQNg-1.png] map[fileName:hHGPApK849prbuKia2EFZ6Y6Cs.png row:%!s(float64=0) width:%!s(float64=64) height:%!s(float64=64) src:/content/images/2019/11/hHGPApK849prbuKia2EFZ6Y6Cs-1.png]]]
+![](/content/images/2019/11/Jk768MD2Ejd7XopHym7bnXJTWg-1.png)
+
+![](/content/images/2019/11/8yYujJqsxOUYkOkAU8VauXyQNg-1.png)
+
+![](/content/images/2019/11/hHGPApK849prbuKia2EFZ6Y6Cs-1.png)
 
 ### Gladiator
 
@@ -47,7 +55,11 @@ Wielders of the spear, halberd, trident, and other polearms. Composure and resol
 
 The rough-and-tumble protectors of peace in Limsa Lominsa. Many are former pirates, with skills to match, while others are brutal slayers given gainful employment. **Skills**: Athletics, Coercion, Cool, Melee, Negotiation, Resilience, Streetwise, Vigilance.
 
-map[images:[map[fileName:eFLTJj757yr7EFtZTtew4nL0nk.png row:%!s(float64=0) width:%!s(float64=64) height:%!s(float64=64) src:/content/images/2019/11/eFLTJj757yr7EFtZTtew4nL0nk-1.png] map[fileName:4ogkA8yk-ntmuqc-yaad4iJ3cQ.png row:%!s(float64=0) width:%!s(float64=64) height:%!s(float64=64) src:/content/images/2019/11/4ogkA8yk-ntmuqc-yaad4iJ3cQ-1.png] map[fileName:qe5SQjWAk8dVGAScWycVflA5pg.png row:%!s(float64=0) width:%!s(float64=64) height:%!s(float64=64) src:/content/images/2019/11/qe5SQjWAk8dVGAScWycVflA5pg-1.png]]]
+![](/content/images/2019/11/eFLTJj757yr7EFtZTtew4nL0nk-1.png)
+
+![](/content/images/2019/11/4ogkA8yk-ntmuqc-yaad4iJ3cQ-1.png)
+
+![](/content/images/2019/11/qe5SQjWAk8dVGAScWycVflA5pg-1.png)
 
 ### Pugilist
 

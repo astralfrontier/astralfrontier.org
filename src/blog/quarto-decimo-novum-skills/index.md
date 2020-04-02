@@ -11,7 +11,7 @@ tags:
   - genesys
 ---
     
-    # Quarto Decimo Novum: Skills
+
 
 What skills are we able to use? What skills are we changing?
 

@@ -11,7 +11,7 @@ tags:
   - genesys
 ---
     
-    # Quarto Decimo Novum: Talents Part 1
+
 
 ### Existing Talents
 

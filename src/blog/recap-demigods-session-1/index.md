@@ -9,7 +9,7 @@ tags:
   - demigods
 ---
     
-    # Recap: Demigods Session 1
+
 
 The actual session write-up is here:
 

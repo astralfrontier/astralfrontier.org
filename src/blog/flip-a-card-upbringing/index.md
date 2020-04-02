@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Upbringing
+
 
 I was unhappy with the origin card (Northerner, etc.) and felt they leaned a little too much on stereotypes to build a world. It also didn't give me the range I felt characters needed. So here's my replacement pitch:
 

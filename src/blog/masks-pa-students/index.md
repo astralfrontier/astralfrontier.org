@@ -8,7 +8,7 @@ tags:
   - masks
 ---
     
-    # Masks: PA students
+
 
 I'm probably going to be playing in a Phoenix Academy game of Masks, a playset detailed in [Masks Unbound](https://www.magpiegames.com/product/unbound/). So who or what would I play? Here's some of my ideas, in (roughly) playbook order.
 

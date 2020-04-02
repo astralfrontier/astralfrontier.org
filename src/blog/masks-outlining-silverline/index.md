@@ -9,7 +9,7 @@ tags:
   - masks
 ---
     
-    # Masks: Outlining Silverline
+
 
 What does the process look like for creating the Silverline stories?
 

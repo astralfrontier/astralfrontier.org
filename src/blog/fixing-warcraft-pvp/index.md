@@ -8,7 +8,7 @@ tags:
   - palaver
 ---
     
-    # Fixing Warcraft PVP
+
 
 Everyone loves explaining how they think Blizzard should fix everything. Blizzard never listens. This is why I play FFXIV instead. But...
 

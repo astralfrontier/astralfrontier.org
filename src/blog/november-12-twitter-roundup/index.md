@@ -9,7 +9,7 @@ tags:
   - wuxia
 ---
     
-    # November 12 Twitter roundup
+
 
 Here's some of the best finds on Gamer Twitter over the last few days. Most of my feed right now is "OMG Disney+" and "OMG Sonic" with a side order of superhero movie & TV show casting debates.
 

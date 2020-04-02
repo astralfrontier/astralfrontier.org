@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Validation
+
 
 To validate that I'm on the right track with character cards, I put together a spreadsheet where the Role & Focus cards are matched up. The results are a mixed bag, but that's kind of what I expected.
 

@@ -9,7 +9,7 @@ tags:
   - inept sorcerers
 ---
     
-    # A Divine Comedy of Inept Sorcerers
+
 
 A friend of mine ran "[Inept Sorcerers](http://peppermile.com/inept-sorcerers.html)" for three friends. I was not there, but she relayed events to me and gave me permission to post this recap. Here's my condensed version of her notes:
 

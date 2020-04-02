@@ -8,7 +8,7 @@ tags:
   - demigods
 ---
     
-    # Prepping Demigods
+
 
 The Demigods game's [About page](https://demigodspbta.com/about-1) says this:
 

@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Authority part 1
+
 
 The current deck has a card called "[The Facilitator](https://astralfrontier.github.io/flip-a-card/cards/the-facilitator)". Early feedback is that it's too vague as written. Here's the questions that I understood from that feedback:
 

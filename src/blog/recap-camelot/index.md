@@ -9,7 +9,7 @@ tags:
   - genesys
 ---
     
-    # Recap: Camelot!
+
 
 Following the [assault](/recap-assault-on-the-march-keep/) from last time, we wound up with two captives. One, "Ferngal", wasn't talkative, but the other, "Simon", had less loyalty and explained they'd been hired by someone named "The Wizard", through an intermediary named Tyra, to come pacify the keep.
 

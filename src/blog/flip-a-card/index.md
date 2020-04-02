@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: the Challenge Economy
+
 
 I'll start by defining terms. First is "pace", well defined in articles like [this one](https://theangrygm.com/keeping-pace/). For our purposes, we'll borrow that article's assertions: "a scene has its own pace", that pace can be slow or fast, that pace ought to vary, and that slow scenes are more common and more helpful to story than fast scenes.
 

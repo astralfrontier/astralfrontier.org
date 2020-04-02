@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Conditions
+
 
 I wrote up a document on how to use condition cards. It's long enough to count as a blog post, so I'll just link to it!
 

@@ -9,7 +9,7 @@ tags:
   - pbta
 ---
     
-    # Running Genesys as a PBTA game
+
 
 Many gamers I know prefer the PBTA or "Powered by the Apocalypse" [suite of games](http://apocalypse-world.com/pbta/). While I have enjoyed several PBTA games, their tendency to be about a specific set of characters in a specific setting doesn't give me the freedom to come up with something original. So I've started playing and running Fantasy Flight Games' Genesys system. But can Genesys capture some of the mechanical quirks that make PBTA interesting? Maybe. I'll talk about one here, and think about others soon.
 

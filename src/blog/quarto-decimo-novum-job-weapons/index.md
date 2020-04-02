@@ -11,7 +11,7 @@ tags:
   - genesys
 ---
     
-    # Quarto Decimo Novum: Job Weapons
+
 
 Most classes and jobs are associated with specific weapons or armor, listed below. Defense stats are a combined total based on armor and typical weapon(s).
 

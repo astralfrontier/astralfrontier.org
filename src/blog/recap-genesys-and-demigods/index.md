@@ -11,7 +11,7 @@ tags:
   - demigods
 ---
     
-    # Recap: Genesys and Demigods
+
 
 I was in two games today, one that I ran and one that I played.
 

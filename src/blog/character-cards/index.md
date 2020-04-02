@@ -10,7 +10,7 @@ tags:
   - character cards
 ---
     
-    # Character Cards
+
 
 As a GM, I've been notably bad at giving NPCs life. I failed to name them or build them up as characters, beyond their immediate story potential. To combat that, I started writing up characters on 3"x5" index cards. I'd include the following information:
 

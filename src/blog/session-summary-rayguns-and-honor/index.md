@@ -9,7 +9,7 @@ tags:
   - genesys
 ---
     
-    # Session Summary: Ray-Guns and Honor
+
 
 Sunday was the second session of a Genesys game mixing Arthurian fantasy and Flash Gordon technology.
 

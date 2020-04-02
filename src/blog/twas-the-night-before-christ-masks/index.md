@@ -8,7 +8,7 @@ tags:
   - masks
 ---
     
-    # 'Twas the night before Christ-Masks
+
 
 I promise this would all make sense if you were part of our game. That said, you can read our recaps here: [https://chaosfrontier.org/games/sycamour-division](https://chaosfrontier.org/games/sycamour-division)
 

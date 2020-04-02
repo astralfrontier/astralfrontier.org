@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # From Markdown to PDFs
+
 
 For the much-delayed WITCH game, I wanted to produce some nice-looking playbooks and text, but I also wanted to make a lot of fast edits to the material. I previously created a playtest PDF using Scribus, but now that I know more about LaTeX, I wanted to try something new.
 

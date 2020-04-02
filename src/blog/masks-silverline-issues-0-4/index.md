@@ -9,7 +9,7 @@ tags:
   - masks
 ---
     
-    # Masks: Silverline Issues 0-4
+
 
 These are the first four "issues" of the solo Masks effort I'm doing, called Silverline. I'm using the Masks PBTA rules to shape a story, to see how it works out.
 

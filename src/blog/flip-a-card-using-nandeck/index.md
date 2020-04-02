@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Using nanDECK
+
 
 I found the free [nanDECK](http://www.nand.it/nandeck/) software (and tipped via PayPal) after some searching. I also found [this](https://www.dylanwolf.com/2014/08/08/prototyping-a-card-game-with-nandeck-part-1/) three-part series by Dylan Wolf, who put a lot more time into this than I did. That time investment, plus nanDECK's own fantastic manual, got me up and running very quickly.
 
@@ -49,7 +49,17 @@ I used the SVG version of the icons to avoid artifacting on resize. To do this, 
 
 The resulting PDF can be found [here](https://drive.google.com/open?id=1oklvUHcNk3W8opVDMIla2qJCK9vRlK8D).
 
-map[images:[map[width:%!s(float64=700) height:%!s(float64=1000) src:/content/images/2019/12/Talispire-1-1.png fileName:Talispire-1.png row:%!s(float64=0)] map[src:/content/images/2019/12/Talispire-2-1.png fileName:Talispire-2.png row:%!s(float64=0) width:%!s(float64=700) height:%!s(float64=1000)] map[fileName:Talispire-3.png row:%!s(float64=0) width:%!s(float64=700) height:%!s(float64=1000) src:/content/images/2019/12/Talispire-3.png] map[src:/content/images/2019/12/Talispire-4.png fileName:Talispire-4.png row:%!s(float64=1) width:%!s(float64=700) height:%!s(float64=1000)] map[fileName:Talispire-7.png row:%!s(float64=1) width:%!s(float64=700) height:%!s(float64=1000) src:/content/images/2019/12/Talispire-7-1.png] map[height:%!s(float64=1000) src:/content/images/2019/12/Talispire-8-1.png fileName:Talispire-8.png row:%!s(float64=1) width:%!s(float64=700)]]]
+![](/content/images/2019/12/Talispire-1-1.png)
+
+![](/content/images/2019/12/Talispire-2-1.png)
+
+![](/content/images/2019/12/Talispire-3.png)
+
+![](/content/images/2019/12/Talispire-4.png)
+
+![](/content/images/2019/12/Talispire-7-1.png)
+
+![](/content/images/2019/12/Talispire-8-1.png)
 
 An important goal of this process is to make cards that don't look too good. If that's surprising, it's because I want to encourage people to create cards at their own table, and if they compare their hand-written custom cards to the "official ones", I want them to look pretty similar.
 

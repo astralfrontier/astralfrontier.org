@@ -9,7 +9,7 @@ tags:
   - genesys
 ---
     
-    # Recap: Assault on the March Keep!
+
 
 After our dungeon crawl in the haunted science lab, the crew of the rocket-ship set out for Camelot again. We were flying the long way around (for good and sufficient plot reasons), when a storm appeared on the horizon! Dart wanted to keep flying, but cooler heads prevailed, and Sir Bedevere landed the rocket on the manor grounds of Sir Henry Haimerich, a march lord (and in doing so accidentally destroyed a chicken coop).
 

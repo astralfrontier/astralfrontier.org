@@ -9,7 +9,7 @@ tags:
   - psi*run
 ---
     
-    # Recap: Psi*Run
+
 
 The Monday night Fellowship game was short two players, so we instead ran a favorite of the usual GM: [Psi*Run](http://nightskygames.com/welcome/game/PsiRun).
 

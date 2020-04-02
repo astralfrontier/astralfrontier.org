@@ -11,7 +11,7 @@ tags:
   - genesys
 ---
     
-    # Quarto Decimo Novum: Sample Characters
+
 
 Here's a sample character: [Ardbert](https://finalfantasy.fandom.com/wiki/Ardbert), a young Marauder on a mission. He is a natural, compulsive hero, and can't stop helping people, even when it puts him in danger.
 

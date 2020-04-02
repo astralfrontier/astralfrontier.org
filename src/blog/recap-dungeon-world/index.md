@@ -9,7 +9,7 @@ tags:
   - pbta
 ---
     
-    # Recap: Dungeon World
+
 
 Tonight's Fellowship game didn't happen, so one of the usual players facilitated Dungeon World for a couple of us.
 

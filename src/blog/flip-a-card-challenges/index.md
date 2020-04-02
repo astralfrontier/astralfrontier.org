@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Challenges
+
 
 Challenges are the most direct way to define a world. My goal is to produce a large number of reusable challenge cards, but also to come up with a way to make every card interesting by itself.
 

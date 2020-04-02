@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Solo Playtest part 1
+
 
 I'll be using [WheelOfNames.com](https://wheelofnames.com/) to pick cards at random from my various lists.
 

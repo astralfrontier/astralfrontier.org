@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card Design Doc
+
 
 I'm updating my design document for this general rule system. The next post will try to assemble these pieces into a workable whole.
 

@@ -12,7 +12,7 @@ tags:
   - p5
 ---
     
-    # Creating Fights with the A3 System
+
 
 Similar to creating superheroes with the [P5](/creating-superheroes-with-the-p5-system/) System, you can create encounters, challenges, and fights with the A3 system. The goal of the A3 system is to keep the fight more interesting than "hit them until their hit points fall out".
 

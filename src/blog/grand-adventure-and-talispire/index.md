@@ -10,7 +10,7 @@ tags:
   - talispire
 ---
     
-    # Grand Adventure and Talispire
+
 
 After writing Inept Sorcerers, I started developing a second version, which expanded into a project called Grand Adventure. I even wrote up a setting for it, a world called Talispire. I couldn't crack it at the time, though.
 

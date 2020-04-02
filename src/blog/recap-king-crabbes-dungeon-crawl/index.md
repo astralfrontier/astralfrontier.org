@@ -9,7 +9,7 @@ tags:
   - genesys
 ---
     
-    # Recap: King Crabbe's Dungeon Crawl
+
 
 This is the second half of the dungeon crawl that started [here](/session-summary-rayguns-and-honor/).
 

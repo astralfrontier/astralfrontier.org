@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Authority part 3
+
 
 In [part 1](/flip-a-card-authority-part-1/) I talked about spotlight, and in [part 2](/flip-a-card-authority-part-2/) I talked about vision. Now I'm going to talk about some ways to put them together.
 

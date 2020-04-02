@@ -7,7 +7,7 @@ tags:
   - bullet journal
 ---
     
-    # Bullet Journal cards with TeX
+
 
 I keep bullet journals for the games I'm in. I use stencils, templates, bulleted lists, and so forth to provide organization and details. Sometimes it's more expedient to just download an image for what I want to depict, though.
 

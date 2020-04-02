@@ -8,7 +8,7 @@ tags:
   - dungeons and dragons
 ---
     
-    # More Witch+Craft
+
 
 The Witch+Craft rules feel (to me) very much like FFXIV's crafting system, or something from other MMOs. There's optional rules for "gathering", there's techniques that crafters use in the process of making projects, there's normal vs. high-quality materials, and even the various specialties feel like they align.
 

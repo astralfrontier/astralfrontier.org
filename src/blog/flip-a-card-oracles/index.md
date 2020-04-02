@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Oracles
+
 
 There's a potential class of card for the game that you could call "oracles": cards with a blank flipside, that are meant to be shuffled and drawn to generate a random result. Here's a few sample oracles.
 

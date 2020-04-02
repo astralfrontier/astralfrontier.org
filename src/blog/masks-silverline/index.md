@@ -10,7 +10,7 @@ tags:
   - masks
 ---
     
-    # Masks: Silverline
+
 
 I've been running a solo game of Masks - playing the GM role, and five (!) PC roles. We've gotten through three issues so far (the setup, and two regular "sessions"). While I will probably repost the sessions and notes here at some point, I want to talk about the creation process itself.
 

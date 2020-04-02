@@ -8,7 +8,7 @@ tags:
   - dungeons and dragons
 ---
     
-    # Witch+Craft
+
 
 I kickstarted [Witch+Craft](https://astrolago.com/index.php/witchcraft/) and it arrived recently. Overall it looks really good, and I'm interested to see how the rules work out. The impression I get is that it's basically about finding reasons to go on adventures and be imaginative in your crafting efforts, so I'm going to lean into that aspect and work through a couple of example projects.
 

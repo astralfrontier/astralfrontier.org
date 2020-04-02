@@ -9,7 +9,7 @@ tags:
   - fiction
 ---
     
-    # Riveting
+
 
 What does the [Reformed character](https://docs.google.com/document/d/1f2HLMIyJYJjWrRTa37BxSGAJcpD5D4Hg1g1hXDj2Tgc/edit?usp=sharing) I'm playing soon plan to do?
 

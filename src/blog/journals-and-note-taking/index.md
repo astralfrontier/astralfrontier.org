@@ -7,7 +7,7 @@ tags:
   - bullet journal
 ---
     
-    # Journals and Note-taking
+
 
 More on the bullet journals I use, and where I store them!
 

@@ -8,7 +8,7 @@ tags:
   - demigods
 ---
     
-    # Recap: Demigods Session 0
+
 
 To avoid repeating a lot of text, I'll just link these things here.
 

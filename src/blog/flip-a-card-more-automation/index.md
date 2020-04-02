@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Homepage
+
 
 Most of the work today was technical, rather than creative, so I'll just have to announce that when I push updates to my card files, the results are automatically built and posted here: [https://astralfrontier.github.io/flip-a-card/](https://astralfrontier.github.io/flip-a-card/)
 

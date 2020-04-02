@@ -11,7 +11,7 @@ tags:
   - demigods
 ---
     
-    # Recap: City of Mist and Demigods
+
 
 I got to play [City of Mist](https://www.cityofmist.co/) a second time, facilitated by the same person. I played [Declan L'Estrange](https://19290615-096e-4dab-8b2d-2a4ac255656e.filesusr.com/ugd/64098d_07542ae3f4e74cd3940b5cdd5237b206.pdf), a character living in a dream, and the other player played [Excalibur](https://19290615-096e-4dab-8b2d-2a4ac255656e.filesusr.com/ugd/64098d_1523ee63a0404f39bf6aa2d38e84cdd9.pdf), which I compared to "Helen Mirren if she bore the [Witchblade](https://en.wikipedia.org/wiki/Witchblade)".
 

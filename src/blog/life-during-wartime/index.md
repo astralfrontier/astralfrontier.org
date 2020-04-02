@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # Life During Wartime
+
 
 > "The sound of gunfire, off in the distance, I'm getting used to it now
 

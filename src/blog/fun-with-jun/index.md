@@ -8,7 +8,7 @@ tags:
   - masks
 ---
     
-    # Fun with Jun
+
 
 When you [live in the Crates](/life-in-the-crates/), life can be hard. Fortunately, I've got plenty of fun things to do!
 

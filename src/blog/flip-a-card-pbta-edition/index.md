@@ -10,7 +10,7 @@ tags:
   - pbta
 ---
     
-    # Flip-a-Card: PBTA Edition
+
 
 During my earlier playtests, people commented that Flip-a-Card worked as a "better kind of Fate". But what about the PBTA fans out there?
 

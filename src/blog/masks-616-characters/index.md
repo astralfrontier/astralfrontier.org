@@ -8,7 +8,7 @@ tags:
   - masks
 ---
     
-    # Masks-616 characters
+
 
 I've done a lot of RPG work, taking the place of blog posts, over the last few days. It's time to talk about a new set of PC candidates!
 

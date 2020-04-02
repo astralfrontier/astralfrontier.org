@@ -11,7 +11,7 @@ tags:
   - genesys
 ---
     
-    # Quarto Decimo Novum: Development Notes
+
 
 I'm building the racial archetypes for the game, starting with the five playable races: Elezen, Hyur, Lalafell, Miqo'te, and Roegadyn. I also started with the 2.x classes (including Rogue). I haven't started on talents or magic yet, but I know where I want to go, at least. And I know about jobs. So what does all this look like, and what do I think is coming next?
 

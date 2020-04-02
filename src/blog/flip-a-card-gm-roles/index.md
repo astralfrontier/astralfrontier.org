@@ -8,7 +8,7 @@ tags:
   - flip-a-card
 ---
     
-    # Flip-a-Card: GM roles
+
 
 I divided authority in Flip-a-Card in the following ways:
 

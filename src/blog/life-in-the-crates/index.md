@@ -9,7 +9,7 @@ tags:
   - fiction
 ---
     
-    # Life in the Crates
+
 
 Let me tell you about this place, stranger.
 

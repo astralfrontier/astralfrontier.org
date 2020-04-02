@@ -10,7 +10,7 @@ tags:
   - p5
 ---
     
-    # Creating superheroes with the P5 system
+
 
 Superhero characters can be some of the most versatile characters in gaming. Mutated lab hamsters, aliens, robots made of Lego pieces, and animal-themed acrobats can all be part of the same team. But this diversity comes at a price: sometimes it's hard to come up with a fun idea, because there's too much to choose from.
 

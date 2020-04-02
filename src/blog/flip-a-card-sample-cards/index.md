@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Sample Cards
+
 
 This is not going to be an exhaustive list of cards - doing that is beyond the scope of one blog post. But let's say we're building a standard fantasy world, and want to use the [flip-a-card rules](/flip-a-card-design-doc/) to do it.
 

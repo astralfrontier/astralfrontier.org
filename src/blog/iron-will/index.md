@@ -9,7 +9,7 @@ tags:
   - fiction
 ---
     
-    # Iron Will
+
 
 This is interesting! I'm being chased by a villain. Two villains, specifically. There's Madhesive, the glue-goon, and Blaster of Paris, the super-mouthy guy with an accent I can't make out.
 

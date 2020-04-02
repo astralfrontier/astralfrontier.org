@@ -7,7 +7,7 @@ tags:
   - twitter
 ---
     
-    # November 27 Twitter roundup
+
 
 https://twitter.com/lackingceremony/status/1191833644093997056
 

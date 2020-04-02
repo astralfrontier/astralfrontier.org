@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # Death By Misadventure
+
 
 You're a group of adventurers who died in a dungeon. Now you're the ghosts who haunt it.
 

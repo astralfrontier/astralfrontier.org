@@ -7,7 +7,7 @@ tags:
   - twitter
 ---
     
-    # December 18 Twitter roundup
+
 
 https://twitter.com/leftoblique/status/1207397685256310785
 

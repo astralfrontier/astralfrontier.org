@@ -10,7 +10,7 @@ tags:
   - tales of timberwind
 ---
     
-    # Recap: Tales of Timberwind
+
 
 For Sunday, we played [Tales of Timberwind](http://lumpley.com/index.php/window/installment/136), currently in early access. Given it's from the Baker clan, naturally it's a PBTA game.
 

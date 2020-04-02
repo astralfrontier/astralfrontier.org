@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Origins
+
 
 I've finished all the [role](https://astralfrontier.github.io/flip-a-card/tags/role) and [origin](https://astralfrontier.github.io/flip-a-card/tags/origin) cards, and wrote an article on what origins are about.
 

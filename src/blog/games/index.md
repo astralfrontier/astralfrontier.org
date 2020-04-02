@@ -6,7 +6,7 @@ description: 'The list of games I''m developing, or have developed'
 featuredImage: ./featured.jpg
 ---
     
-    # Games
+
 
 Links to the games I've created, or are developing and playtesting.
 

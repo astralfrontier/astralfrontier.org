@@ -8,8 +8,6 @@ tags:
   - convention
   - geekgirlcon
 ---
-    
-    # Back from GeekGirlCon
 
 I didn't spend much time there - barely two hours. There was a lot going on and I was in more pain than expected, so I hit the exhibition hall, bought some merch, and bailed.
 
@@ -21,7 +19,9 @@ I bought all their CDs (and gave them to roommates) along with some extra stuff.
 
 ![](/content/images/2019/11/IMG_20191117_140158-1.jpg)
 
-map[images:[map[src:/content/images/2019/11/IMG_20191117_124253.jpg fileName:IMG_20191117_124253.jpg row:%!s(float64=0) width:%!s(float64=4032) height:%!s(float64=3024)] map[fileName:IMG_20191117_123752.jpg row:%!s(float64=0) width:%!s(float64=4032) height:%!s(float64=3024) src:/content/images/2019/11/IMG_20191117_123752.jpg]]]
+![](/content/images/2019/11/IMG_20191117_124253.jpg)
+
+![](/content/images/2019/11/IMG_20191117_123752.jpg)
 
 I'm not going to post pictures of individual booths upstairs (as I was asked by one person "are you posting this online" and said no), but I got plenty of business cards and shared some of them with interested friends. Lots of neat art, books, and clothing options to be seen.
 

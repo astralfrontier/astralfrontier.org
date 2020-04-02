@@ -8,7 +8,7 @@ tags:
   - masks
 ---
     
-    # Unusual Masks playbook ideas
+
 
 ### Doomed
 

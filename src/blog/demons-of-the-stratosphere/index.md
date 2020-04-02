@@ -8,7 +8,7 @@ tags:
   - dream
 ---
     
-    # Demons of the Stratosphere
+
 
 On Earth, knowledge of the attack was kept isolated. As we drove to the marina, we saw signs up on the mountaintop, from protesters or other people announcing that the invasion was happening.
 

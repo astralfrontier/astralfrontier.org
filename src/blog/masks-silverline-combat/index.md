@@ -9,7 +9,7 @@ tags:
   - masks
 ---
     
-    # Masks: Silverline Combat
+
 
 I finished outlining issue 4 of Silverline, so far consisting of:
 

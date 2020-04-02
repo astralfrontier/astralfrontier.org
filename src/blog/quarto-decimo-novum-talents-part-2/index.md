@@ -11,7 +11,7 @@ tags:
   - genesys
 ---
     
-    # Quarto Decimo Novum: Talents Part 2
+
 
 ### New Talents (Tier 2)
 

@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Champions Lite Example Fight
+
 
 ### Example
 

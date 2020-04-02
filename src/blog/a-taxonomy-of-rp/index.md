@@ -10,7 +10,7 @@ tags:
   - palaver
 ---
     
-    # A Taxonomy of RP
+
 
 As my tabletop gaming experience has moved away from the traditional model, the way in which I experience the overall story of the game has become more diverse. Here are some ways I've engaged with a game, and the terms I use to describe it.
 

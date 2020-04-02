@@ -8,7 +8,7 @@ tags:
   - palaver
 ---
     
-    # What's an indie game?
+
 
 In conversation with a friend of mine, we got to the idea that some people won't play games unless they're "indie" enough, and the question came up, what does that mean?
 

@@ -9,7 +9,7 @@ tags:
   - fate
 ---
     
-    # Genesys Dice in Fate
+
 
 Gamers I know dislike Fate because of how you can "buy success" in the system, via aspect invocations and the like. With FFG's RPG division going down, and the future of Genesys in doubt, here's an option for using its dice system with Fate. Note that none of this is mathematically vetted! It might totally screw up the probabilities you'd expect. This is fine, it's a blog post at 2am.
 

@@ -8,7 +8,7 @@ tags:
   - masks
 ---
     
-    # Masks: more PA students
+
 
 **Bull**: "Wolf 359", inspired by [Kamen Rider](https://www.youtube.com/watch?v=x1K06DLwMMY) and [Birdy the Mighty](https://www.youtube.com/watch?v=fX1a3fWQ_D4). An ordinary high school student who was caught up in an alien event on Earth, and forcibly fused with an extraterrestrial. Now they fight together as one being, transforming, learning from each other, and struggling to make sense of the universe together.
 

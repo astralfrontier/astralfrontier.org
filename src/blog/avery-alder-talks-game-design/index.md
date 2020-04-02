@@ -6,7 +6,7 @@ tags:
   - game design diary
 ---
     
-    # Avery Alder talks game design
+
 
 https://twitter.com/lackingceremony/status/1191833644093997056?s=20
 

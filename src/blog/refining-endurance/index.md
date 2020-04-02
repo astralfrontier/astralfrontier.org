@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Refining Endurance
+
 
 Following a recent and very early [playtest](/champions-lite-playtesting/), I got plenty of good notes. The biggest ones were around how Endurance powers your traits. I'm going to talk about my design goals, then talk about options that might satisfy those goals.
 

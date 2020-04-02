@@ -4,7 +4,7 @@ title: Credits
 path: /credits
 ---
     
-    # Credits
+
 
 Galaxy spiral: [https://pixabay.com/vectors/galaxy-magical-adventure-spiral-1294347/](https://pixabay.com/vectors/galaxy-magical-adventure-spiral-1294347/)
 

@@ -8,7 +8,7 @@ tags:
   - palaver
 ---
     
-    # In Defense of Cutscenes
+
 
 I've played a lot of games over the years, both online and in real life. I've always appreciated the value of two players taking a subplot out of a normal session and playing it out, then incorporating it back into the larger group. I want to talk about why I do it, and why not everyone wants to do it.
 

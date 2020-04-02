@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Combat
+
 
 After a fight begins, what does it take to end it? Combat systems exist to answer that question. How does it work when all we can really count on is cards?
 

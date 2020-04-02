@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Authority part 2
+
 
 Imagine a flock of birds, flying in close formation. Or a painting being created by collective, with each color applied by a different person's brush.
 

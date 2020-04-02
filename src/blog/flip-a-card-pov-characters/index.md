@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: POV characters
+
 
 I'm thinking about writing cards with a more personal touch - adding flavor text for example. I don't want to necessarily commit to this, but let's say I did it. Whose perspective would we see these cards through?
 

@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Revised Encounters
+
 
 Previously I'd thought about doing two types of encounter cards: the "main" encounters, like "Kobold" or "Ogre", and the modifiers like "Large" and "Camp".
 

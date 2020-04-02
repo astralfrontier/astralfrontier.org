@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: The Dreamer
+
 
 https://twitter.com/astralfrontier/status/1212948376297193472
 

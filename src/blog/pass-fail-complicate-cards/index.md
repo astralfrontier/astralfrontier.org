@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # Pass-Fail-Complicate Cards
+
 
 One thing I like about Genesys is the six-outcome system: you can generate success, failure, triumph, despair, advantage, and trouble off the dice, and once you learn to read the tea leaves, it flows easily.
 

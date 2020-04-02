@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # The Wake as PBTA game
+
 
 I've been asked to take my game setting, "The Wake", and turn it into a PBTA game. While many people I've gamed with will probably assume this means "moves, playbooks, and 2d6", I don't think it has to, and I've got the author's own words to back me up.
 

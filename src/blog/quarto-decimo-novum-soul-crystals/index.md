@@ -10,7 +10,7 @@ tags:
   - genesys
 ---
     
-    # Quarto Decimo Novum: Soul Crystals
+
 
 > This is an early draft of how soul crystals and jobs might work. This material is probably subject to change.
 

@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # Typesetting RPGs with TeX
+
 
 [TeX](https://www.tug.org/begin.html) is something I've known _about_ for years and years. It's one of those terms you heard about in the 90s if you were working with Unix systems. But I don't _know_ TeX. For Flip-a-Card, and other game publishing needs, I'm starting to think I should learn it.
 

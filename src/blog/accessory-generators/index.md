@@ -8,7 +8,7 @@ tags:
   - gm tools
 ---
     
-    # Accessory Generator
+
 
 Roll 1d10 twice. You now have a (Modifier) (Item). Interpret results creatively. For low magic, roll 1d6. For moderate magic, roll 1d8. For high magic, 1d10.
 

@@ -8,7 +8,7 @@ tags:
   - gm tools
 ---
     
-    # Using the GURPS Mashup Tool
+
 
 I wrote [this tool](http://peppermile.com/tools/gurps/mashup.html) a few years ago to randomly combine multiple GURPS worldbooks, as a prompt for creating new campaigns. Here's a few spins of the dice, and a brief outline of what I'd do with the combination.
 

@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # New designs for Inept Sorcerers
+
 
 I have three ways forward with Inept Sorcerers. Two of them are things I can do on my own. The third I'd need an artist's help with, or at least a lot of trial and error.
 

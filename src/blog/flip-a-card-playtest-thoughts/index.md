@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Playtest Thoughts
+
 
 See [part 1](/flip-a-card-solo-playtest-part-1/) and [part 2](/flip-a-card-solo-playtest-part-2/) for the actual recap. In no particular order:
 

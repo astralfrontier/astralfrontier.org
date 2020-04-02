@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # Game Settings Rundown
+
 
 If given free rein to run any setting or world of my choice, for a group of invested players, what would I run? It goes by genre.
 

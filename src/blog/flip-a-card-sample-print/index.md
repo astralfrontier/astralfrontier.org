@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Proofs
+
 
 That's how they look, hot off the press of my OfficeJet 8600 Pro.
 

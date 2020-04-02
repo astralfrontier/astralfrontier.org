@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Deck Contents
+
 
 To create a solid playable game using the flip-a-card system, I'd probably want about 70 cards, broken down more or less like this:
 

@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: More TeX!
+
 
 I've put some time into learning TeX, starting with using [Pandoc](https://pandoc.org/) to output TeX from HTML. With some massaging, research, and experimentation, I've got a sample card that looks like this:
 

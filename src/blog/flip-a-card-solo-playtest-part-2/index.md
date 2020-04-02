@@ -9,7 +9,7 @@ tags:
   - game design diary
 ---
     
-    # Flip-a-Card: Solo Playtest part 2
+
 
 When we [last left Lee](/flip-a-card-solo-playtest-part-1/), the Easterner was boarding a barge. Lee's Wits and Easterner cards are flipped.
 

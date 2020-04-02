@@ -11,7 +11,7 @@ tags:
   - game design diary
 ---
     
-    # Quarto Decimo Novum: Introduction
+
 
 I love the world of [Final Fantasy XIV](https://www.finalfantasyxiv.com/). I've been playing it for years, and for all that time, the story has continued to be interesting, with twists and turns and shocks and surprises, but always rooted in an essential humanity and goodness. Even the latest expansion, "Shadowbringers", casts you as the Warrior of Darkness - but [Dark is not Evil](https://tvtropes.org/pmwiki/pmwiki.php/Main/DarkIsNotEvil).
 

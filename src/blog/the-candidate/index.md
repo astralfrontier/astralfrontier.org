@@ -8,7 +8,7 @@ tags:
   - game design diary
 ---
     
-    # The Candidate
+
 
 "For the Queen" has an [SRD](https://forthequeengame.com/srd). I didn't have any really stand-out ideas for this until tonight:
 
