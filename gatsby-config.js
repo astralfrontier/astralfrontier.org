@@ -66,13 +66,13 @@ module.exports = {
     {
       resolve: "gatsby-plugin-categories",
       options: {
-        templatePath: `${__dirname}/src/templates/category.js`,
+        templatePath: `${__dirname}/src/templates/category.tsx`,
       },
     },
     {
       resolve: "gatsby-plugin-tags",
       options: {
-        templatePath: `${__dirname}/src/templates/tag.js`,
+        templatePath: `${__dirname}/src/templates/tag.tsx`,
       },
     },
     {

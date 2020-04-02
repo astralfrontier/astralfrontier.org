@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: astralfrontier/gatsby-blog-template
+  repo: astralfrontier/astralfrontier.org
 media_folder: static/assets
 public_folder: /assets
 collections:
