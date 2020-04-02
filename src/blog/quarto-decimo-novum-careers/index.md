@@ -1,0 +1,87 @@
+---
+date: '2019-11-20T02:23:22.000Z'
+title: 'Quarto Decimo Novum: Careers'
+path: /quarto-decimo-novum-careers
+description: Character careers for adventurers of all kinds
+featuredImage: ./featured.jpg
+tags:
+  - quarto decimo novum
+  - game design diary
+  - ffxiv
+  - genesys
+---
+    
+    # Quarto Decimo Novum: Careers
+
+These are the careers available for starting characters. These are not the final "jobs" (e.g. Paladin, Black Mage, Scholar) - those will be introduced in a separate post.
+
+### Disciples of War and Magic
+
+These careers specialize in combat.
+
+map[images:[map[height:%!s(float64=64) src:/content/images/2019/11/sp5mrWVjVxTfzVZbsKE0YJlLx0.png fileName:sp5mrWVjVxTfzVZbsKE0YJlLx0.png row:%!s(float64=0) width:%!s(float64=64)] map[row:%!s(float64=0) src:/content/images/2019/11/wCYPhfqOddtXkUkBQf6_7eWUjc.png width:%!s(float64=64) height:%!s(float64=64) fileName:wCYPhfqOddtXkUkBQf6_7eWUjc.png] map[src:/content/images/2019/11/eaJatBZQrhQOU3V6FBnuxzR4iU.png width:%!s(float64=64) height:%!s(float64=64) fileName:eaJatBZQrhQOU3V6FBnuxzR4iU.png row:%!s(float64=0)]]]
+
+### Arcanist
+
+Intellectual magic-users who shape their own aether with mystic geometry, assisted by occult tomes called grimoires. They specialize in summoning magic. In Limsa Lominsa, they inspect cargoes coming into or out of the city. **Skills**: Arcane Aether, Cool, Knowledge (Aether), Knowledge (History), Medicine, Negotiation, Perception, Streetwise.
+
+### Archer
+
+Hunters, sentries, and soldiers in the Twelveswood, specializing in the bow. Many archers serve with the Wood Wailers of Gridania, while others are independent. **Skills**: Charm, Cool, Coordination, Deception, Knowledge (Nature), Ranged, Stealth, Vigilance.
+
+### Conjurer
+
+Masters of healing magic, conjurers are the protectors and healers of Gridania. They mediate between the elemental spirits and the spoken races of the Twelveswood. **Skills**: Charm, Conjury Aether, Knowledge (Aether), Knowledge (Nature), Medicine, Negotiation, Perception, Survival.
+
+map[images:[map[fileName:Jk768MD2Ejd7XopHym7bnXJTWg.png row:%!s(float64=0) width:%!s(float64=400) height:%!s(float64=400) src:/content/images/2019/11/Jk768MD2Ejd7XopHym7bnXJTWg-1.png] map[fileName:8yYujJqsxOUYkOkAU8VauXyQNg.png row:%!s(float64=0) width:%!s(float64=64) height:%!s(float64=64) src:/content/images/2019/11/8yYujJqsxOUYkOkAU8VauXyQNg-1.png] map[fileName:hHGPApK849prbuKia2EFZ6Y6Cs.png row:%!s(float64=0) width:%!s(float64=64) height:%!s(float64=64) src:/content/images/2019/11/hHGPApK849prbuKia2EFZ6Y6Cs-1.png]]]
+
+### Gladiator
+
+Battle-hardened fighters who hone their skills in the arenas of Ul'Dah. A successful gladiator is more than a warrior: they are a performer and charmer as well, who must win over the crowd as well as their opponent. **Skills**: Athletics, Charm, Deception, Leadership, Melee, Resilience, Streetwise, Vigilance.
+
+### Lancer
+
+Wielders of the spear, halberd, trident, and other polearms. Composure and resolve are their virtues. Lancers often serve as the offensive arm of the Wood Wailers, wearing heavy armor on the front lines, protecting the Twelveswood from bandits and hostile beast tribes. **Skills**: Athletics, Cool, Discipline, Melee, Perception, Resilience, Survival, Vigilance.
+
+### Marauder
+
+The rough-and-tumble protectors of peace in Limsa Lominsa. Many are former pirates, with skills to match, while others are brutal slayers given gainful employment. **Skills**: Athletics, Coercion, Cool, Melee, Negotiation, Resilience, Streetwise, Vigilance.
+
+map[images:[map[fileName:eFLTJj757yr7EFtZTtew4nL0nk.png row:%!s(float64=0) width:%!s(float64=64) height:%!s(float64=64) src:/content/images/2019/11/eFLTJj757yr7EFtZTtew4nL0nk-1.png] map[fileName:4ogkA8yk-ntmuqc-yaad4iJ3cQ.png row:%!s(float64=0) width:%!s(float64=64) height:%!s(float64=64) src:/content/images/2019/11/4ogkA8yk-ntmuqc-yaad4iJ3cQ-1.png] map[fileName:qe5SQjWAk8dVGAScWycVflA5pg.png row:%!s(float64=0) width:%!s(float64=64) height:%!s(float64=64) src:/content/images/2019/11/qe5SQjWAk8dVGAScWycVflA5pg-1.png]]]
+
+### Pugilist
+
+Unarmed combat specialists, who can fight anywhere, even without visible weapons. They specialize in personal development, but also sell their skills to people who need bodyguards or escorts - both useful in the desert city of Ul'dah. **Skills**: Athletics, Brawl, Cool, Coordination, Discipline, Stealth, Survival, Vigilance.
+
+### Rogue
+
+The secret enforcers of the pirate's code in Limsa Lominsa, rogues also pursue criminals across La Noscea and the rest of the world. They blend in, watching, shadowing, and striking with twin knives when the time is right. **Skills**: Coordination, Deception, Melee, Perception, Skulduggery, Stealth, Streetwise, Vigilance.
+
+### Thaumaturge
+
+Masters of destructive elemental magic. Their propensity for violence and their studies of questionable sorcery make them targets for suspicion, but their power is universally respected. **Skills**: Coercion, Cool, Darkness Aether, Knowledge (Aether), Knowledge (History), Magitek, Ranged, Vigilance.
+
+### Non-Combat Careers
+
+These are not typical adventurers' careers, but might still be interesting and fun to play.
+
+### Disciple of the Hand
+
+A creator: a leatherworker, culinarian, blacksmith, weaver, and so on. Although their chief pursuit is synthesis, they are skilled at staying out of trouble in a dangerous world. **Skills**: Athletics, Knowledge (Nature), Medicine, Negotiation, Perception, Stealth, Survival, Synthesis.
+
+### Ironworks Engineer
+
+A specialist who works with Allagan and Garlean magitek, building new devices, arms, and armor in the service of Eorzea. Some work for Garlond Ironworks, while others are Garlean exiles or independent researchers. **Skills**: Brawl, Discipline, Driving, Gunnery, Magitek, Operating, Piloting, Synthesis.
+
+Changes:
+
+* 2019-12-05: added Negotiation to Marauder skills
+* 2019-11-30: changed Pugilist career skill Martial Aether to Coordination
+* 2019-11-28: changed Marauder career skill Discipline to Cool
+
+Image sources and credits:
+
+* The banner image and icons are from the [FFXIV Fan Kit](https://na.finalfantasyxiv.com/lodestone/special/fankit/twitter_kit/)
+
+
+    
