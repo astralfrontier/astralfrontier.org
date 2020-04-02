@@ -37,8 +37,16 @@ export const pageQuery = graphql`
           excerpt
           timeToRead
           frontmatter {
-            title
             date(formatString: "MMM D YYYY")
+            title
+            description
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 600, maxHeight: 300) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
