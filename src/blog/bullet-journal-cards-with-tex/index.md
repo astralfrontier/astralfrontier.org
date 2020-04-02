@@ -67,7 +67,7 @@ This isn't perfect yet - the text isn't aligned properly in the horizontal, isn'
 
 The result:
 
-![The font is much, much more legible than my handwriting](/content/images/2020/02/IMG_20200212_224306.jpg)
+![The font is much, much more legible than my handwriting](IMG_20200212_224306.jpg)
 
 
 

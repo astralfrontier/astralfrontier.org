@@ -11,11 +11,11 @@ tags:
 
 More on the bullet journals I use, and where I store them!
 
-![The shelf near my door - easy access to notebooks, RPG books, and the like](/content/images/2019/11/IMG_20191113_231052-3.jpg)
+![The shelf near my door - easy access to notebooks, RPG books, and the like](IMG_20191113_231052-3.jpg)
 
-![Colored pens, pencils, highlighters, stencils, and washi tape](/content/images/2019/11/IMG_20191113_234602.jpg)
+![Colored pens, pencils, highlighters, stencils, and washi tape](IMG_20191113_234602.jpg)
 
-![A spiral-bound dot ruled journal, and the journal for Sunday D&amp;D](/content/images/2019/11/IMG_20191113_234805.jpg)
+![A spiral-bound dot ruled journal, and the journal for Sunday D&amp;D](IMG_20191113_234805.jpg)
 
 For plain old 3-ring binders, I haven't bought one of these yet but I'd like to.
 

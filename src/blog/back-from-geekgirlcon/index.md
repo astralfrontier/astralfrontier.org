@@ -17,11 +17,11 @@ https://www.thedoubleclicks.com/
 
 I bought all their CDs (and gave them to roommates) along with some extra stuff. They were a blast and I recommend anyone interested in nerditry and music to check them out.
 
-![](/content/images/2019/11/IMG_20191117_140158-1.jpg)
+![](IMG_20191117_140158-1.jpg)
 
-![](/content/images/2019/11/IMG_20191117_124253.jpg)
+![](IMG_20191117_124253.jpg)
 
-![](/content/images/2019/11/IMG_20191117_123752.jpg)
+![](IMG_20191117_123752.jpg)
 
 I'm not going to post pictures of individual booths upstairs (as I was asked by one person "are you posting this online" and said no), but I got plenty of business cards and shared some of them with interested friends. Lots of neat art, books, and clothing options to be seen.
 

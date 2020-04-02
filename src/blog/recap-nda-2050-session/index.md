@@ -21,9 +21,9 @@ So began a Kafka Lite cyberpunk noir adventure. Things started slowly and ramped
 * Vision tried to hack himself a RoboLAM account to investigate. This triggered the expected cyberpunk megacorp response squad, prompting the team to leave their office. But the response squad didn't come to murder everyone. They picked the lock of the detectives' office, answered calls while the PCs were out, and even made coffee. It was very calm.
 * Investigation into likely parties (and the need to evacuate the office) led the PCs to a [PC bang](https://en.wikipedia.org/wiki/PC_bang) called "The Waterfall" - but not a physical one. The decorations, signs, and entertainment only existed in augmented reality. Real drinks were available, but basically it was a [temporary autonomous zone](https://en.wikipedia.org/wiki/Temporary_Autonomous_Zone) parked in the equivalent of LA's sewer system. The reason why it was there? There was an exposed fiber-optic trunk that the owners tapped into, to let the gamers play.
 
-![](/content/images/2019/11/Korean.culture-PC.bang-01.jpg)
+![](Korean.culture-PC.bang-01.jpg)
 
-![](/content/images/2019/11/640px-Los_Angeles_River_Bridge_B-W.jpg)
+![](640px-Los_Angeles_River_Bridge_B-W.jpg)
 
 * Vision jumped into RoboLAM from the gaming space to find people setting up advertising and a party around the corpse of Ms. Kitty's avatar, and talked to one spectator. During that time he spotted an anomalous observer on the scene - someone already in the physical space with them. This was Fanta Boy, so named for his preferred online endorsement. Granger shook him down, and learned that a rival megacorp, and the Mob, were trying to muscle popular gamers away from RoboLAM.
 * Drones appeared! Rather than shooting deadly bullets, they fired paintball pellets with DMSO and a soporific drug. Vision hid himself behind a growing pile of unconscious teenage gamers, and Granger's revolver picked off the drones. Vision tracked down their controller, standing nearby, and the pair ran him down.

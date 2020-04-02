@@ -15,11 +15,11 @@ tags:
 
 Here's a sample character: [Ardbert](https://finalfantasy.fandom.com/wiki/Ardbert), a young Marauder on a mission. He is a natural, compulsive hero, and can't stop helping people, even when it puts him in danger.
 
-![](/content/images/2019/12/a1-1.jpg)
+![](a1-1.jpg)
 
-![](/content/images/2019/12/a2-1.jpg)
+![](a2-1.jpg)
 
-![](/content/images/2019/12/a3.jpg)
+![](a3.jpg)
 
 Image sources and credits:
 

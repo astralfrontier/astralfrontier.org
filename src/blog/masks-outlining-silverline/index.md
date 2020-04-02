@@ -17,7 +17,7 @@ As of issue 3, I've been outlining the script first. The outline for issue 3 can
 
 The end of the process looks like this:
 
-![](/content/images/2019/12/2019-12-16--1--1.png)
+![](2019-12-16--1--1.png)
 
 Click on the link to read the story:
 

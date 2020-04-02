@@ -9,13 +9,13 @@ tags:
 
 I did some work on supplementing my D&D bullet journal with printed sheets, instead of 4x6 cards, using a paper cutter. I used a glue stick to adhere it to the page. Here's what it looks like.
 
-![](/content/images/2020/02/IMG_20200228_231918-1.jpg)
+![](IMG_20200228_231918-1.jpg)
 
 And here's a "zine" style printed RPG.
 
-![](/content/images/2020/02/IMG_20200229_004204.jpg)
+![](IMG_20200229_004204.jpg)
 
-![](/content/images/2020/02/IMG_20200229_004215.jpg)
+![](IMG_20200229_004215.jpg)
 
 
 

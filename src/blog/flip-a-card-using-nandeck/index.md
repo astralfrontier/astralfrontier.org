@@ -15,7 +15,7 @@ I found the free [nanDECK](http://www.nand.it/nandeck/) software (and tipped via
 
 I started with a Google Sheet document for some condition cards, found [here](https://drive.google.com/open?id=1UtVEvYOGJw5yFUugdXLwpXIJ3qEorw5V1rS81YkKj3Y). Alt-enter and copy-pasting the Unicode bullet character let me do quick and easy multi-line text, although nanDECK does support HTML.
 
-![](/content/images/2019/12/2019-12-20--1--1.png)
+![](2019-12-20--1--1.png)
 
 The cards are given in front-back-front-back order, for reasons I'll get to in a moment. In addition to these columns, there's a "custom rules" column I haven't used yet.
 
@@ -49,17 +49,17 @@ I used the SVG version of the icons to avoid artifacting on resize. To do this, 
 
 The resulting PDF can be found [here](https://drive.google.com/open?id=1oklvUHcNk3W8opVDMIla2qJCK9vRlK8D).
 
-![](/content/images/2019/12/Talispire-1-1.png)
+![](Talispire-1-1.png)
 
-![](/content/images/2019/12/Talispire-2-1.png)
+![](Talispire-2-1.png)
 
-![](/content/images/2019/12/Talispire-3.png)
+![](Talispire-3.png)
 
-![](/content/images/2019/12/Talispire-4.png)
+![](Talispire-4.png)
 
-![](/content/images/2019/12/Talispire-7-1.png)
+![](Talispire-7-1.png)
 
-![](/content/images/2019/12/Talispire-8-1.png)
+![](Talispire-8-1.png)
 
 An important goal of this process is to make cards that don't look too good. If that's surprising, it's because I want to encourage people to create cards at their own table, and if they compare their hand-written custom cards to the "official ones", I want them to look pretty similar.
 

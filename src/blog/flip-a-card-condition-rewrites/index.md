@@ -11,11 +11,11 @@ tags:
 
 The cards are online here: [https://astralfrontier.github.io/flip-a-card/tags/condition](https://astralfrontier.github.io/flip-a-card/tags/condition)
 
-![](/content/images/2020/01/cards-01.png)
+![](cards-01.png)
 
-![](/content/images/2020/01/cards-03-1.png)
+![](cards-03-1.png)
 
-![](/content/images/2020/01/cards-05.png)
+![](cards-05.png)
 
 These are the top-side cards, representing a lesser version of the condition.
 

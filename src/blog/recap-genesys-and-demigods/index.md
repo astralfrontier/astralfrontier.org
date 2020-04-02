@@ -23,7 +23,7 @@ Here's what they came up with for a world: "Neon Detective Agency 2050", a Kafka
 
 The players gave me two PCs: Marcus Granger, a 43-year-old cyborg bounty hunter, and Vision, a 24-year-old hacker. I joked that the players gave me [Spike and Jet](https://www.deviantart.com/macerider/art/Cowboy-Bebop-Spike-and-Jet-452476474), but effectively that's what they came up with.
 
-![](/content/images/2019/11/20087822240_6583fdc9f6_b.jpg)
+![](20087822240_6583fdc9f6_b.jpg)
 
 We'll run the actual session this Monday, which will probably start with the murder of some e-sports figure's online avatar, and see where that goes!
 

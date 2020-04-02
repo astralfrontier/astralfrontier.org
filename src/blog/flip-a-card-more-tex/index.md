@@ -12,7 +12,7 @@ tags:
 
 I've put some time into learning TeX, starting with using [Pandoc](https://pandoc.org/) to output TeX from HTML. With some massaging, research, and experimentation, I've got a sample card that looks like this:
 
-![](/content/images/2020/01/document-1-1.png)
+![](document-1-1.png)
 
 The input to that looks like this:
 

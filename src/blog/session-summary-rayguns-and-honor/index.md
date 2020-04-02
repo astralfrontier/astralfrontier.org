@@ -24,11 +24,11 @@ Racing back to Camelot with a rescued captive in tow, we crash in a section of j
 
 The biggest danger in the place is the horde of genetic horrors created by magical manipulation. We sneak past some in an underground forest area, but encounter a test chamber apparently meant to test agility: platforms suspended over water.
 
-![](/content/images/2019/11/hqdefault.jpg)
+![](hqdefault.jpg)
 
 The good news: it's not hard to get to a big central platform that's more stable than others. The bad news: there's bat people.
 
-![](/content/images/2019/11/389px-1836_the-great-moon-hoax-new-inhabitants-of-the-moon.png)
+![](389px-1836_the-great-moon-hoax-new-inhabitants-of-the-moon.png)
 
 In the first exchange, Sir Bedevere fended off the bats but lost his sword in the water. Dart threw him her sword, then dived into the water to retrieve it. Bedevere wore down the bats with wounds, and Luffadon and Simon both did damage in their own style. Several of the rolls didn't succeed, but the characters making the attempt were able to pass bonuses to other characters. Even Dart, who didn't strike a single blow against the enemies, contributed by arming the knight and turning on the chamber's floodlights, which inflicted a penalty on the bats.
 

@@ -35,7 +35,7 @@ This is the one I don't feel qualified to do, but I feel would be the most fun.
 
 The idea is that there'd be several diagrams, from simple to highly complex, with "nodes" or "focal points" at various points along a series of lines.
 
-![](/content/images/2020/02/487px-Key_of_Solomon_magic_circle.jpg)
+![](487px-Key_of_Solomon_magic_circle.jpg)
 
 The idea is that you'd put down tokens for magic effects at these nodes, and follow a trail from start to end to see what your spell does. There'd be rules, like "all nodes must be full", and no diagram would ever be quite simple enough to make an easy spell happen. Individual nodes might also have constraints on them (e.g. "no celestial elements" or "no nouns"), providing a sort of game-board experience.
 
