@@ -1,3 +1,4 @@
+import React from "react"
 import { navigate } from "gatsby"
 import Pagination from "react-bootstrap/Pagination"
 

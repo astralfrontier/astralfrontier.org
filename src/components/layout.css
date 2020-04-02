@@ -2,6 +2,10 @@
   padding-top: 60px;
 }
 
+footer {
+  padding-bottom: 60px;
+}
+
 blockquote {
   border-left: solid gray;
   font-style: italic;
