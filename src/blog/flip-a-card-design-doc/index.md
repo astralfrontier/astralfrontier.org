@@ -4,6 +4,7 @@ title: Flip-a-Card Design Doc
 path: /flip-a-card-design-doc
 description: 'A hack of a hack of a hack, coming back to life (maybe)'
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

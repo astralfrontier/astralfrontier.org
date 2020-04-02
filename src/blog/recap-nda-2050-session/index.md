@@ -4,6 +4,7 @@ title: 'Recap: NDA 2050 session'
 path: /recap-nda-2050-session
 description: The Neon Detective Agency 2050 session summary
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - genesys

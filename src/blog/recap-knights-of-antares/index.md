@@ -4,6 +4,7 @@ title: 'Recap: Knights of Antares'
 path: /recap-knights-of-antares
 description: A sci-fi one-shot using Genesys
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
 ---

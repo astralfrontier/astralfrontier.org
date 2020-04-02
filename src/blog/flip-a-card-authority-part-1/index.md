@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Authority part 1'
 path: /flip-a-card-authority-part-1
 description: Assorted thoughts on authority and delegation
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

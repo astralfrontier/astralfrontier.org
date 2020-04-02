@@ -4,6 +4,7 @@ title: 'Quarto Decimo Novum: Archetypes'
 path: /quarto-decimo-novum-archetypes
 description: Eorzean racial archetypes
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - game design diary

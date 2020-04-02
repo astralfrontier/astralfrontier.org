@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Task Resolution'
 path: /flip-a-card-task-resolution
 description: 'What are some ways to handle task resolution, success/failure, etc.?'
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

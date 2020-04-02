@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Automation'
 path: /flip-a-card-automation
 description: Automating the card pipeline with YAML and Node.js
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

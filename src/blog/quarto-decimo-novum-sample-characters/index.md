@@ -4,6 +4,7 @@ title: 'Quarto Decimo Novum: Sample Characters'
 path: /quarto-decimo-novum-sample-characters
 description: Sample characters using the provided rules
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - game design diary

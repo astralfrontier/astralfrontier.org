@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Core Rules'
 path: /flip-a-card-core-rules
 description: What are some of the core rules for a flip-a-card game?
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

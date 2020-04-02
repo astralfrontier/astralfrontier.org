@@ -4,6 +4,7 @@ title: 'Recap: Assault on the March Keep!'
 path: /recap-assault-on-the-march-keep
 description: The Sunday Genesys group defends a castle from magical attack
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - genesys

@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Oracles'
 path: /flip-a-card-oracles
 description: Ideas for new cards to keep the game running
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

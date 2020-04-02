@@ -4,6 +4,7 @@ title: 'Recap: Tales of Timberwind'
 path: /recap-tales-of-timberwind
 description: 'Tales of Timberwind, an early-release game from the Baker clan'
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - pbta

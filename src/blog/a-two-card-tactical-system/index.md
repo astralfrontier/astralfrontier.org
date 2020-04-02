@@ -4,6 +4,7 @@ title: A two-card tactical system
 path: /a-two-card-tactical-system
 description: Early noodling on what a card-based tactical system might look like
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
 ---

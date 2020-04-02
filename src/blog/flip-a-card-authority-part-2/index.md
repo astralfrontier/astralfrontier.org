@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Authority part 2'
 path: /flip-a-card-authority-part-2
 description: 'Vision, flocks, painting, and sockets'
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

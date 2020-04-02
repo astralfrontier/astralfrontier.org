@@ -3,6 +3,7 @@ date: '2019-11-30T08:17:21.000Z'
 title: 'Quarto Decimo Novum: Soul Crystals'
 path: /quarto-decimo-novum-soul-crystals
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - game design diary

@@ -4,6 +4,7 @@ title: More Witch+Craft
 path: /more-witch-craft
 description: 'Ways to determine base materials in Witch+Craft, and how to team up'
 featuredImage: ./featured.jpg
+category: dungeons and dragons
 tags:
   - dungeons and dragons
 ---

@@ -4,6 +4,7 @@ title: 'Flip-a-Card: GM roles'
 path: /flip-a-card-gm-roles
 description: Slicing up the GM role and serving it four ways.
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
 ---

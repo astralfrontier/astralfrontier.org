@@ -4,6 +4,7 @@ title: 'Quarto Decimo Novum: Introduction'
 path: /quarto-decimo-novum-introduction
 description: Building an FFXIV fan game in Genesys
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - genesys

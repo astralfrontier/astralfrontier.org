@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Revised Encounters'
 path: /flip-a-card-revised-encounters
 description: 'How to create encounters, going forward'
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

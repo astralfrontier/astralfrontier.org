@@ -4,12 +4,11 @@ title: 'Flip-a-Card: Using nanDECK'
 path: /flip-a-card-using-nandeck
 description: How I used nanDECK to quickly lay out some cards for this game
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary
 ---
-    
-
 
 I found the free [nanDECK](http://www.nand.it/nandeck/) software (and tipped via PayPal) after some searching. I also found [this](https://www.dylanwolf.com/2014/08/08/prototyping-a-card-game-with-nandeck-part-1/) three-part series by Dylan Wolf, who put a lot more time into this than I did. That time investment, plus nanDECK's own fantastic manual, got me up and running very quickly.
 

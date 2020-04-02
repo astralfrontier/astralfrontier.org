@@ -4,6 +4,7 @@ title: 'Quarto Decimo Novum: Careers'
 path: /quarto-decimo-novum-careers
 description: Character careers for adventurers of all kinds
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - game design diary

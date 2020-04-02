@@ -4,6 +4,7 @@ title: 'Flip-a-Card: the Challenge Economy'
 path: /flip-a-card
 description: How is flip-a-card intended to work with pacing and difficulty?
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

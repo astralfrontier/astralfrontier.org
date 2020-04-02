@@ -4,6 +4,7 @@ title: 'Quarto Decimo Novum: Job Weapons'
 path: /quarto-decimo-novum-job-weapons
 description: What are the iconic weapons and armor of the various classes and jobs?
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - game design diary

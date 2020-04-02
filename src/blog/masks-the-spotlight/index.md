@@ -4,6 +4,7 @@ title: 'Masks: the Spotlight'
 path: /masks-the-spotlight
 description: How writing Silverline has helped me learn about the spotlight
 featuredImage: ./featured.jpg
+category: silverline
 tags:
   - silverline
   - pbta

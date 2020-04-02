@@ -6,6 +6,7 @@ description: >-
   Cutscenes, recaps, and PBP - what am I talking about when I talk about the act
   of playing a game?
 featuredImage: ./featured.jpg
+category: palaver
 tags:
   - palaver
 ---

@@ -3,9 +3,10 @@ date: '2020-01-11T05:26:18.000Z'
 title: A shipping filk
 path: /a-shipping-filk
 featuredImage: ./featured.jpg
+category: palaver
+tags:
+  - filk
 ---
-    
-
 
 With friendships for PCs and things,
 

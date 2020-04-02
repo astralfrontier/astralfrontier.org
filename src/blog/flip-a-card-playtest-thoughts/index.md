@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Playtest Thoughts'
 path: /flip-a-card-playtest-thoughts
 description: What did this little playtest tell me?
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

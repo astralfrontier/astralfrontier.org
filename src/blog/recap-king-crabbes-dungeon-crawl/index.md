@@ -4,6 +4,7 @@ title: 'Recap: King Crabbe''s Dungeon Crawl'
 path: /recap-king-crabbes-dungeon-crawl
 description: The second half of an Arthurian/Flash Gordon dungeon crawl
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - genesys

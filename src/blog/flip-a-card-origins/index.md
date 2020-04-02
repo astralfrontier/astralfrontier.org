@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Origins'
 path: /flip-a-card-origins
 description: An explanation of culture vs. heritage vs. species in the game
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

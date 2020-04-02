@@ -4,6 +4,7 @@ title: 'Recap: City of Mist and Demigods'
 path: /recap-city-of-mist-and-demigods
 description: A day of mystery and divinity
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - pbta

@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Authority part 3'
 path: /flip-a-card-authority-part-3
 description: 'Putting spotlight, vision, and tools together'
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

@@ -4,6 +4,7 @@ title: 'Recap: Demigods Session 1'
 path: /recap-demigods-session-1
 description: How did my first session go?
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - demigods

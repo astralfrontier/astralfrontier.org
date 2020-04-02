@@ -4,6 +4,7 @@ title: 'Recap: Dungeon World'
 path: /recap-dungeon-world
 description: A quick one-shot of Dungeon World
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - pbta

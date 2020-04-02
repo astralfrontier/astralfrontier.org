@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Proofs'
 path: /flip-a-card-sample-print
 description: How did the cards turn out?
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

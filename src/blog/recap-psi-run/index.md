@@ -4,6 +4,7 @@ title: 'Recap: Psi*Run'
 path: /recap-psi-run
 description: 'A one-shot of Psi*Run, a "special people chased by the Man" RPG'
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - psi*run

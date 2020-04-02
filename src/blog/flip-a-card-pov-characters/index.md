@@ -4,6 +4,7 @@ title: 'Flip-a-Card: POV characters'
 path: /flip-a-card-pov-characters
 description: Who are the possible POV characters for rewriting card text with flavor?
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

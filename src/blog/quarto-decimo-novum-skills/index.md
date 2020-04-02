@@ -4,6 +4,7 @@ title: 'Quarto Decimo Novum: Skills'
 path: /quarto-decimo-novum-skills
 description: The core Genesys skills for player characters
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - game design diary

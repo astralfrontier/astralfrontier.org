@@ -4,6 +4,7 @@ title: 'Masks: Silverline'
 path: /masks-silverline
 description: Using Masks as a solo game engine
 featuredImage: ./featured.jpg
+category: silverline
 tags:
   - silverline
   - pbta

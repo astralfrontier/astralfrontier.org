@@ -4,6 +4,7 @@ title: 'Masks: Silverline Combat'
 path: /masks-silverline-combat
 description: How staging combat in a solo game is working out
 featuredImage: ./featured.jpg
+category: silverline
 tags:
   - silverline
   - masks

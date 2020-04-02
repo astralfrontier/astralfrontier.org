@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Character Card Preview'
 path: /flip-a-card-character-card-preview
 description: What are the character cards I'm creating for the playtest deck?
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

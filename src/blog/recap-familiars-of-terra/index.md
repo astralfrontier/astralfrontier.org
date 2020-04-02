@@ -4,6 +4,7 @@ title: 'Recap: Familiars of Terra'
 path: /recap-familiars-of-terra
 description: A birthday game in a Poke'mon-esque solarpunk world
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - familiars of terra

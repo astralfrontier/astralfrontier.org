@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Condition rewrites'
 path: /flip-a-card-condition-rewrites
 description: 'What do the new condition cards look like, now that they got reviewed?'
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

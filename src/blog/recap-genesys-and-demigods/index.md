@@ -4,6 +4,7 @@ title: 'Recap: Genesys and Demigods'
 path: /recap-genesys-and-demigods
 description: Neon detectives and Greek demigods
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - pbta

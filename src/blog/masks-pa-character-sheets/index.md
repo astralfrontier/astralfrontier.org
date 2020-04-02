@@ -4,6 +4,7 @@ title: Masks PA character sheets
 path: /masks-pa-character-sheets
 description: 'Stats for three of the character ideas from earlier: Mezmer, Rivet, and Tag'
 featuredImage: ./featured.jpg
+category: masks
 tags:
   - masks
 ---

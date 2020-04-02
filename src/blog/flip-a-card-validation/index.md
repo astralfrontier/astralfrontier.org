@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Validation'
 path: /flip-a-card-validation
 description: What do the character cards look like when combined? A work in progress.
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

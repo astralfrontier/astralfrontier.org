@@ -4,6 +4,7 @@ title: 'Masks: Outlining Silverline'
 path: /masks-outlining-silverline
 description: What does the process look like for creating the Silverline stories?
 featuredImage: ./featured.jpg
+category: silverline
 tags:
   - silverline
   - masks

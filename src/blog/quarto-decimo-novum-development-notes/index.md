@@ -4,6 +4,7 @@ title: 'Quarto Decimo Novum: Development Notes'
 path: /quarto-decimo-novum-development-notes
 description: 'Brief notes on upcoming system design, and a pause for thought'
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - game design diary

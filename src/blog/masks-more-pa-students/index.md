@@ -4,6 +4,7 @@ title: 'Masks: more PA students'
 path: /masks-more-pa-students
 description: Some late-comers to the PA party
 featuredImage: ./featured.jpg
+category: masks
 tags:
   - masks
 ---

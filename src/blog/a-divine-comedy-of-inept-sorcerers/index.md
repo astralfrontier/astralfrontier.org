@@ -4,6 +4,7 @@ title: A Divine Comedy of Inept Sorcerers
 path: /a-divine-comedy-of-inept-sorcerers
 description: A sweet story about candy pirates and errant magic
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - inept sorcerers

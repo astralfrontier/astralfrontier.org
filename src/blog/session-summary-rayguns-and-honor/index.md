@@ -4,6 +4,7 @@ title: 'Session Summary: Ray-Guns and Honor'
 path: /session-summary-rayguns-and-honor
 description: 'Sir Bedevere, Squire, Dart, and Simon explore a mysterious high-tech dungeon'
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - genesys

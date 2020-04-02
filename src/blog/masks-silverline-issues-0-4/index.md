@@ -4,6 +4,7 @@ title: 'Masks: Silverline Issues 0-4'
 path: /masks-silverline-issues-0-4
 description: 'The first five stories, plus links to PC sheets and biographies'
 featuredImage: ./featured.jpg
+category: silverline
 tags:
   - silverline
   - masks

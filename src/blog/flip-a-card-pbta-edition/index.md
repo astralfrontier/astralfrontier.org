@@ -4,6 +4,7 @@ title: 'Flip-a-Card: PBTA Edition'
 path: /flip-a-card-pbta-edition
 description: How would you run  Flip-a-Card in a more PBTA style?
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

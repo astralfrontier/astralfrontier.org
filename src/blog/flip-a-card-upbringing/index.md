@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Upbringing'
 path: /flip-a-card-upbringing
 description: The replacement for Origin cards
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

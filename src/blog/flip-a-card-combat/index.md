@@ -3,6 +3,7 @@ date: '2019-12-12T11:06:21.000Z'
 title: 'Flip-a-Card: Combat'
 path: /flip-a-card-combat
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

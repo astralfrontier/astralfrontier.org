@@ -4,6 +4,7 @@ title: Witch+Craft
 path: /witch-craft
 description: Putting the new domestic-magic book through a couple quick paces
 featuredImage: ./featured.jpg
+category: dungeons and dragons
 tags:
   - dungeons and dragons
 ---

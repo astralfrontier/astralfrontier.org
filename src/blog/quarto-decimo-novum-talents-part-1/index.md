@@ -4,6 +4,7 @@ title: 'Quarto Decimo Novum: Talents Part 1'
 path: /quarto-decimo-novum-talents-part-1
 description: New and modified talents for the game
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - game design diary

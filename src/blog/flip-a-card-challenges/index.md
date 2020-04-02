@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Challenges'
 path: /flip-a-card-challenges
 description: Early thoughts on challenge cards
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

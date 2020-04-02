@@ -4,6 +4,7 @@ title: 'Quarto Decimo Novum: Implements'
 path: /quarto-decimo-novum-implements
 description: The magical implements used by some classes and jobs
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - game design diary

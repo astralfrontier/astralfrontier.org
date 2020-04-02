@@ -4,6 +4,7 @@ title: 'Masks: more sheets!'
 path: /masks-more-sheets
 description: 'Detox, Scrapper, and Wolf 359'
 featuredImage: ./featured.jpg
+category: masks
 tags:
   - masks
 ---

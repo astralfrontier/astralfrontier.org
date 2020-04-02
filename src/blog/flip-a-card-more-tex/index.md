@@ -3,6 +3,7 @@ date: '2020-01-26T09:47:41.000Z'
 title: 'Flip-a-Card: More TeX!'
 path: /flip-a-card-more-tex
 description: Progress on typesetting cards with TeX
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

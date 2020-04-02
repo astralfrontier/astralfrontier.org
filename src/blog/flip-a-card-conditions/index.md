@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Conditions'
 path: /flip-a-card-conditions
 description: 'A link to condition cards, which are in review-ready status'
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

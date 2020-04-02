@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Character Creation'
 path: /flip-a-card-character-creation
 description: How could character creation work in a new flip-a-card system?
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

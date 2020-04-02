@@ -4,6 +4,7 @@ title: 'Recap: Camelot!'
 path: /recap-camelot
 description: The adventurers arrive in Camelot! It's less silly than you think though
 featuredImage: ./featured.jpg
+category: recap
 tags:
   - recap
   - genesys

@@ -4,6 +4,7 @@ title: 'Masks: PA students'
 path: /masks-pa-students
 description: PC ideas for an upcoming Phoenix Academy game
 featuredImage: ./featured.jpg
+category: masks
 tags:
   - masks
 ---

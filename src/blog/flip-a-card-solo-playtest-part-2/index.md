@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Solo Playtest part 2'
 path: /flip-a-card-solo-playtest-part-2
 description: A quick exploration of flip-a-card to see how it plays
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

@@ -4,6 +4,7 @@ title: 'Flip-a-Card: Deck Contents'
 path: /flip-a-card-deck-contents
 description: What goes into a typical flip-a-card game deck?
 featuredImage: ./featured.jpg
+category: flip-a-card
 tags:
   - flip-a-card
   - game design diary

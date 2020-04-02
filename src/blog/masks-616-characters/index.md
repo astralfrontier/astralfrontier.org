@@ -4,6 +4,7 @@ title: Masks-616 characters
 path: /masks-616-characters
 description: More Masks characters for my Monday game
 featuredImage: ./featured.jpg
+category: masks
 tags:
   - masks
 ---
