@@ -4,6 +4,7 @@ title: Champions Lite Danger Edition
 path: /champions-lite-danger-edition
 description: A new playtestable version of the supers game
 featuredImage: ./featured.jpg
+category: superhero
 tags:
   - superhero
   - game design diary

@@ -4,6 +4,7 @@ title: The Wake as PBTA game
 path: /the-wake-as-pbta-game
 description: Early thoughts on building a PBTA version of the Wake
 featuredImage: ./featured.jpg
+category: the wake
 tags:
   - the wake
   - game design diary

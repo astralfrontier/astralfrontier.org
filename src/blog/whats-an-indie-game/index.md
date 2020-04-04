@@ -4,6 +4,7 @@ title: What's an indie game?
 path: /whats-an-indie-game
 description: Look for flames in the comments
 featuredImage: ./featured.jpg
+category: palaver
 tags:
   - palaver
 ---

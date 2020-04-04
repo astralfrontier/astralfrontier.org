@@ -4,6 +4,7 @@ title: 'Quarto Decimo Novum: Talents Part 2'
 path: /quarto-decimo-novum-talents-part-2
 description: Second-tier talents for FFXIV characters
 featuredImage: ./featured.jpg
+category: quarto decimo novum
 tags:
   - quarto decimo novum
   - game design diary

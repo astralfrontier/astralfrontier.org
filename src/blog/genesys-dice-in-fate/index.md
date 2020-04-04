@@ -4,6 +4,7 @@ title: Genesys Dice in Fate
 path: /genesys-dice-in-fate
 description: A short goofy idea for adapting dice
 featuredImage: ./featured.jpg
+category: genesys
 tags:
   - genesys
   - fate

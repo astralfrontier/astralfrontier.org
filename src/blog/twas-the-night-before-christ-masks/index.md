@@ -4,6 +4,7 @@ title: '''Twas the night before Christ-Masks'
 path: /twas-the-night-before-christ-masks
 description: A poem I co-wrote for my Saturday Masks group
 featuredImage: ./featured.jpg
+category: masks
 tags:
   - masks
 ---

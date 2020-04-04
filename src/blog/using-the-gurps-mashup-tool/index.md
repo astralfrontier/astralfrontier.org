@@ -4,6 +4,7 @@ title: Using the GURPS Mashup Tool
 path: /using-the-gurps-mashup-tool
 description: A few sample campaigns using the GURPS Mashup tool
 featuredImage: ./featured.jpg
+category: gm tools
 tags:
   - gm tools
 ---

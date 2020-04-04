@@ -4,6 +4,7 @@ title: How I Run Demigods
 path: /how-i-run-demigods
 description: Assorted GM advice for the Demigods PBTA game
 featuredImage: ./featured.jpg
+category: demigods
 tags:
   - demigods
 ---

@@ -4,6 +4,7 @@ title: Gamera the RPG
 path: /the-gamera-rpg
 description: A stupid little one-shot RPG that has actually been played!
 featuredImage: ./featured.jpg
+category: game design diary
 tags:
   - game design diary
 ---

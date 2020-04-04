@@ -4,6 +4,7 @@ title: Creating superheroes with the P5 system
 path: /creating-superheroes-with-the-p5-system
 description: A quick way to create interesting and novel superhuman characters for RPGs
 featuredImage: ./featured.jpg
+category: game design diary
 tags:
   - game design diary
   - superhero

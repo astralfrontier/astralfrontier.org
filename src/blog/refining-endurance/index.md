@@ -4,6 +4,7 @@ title: Refining Endurance
 path: /refining-endurance
 description: How would I improve the Champions Lite system?
 featuredImage: ./featured.jpg
+category: superhero
 tags:
   - superhero
   - game design diary

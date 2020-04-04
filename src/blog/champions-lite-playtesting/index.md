@@ -4,6 +4,7 @@ title: Champions Lite Playtesting
 path: /champions-lite-playtesting
 description: How did the first pass at the game turn out? Honk if you love playtesting.
 featuredImage: ./featured.jpg
+category: superhero
 tags:
   - superhero
   - game design diary

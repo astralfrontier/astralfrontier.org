@@ -6,6 +6,7 @@ description: >-
   How to build encounters more interesting than "hit them until their hit points
   fall out"
 featuredImage: ./featured.jpg
+category: game design diary
 tags:
   - game design diary
   - superhero

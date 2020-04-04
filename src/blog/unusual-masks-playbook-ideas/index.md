@@ -4,6 +4,7 @@ title: Unusual Masks playbook ideas
 path: /unusual-masks-playbook-ideas
 description: What if we don't keep playing Batman and Green Lantern clones?
 featuredImage: ./featured.jpg
+category: masks
 tags:
   - masks
 ---

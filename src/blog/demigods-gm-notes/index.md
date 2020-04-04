@@ -4,6 +4,7 @@ title: 'Demigods: GM notes'
 path: /demigods-gm-notes
 description: 'How I ran Demigods, including prep, and lessons learned'
 featuredImage: ./featured.jpg
+category: demigods
 tags:
   - palaver
   - demigods

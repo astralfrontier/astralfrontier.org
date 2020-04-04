@@ -4,6 +4,7 @@ title: The Fleet
 path: /the-fleet
 description: An optional rule for Fellowship that tries to solve a problem our group had
 featuredImage: ./featured.jpg
+category: fellowship
 tags:
   - fellowship
   - pbta

@@ -4,6 +4,7 @@ title: New designs for Inept Sorcerers
 path: /two-workable-designs-for-inept-sorcerers
 description: Some ideas for a new version of my first real game
 featuredImage: ./featured.jpg
+category: inept sorcerers
 tags:
   - inept sorcerers
   - game design diary

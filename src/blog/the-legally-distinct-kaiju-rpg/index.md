@@ -4,6 +4,7 @@ title: The Legally Distinct Kaiju RPG
 path: /the-legally-distinct-kaiju-rpg
 description: A third game for itch.io
 featuredImage: ./featured.jpg
+category: game design diary
 tags:
   - game design diary
 ---

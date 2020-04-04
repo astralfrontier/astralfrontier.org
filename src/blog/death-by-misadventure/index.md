@@ -4,6 +4,7 @@ title: Death By Misadventure
 path: /death-by-misadventure
 description: A dinky little game about a haunted dungeon and an overconfident adventurer
 featuredImage: ./featured.jpg
+category: game design diary
 tags:
   - game design diary
 ---

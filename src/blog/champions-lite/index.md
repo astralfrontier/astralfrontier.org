@@ -4,6 +4,7 @@ title: Champions Lite
 path: /champions-lite
 description: Some ideas about a combat system for Champions Lite
 featuredImage: ./featured.jpg
+category: superhero
 tags:
   - superhero
   - game design diary

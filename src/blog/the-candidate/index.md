@@ -4,6 +4,7 @@ title: The Candidate
 path: /the-candidate
 description: A plan to produce a political hack of "For the Queen"
 featuredImage: ./featured.jpg
+category: game design diary
 tags:
   - game design diary
 ---

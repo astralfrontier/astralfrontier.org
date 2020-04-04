@@ -4,6 +4,7 @@ title: Typesetting RPGs with TeX
 path: /typesetting-rpgs-with-tex
 description: What I'm learning about programmatically type-setting
 featuredImage: ./featured.jpg
+category: game design diary
 tags:
   - game design diary
 ---

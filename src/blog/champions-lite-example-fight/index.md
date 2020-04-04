@@ -4,6 +4,7 @@ title: Champions Lite Example Fight
 path: /champions-lite-example-fight
 description: What would a Champions Lite battle look like?
 featuredImage: ./featured.jpg
+category: superhero
 tags:
   - superhero
   - game design diary
