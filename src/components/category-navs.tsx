@@ -27,7 +27,7 @@ import {
  * TODO: Return the first five as navs, followed by a dropdown containing the remaining categories.
  */
 
-const MAX_CATEGORIES = 5
+const MAX_CATEGORIES = 4
 
 export default () => {
   const data = useStaticQuery(graphql`

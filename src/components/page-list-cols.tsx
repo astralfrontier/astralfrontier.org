@@ -90,7 +90,7 @@ const PageListCols = ({
 }) => (
   <Container fluid={true}>
     {groupPages(pages).map(row => (
-      <Row>
+      <Row className={"post-list-row"}>
         {row.map(({ node }: { node: BlogPage }) => (
           <Col key={node.fields.slug}>
             <PageCol page={node} vertical={row.length === 3} />
