@@ -25,8 +25,8 @@ export default () => {
   const onlyTags = map(path(['fields', 'tags']), data.allMarkdownRemark.nodes)
   const tags = pipe(
       flatten,
+      uniq,
       sortBy(identity),
-      uniq
   )(onlyTags)
 
   return (
