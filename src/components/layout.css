@@ -2,13 +2,6 @@
   padding-top: 60px;
 }
 
-/*
-Only used for fixed: bottom navbar
-footer {
-  padding-bottom: 60px;
-}
-*/
-
 blockquote {
   border-left: solid gray;
   font-style: italic;
@@ -31,4 +24,23 @@ a.nostyle:visited {
 
 .post-list-row {
   padding-bottom: 1em;
+}
+
+footer {
+  color: #ccc;
+  background: #222;
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+footer .footer-tag-cloud {
+  text-align: center;
+}
+
+footer .footer-links {
+  text-align: right;
+}
+
+footer a, footer a:hover {
+  color: #ccc;
 }
