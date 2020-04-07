@@ -25,6 +25,7 @@ const groupPages = pages => {
 export interface BlogPageFields {
   slug: string
   path: string
+  category?: string | undefined
 }
 
 export interface BlogPageFrontMatter {
@@ -62,6 +63,7 @@ const PageCol = ({ page, vertical }: { page: BlogPage; vertical: boolean }) => {
             <Img fluid={page.frontmatter.featuredImage.childImageSharp.fluid} />
           )}
           <>
+            {page.fields.category && (<Link className={'small-caps'} to={`/category/${page.fields.category}`}>{page.fields.category}</Link>)}
             <h4>{page.frontmatter.title || page.fields.slug}</h4>
             <div className={"text-muted"}>
               {page.frontmatter.description || page.excerpt}

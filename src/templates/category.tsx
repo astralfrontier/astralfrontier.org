@@ -31,8 +31,8 @@ export const pageQuery = graphql`
         node {
           fields {
             slug
-            category
             path
+            category
           }
           excerpt
           timeToRead

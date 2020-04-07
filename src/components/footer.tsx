@@ -3,7 +3,7 @@ import Navbar from "react-bootstrap/Navbar"
 import Nav from "react-bootstrap/Nav"
 import { useStaticQuery, graphql } from "gatsby"
 
-const Footer = props => {
+const Footer = _props => {
   const data = useStaticQuery(graphql`
     query SiteAuthorQuery {
       site {
@@ -14,7 +14,7 @@ const Footer = props => {
     }
   `)
   return (
-    <Navbar variant="dark" bg="dark" fixed="bottom">
+    <Navbar variant="dark" bg="dark">
       <Navbar.Brand>&copy; 2020 @{data.site.siteMetadata.author}</Navbar.Brand>
       <Navbar.Toggle />
       <Navbar.Collapse id="footer-nav">

@@ -2,9 +2,12 @@
   padding-top: 60px;
 }
 
+/*
+Only used for fixed: bottom navbar
 footer {
   padding-bottom: 60px;
 }
+*/
 
 blockquote {
   border-left: solid gray;

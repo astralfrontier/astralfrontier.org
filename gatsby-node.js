@@ -47,17 +47,17 @@ exports.createPages = async ({
 
   const pageListTemplate = path.resolve(`src/templates/page-list.tsx`)
   const pageTemplate = path.resolve(`src/templates/page.tsx`)
-  const postsPerPage = 6
+  const POSTS_PER_PAGE = 3 * 6 // 3 columns, 6 rows
 
   const posts = result.data.allMarkdownRemark.edges
-  const numPages = Math.ceil(posts.length / postsPerPage)
+  const numPages = Math.ceil(posts.length / POSTS_PER_PAGE)
   Array.from({ length: numPages }).forEach((_, i) => {
     createPage({
       path: i === 0 ? `/` : `/page/${i + 1}`,
       component: pageListTemplate,
       context: {
-        limit: postsPerPage,
-        skip: i * postsPerPage,
+        limit: POSTS_PER_PAGE,
+        skip: i * POSTS_PER_PAGE,
         numPages,
         currentPage: i + 1,
       },

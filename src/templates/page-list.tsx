@@ -33,6 +33,7 @@ export const pageListQuery = graphql`
           fields {
             slug
             path
+            category
           }
           frontmatter {
             date(formatString: "MMM D YYYY")
