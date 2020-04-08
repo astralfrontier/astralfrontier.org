@@ -48,7 +48,7 @@ const WobblyBox = ({ vertical, children }) => (
   <Container fluid>
     <Row>
       {children.map(child => (
-        <>{child && (<Col xs={vertical ? 12 : 6}>{child}</Col>)}</>
+        <>{child && (<Col xs={12} md={vertical ? 12 : 6}>{child}</Col>)}</>
       ))}
     </Row>
   </Container>
@@ -94,7 +94,7 @@ const PageListCols = ({
     {groupPages(pages).map(row => (
       <Row className={"post-list-row"}>
         {row.map(({ node }: { node: BlogPage }) => (
-          <Col key={node.fields.slug}>
+          <Col key={node.fields.slug} xs={12} md={12 / row.length}>
             <PageCol page={node} vertical={row.length === 3} />
           </Col>
         ))}

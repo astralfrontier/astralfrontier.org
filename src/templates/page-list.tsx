@@ -7,12 +7,13 @@ import PageListCols from '../components/page-list-cols'
 
 const PageList = ({
   data: {
+    site: { siteMetadata: { title }},
     allMarkdownRemark: { edges },
   },
   pageContext: { numPages, currentPage },
 }) => (
   <Layout toggleTransparent={false}>
-    <SEO title={currentPage === 1 ? "Home" : `Page ${currentPage}`} />
+    <SEO title={currentPage === 1 ? title : `Page ${currentPage} of ${title}`} />
     <PageListCols pages={edges} numPages={numPages} currentPage={currentPage} />
   </Layout>
 )
@@ -21,6 +22,11 @@ export default PageList
 
 export const pageListQuery = graphql`
   query pageListQuery($skip: Int!, $limit: Int!) {
+    site {
+      siteMetadata {
+        title
+      }
+    }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       limit: $limit
