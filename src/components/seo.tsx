@@ -9,8 +9,9 @@ import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import { append, keys, mergeRight, reduce } from 'ramda'
 
-function SEO({ description, lang, meta, title }) {
+function SEO({ description, lang, meta, title, featuredImage }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -19,6 +20,7 @@ function SEO({ description, lang, meta, title }) {
             title
             description
             author
+            siteUrl
           }
         }
       }
@@ -27,6 +29,28 @@ function SEO({ description, lang, meta, title }) {
 
   const metaDescription = description || site.siteMetadata.description
 
+  const metadata = mergeRight({
+    'description': metaDescription,
+    'og:title': title,
+    'og:description': metaDescription,
+    'og:type': 'website',
+    'twitter:card': 'summary',
+    'twitter:creator': site.siteMetadata.author,
+    'twitter:title': title,
+    'twitter:description': metaDescription
+  }, meta || {})
+
+  if (featuredImage) {
+    const imageUrl = new URL(featuredImage.childImageSharp.fluid.src, site.siteMetadata.siteUrl).toString()
+    metadata['og:image'] = imageUrl
+    metadata['twitter:image'] = imageUrl
+  }
+
+  const metadataArray = reduce((a,name) => append({
+    name,
+    content: metadata[name]
+  }, a), [], keys(metadata))
+
   return (
     <Helmet
       htmlAttributes={{
@@ -34,40 +58,7 @@ function SEO({ description, lang, meta, title }) {
       }}
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
-      meta={[
-        {
-          name: `description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:title`,
-          content: title,
-        },
-        {
-          property: `og:description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:type`,
-          content: `website`,
-        },
-        {
-          name: `twitter:card`,
-          content: `summary`,
-        },
-        {
-          name: `twitter:creator`,
-          content: site.siteMetadata.author,
-        },
-        {
-          name: `twitter:title`,
-          content: title,
-        },
-        {
-          name: `twitter:description`,
-          content: metaDescription,
-        },
-      ].concat(meta)}
+      meta={metadataArray}
     />
   )
 }
