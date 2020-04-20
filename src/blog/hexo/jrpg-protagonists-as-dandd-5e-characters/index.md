@@ -38,7 +38,7 @@ Final stats of interest: Initiative +2, AC 17, and 10 hit points. This is middle
 
 Higher levels don't make us significantly more deadly. By 6th level, our Pact Weapon attack (still a longsword) attacks at +8, doing 1d8+5 damage. What we do gain is a number of mobility options via spells: teleportation via Misty Step and Thunderstep, Fly, and Mirror Image for another in-combat defensive option. For invocations, Agonizing Blast keeps our ranged damage up, Maddening Hex syncs with our two curses, and Improved Pact Weapon gives us a magic sword (or longbow, which will do exactly the same damage, but out to 150 feet). We can apply Hexblade's Curse once per short rest to a target, then spam Maddening Hex between attacks. This isn't a second attack action, but it's not bad.
 
-The starting character sheet can be found here: {% asset_link character-sheet-L1.pdf %}
+The starting character sheet can be found here: [character-sheet-L1.pdf](character-sheet-L1.pdf)
 
 [Grand List of Console RPG Cliches]: https://project-apollo.net/text/rpg.html
 [Magnetic Hero]: https://tvtropes.org/pmwiki/pmwiki.php/Main/MagneticHero
