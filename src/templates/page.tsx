@@ -23,8 +23,9 @@ export default function Page({
   ) : (
     <></>
   )
+  // toggleTransparent={!!featuredImage} paddingTop={!featuredImage}
   return (
-    <Layout toggleTransparent={!!featuredImage} paddingTop={!featuredImage}>
+    <Layout>
       <SEO title={title} description={description} featuredImage={featuredImage} />
       {imageTag}
       <Container>
