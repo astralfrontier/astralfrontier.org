@@ -22,7 +22,7 @@ Currently, Warcraft has three roles for players to fill: __tank__, __damage deal
 
 Essentially, a raid consists of everyone racing against one or more risks. A raid boss with no special mechanics, where healer mana regeneration is adequate to handle the incoming damage, is no threat at all - it's ten people pushing buttons for five minutes. But most raid bosses aren't like that.
 
-<img src="/assets/games/chart_tank_threat.png" style="float: right" alt="Tank Threat" title="Tank Threat" class="hide-for-small" />
+![Chart of Tank Threat](chart_tank_threat.png)
 
 __Tanks__ are racing against two things: *incoming damage from the boss* (which they overcome with defensive abilities) and *outgoing threat from the damage dealers and healers* (which they overcome with threat-building abilities). Tanks even have a neat visual tool for watching their race; it's called [Omen](http://www.curse.com/addons/wow/omen-threat-meter).
 

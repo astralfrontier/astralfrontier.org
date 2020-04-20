@@ -44,7 +44,7 @@ In Link's world, _minds are what brains do_.
 The mind is not a separate entity or existence,
 it's the name for the processing the brain constantly does.
 
-![brain.jpg](/assets/link-key-tech/brain.jpg) {.ui .small .right .floated .image}
+![brain.jpg](brain.jpg)
 
 The basis of Link's neurotech is the **electro-mechanical brain**.
 This is physically a thick chunk of material,
@@ -58,7 +58,7 @@ They also use magnetic charge in their RAM and hard disks to hold onto their sta
 If the power goes out, the computer stops working,
 and you risk losing work on the hard drive if it becomes corrupted.
 
-![neurotransmitter-levels.png](/assets/link-key-tech/neurotransmitter-levels.png) {.ui .small .right .floated .image}
+![neurotransmitter-levels.png](neurotransmitter-levels.png)
 
 The electro-mechanical brain uses electricity to operate, but doesn't store anything with magnetic charge.
 Instead, think of it something like a record player on a turntable.
@@ -67,7 +67,7 @@ but it's the grooves in the record itself that hold the music.
 If you cut power, the brain immediately stops processing,
 but will resume exactly where it left off if you apply power again.
 
-![heart-factory.jpg](/assets/link-key-tech/heart-factory.jpg) {.ui .small .right .floated .image}
+![heart-factory.jpg](heart-factory.jpg)
 
 Link uses a device called the **Heart Factory**
 to manipulate the contents of brains.

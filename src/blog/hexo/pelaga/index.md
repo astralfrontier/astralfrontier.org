@@ -20,7 +20,7 @@ Here's the start of one, a water-world called **Pelaga**.
 
 <!-- more -->
 
-![Pelaga Layers](/assets/rpg/pelaga-spheres.svg) {.ui .medium .right .floated .image}
+![Pelaga Layers](/assets/rpg/pelaga-spheres.svg)
 
 Pelaga is a series of four concentric spheres.
 In order from the center outward,

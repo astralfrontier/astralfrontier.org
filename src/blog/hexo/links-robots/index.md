@@ -18,7 +18,7 @@ This is a run-down of the current and potential robots [Link](/2017/08/07/link/)
 
 ### First Generation: Otto
 
-![f44f51abda1357d9ddddc1b994ec5258.jpg](/assets/link-s-robots/f44f51abda1357d9ddddc1b994ec5258.jpg) {.ui .small .right .floated .image}
+![f44f51abda1357d9ddddc1b994ec5258.jpg](f44f51abda1357d9ddddc1b994ec5258.jpg)
 
 * Relationship: Big brother mentor; chauffeur
 * Modes: Civilian car; armored supercar; humanoid robot
@@ -29,9 +29,9 @@ This is a run-down of the current and potential robots [Link](/2017/08/07/link/)
 * He is equipped with Link's skyhook grapple systems
 * He combines the skyhooks and rockets to give himself a rocket punch attack
 
-![85550d7045fffb2194b2e39938018006.jpg](/assets/link-s-robots/85550d7045fffb2194b2e39938018006.jpg) {.ui .small .right .floated .image}
-
 ### Second Generation: Pneuma
+
+![85550d7045fffb2194b2e39938018006.jpg](85550d7045fffb2194b2e39938018006.jpg)
 
 * Relationship: Former love interest; best friend
 * Modes: Human; armored humanoid
@@ -42,7 +42,7 @@ This is a run-down of the current and potential robots [Link](/2017/08/07/link/)
 
 ### Third Generation: RESCUE-1
 
-![image2.png](/assets/link-s-robots/image2.png) {.ui .small .right .floated .image}
+![image2.png](image2.png)
 
 * Relationship: Non-sentient animal
 * Modes: Fire truck; mechanical giraffe
@@ -55,9 +55,9 @@ Other EMS vehicles are possible, such as an ambulance or police cruiser.
 These would function mainly as civilian rescue and support units,
 with limited combat capabilities.
 
-![image1.png](/assets/link-s-robots/image1.png) {.ui .small .image}
-
 ### Third Generation: SHELL-1
+
+![image1.png](image1.png)
 
 * Relationship: Non-sentient animal
 * Modes: Robotic turtle; armor-plated shelter
@@ -70,7 +70,7 @@ A specialized combat and rescue unit for protecting people, based roughly on the
 
 ### Third Generation: RECON-1
 
-![image3.png](/assets/link-s-robots/image3.png) {.ui .small .right .floated .image}
+![image3.png](image3.png)
 
 * Relationship: Non-sentient animal
 * Modes: Motorcycle; predatory cat
@@ -82,11 +82,11 @@ A specialized combat and rescue unit for protecting people, based roughly on the
 Other stealthy or quasi-military robots are possible, such as wolves, hawks, and so on.
 All would be human-scale or nearly so, 
 
-![image6.png](/assets/link-s-robots/image6.png) {.ui .small .image}
+![image6.png](image6.png)
 
 ### Third Generation: SKY-1
 
-![image4.png](/assets/link-s-robots/image4.png) {.ui .small .right .floated .image}
+![image4.png](image4.png)
 
 * Relationship: Non-sentient animal
 * Modes: Jet fighter; giant bird
@@ -96,7 +96,7 @@ All would be human-scale or nearly so,
 
 Fills the same role as the Herculoids' Zok, but a giant bird rather than a dragon.
 
-![image5.png](/assets/link-s-robots/image5.png) {.ui .small .image}
+![image5.png](image5.png)
 
 ### Fourth Generation: Jumbo Jet
 
@@ -109,7 +109,7 @@ Fills the same role as the Herculoids' Zok, but a giant bird rather than a drago
 
 ### Fourth Generation: Dark Link
 
-![6656ed65e0d0ced63d25c6108e3dcdef.jpg](/assets/link-s-robots/6656ed65e0d0ced63d25c6108e3dcdef.jpg) {.ui .small .right .floated .image}
+![6656ed65e0d0ced63d25c6108e3dcdef.jpg](6656ed65e0d0ced63d25c6108e3dcdef.jpg)
 
 * Relationship: TBD
 * Modes: Human; armored humanoid
@@ -118,5 +118,5 @@ Fills the same role as the Herculoids' Zok, but a giant bird rather than a drago
 * Another sentient AI, trained in time-accelerated virtual reality with commando and ninja skills
 * Equipped with a full range of stealth and infiltration technology (cloaking, skyhooks, etc.)
 
-![d4cu56f.jpg](/assets/link-s-robots/d4cu56f.jpg) {.ui .medium .image}
+![d4cu56f.jpg](d4cu56f.jpg)
 

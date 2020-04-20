@@ -22,7 +22,7 @@ Feedback on Inept Sorcerers made the spell-card system out to be a winner.
 The reward-token mechanic from IWTH is the only change in the dice rolling
 system. So to combine those systems, I'm thinking about something like this.
 
-![Grandia Cast](/assets/grandia1_cast.jpg)
+![Grandia Cast](grandia1_cast.jpg)
 
 ### Attributes
 

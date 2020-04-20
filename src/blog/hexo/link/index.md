@@ -21,7 +21,7 @@ The concept is "hot-blooded powersuit pilot with robot friends".
 
 ### Link (Bull)
 
-![image3.jpg](/assets/rpg/link/image3.jpg) {.ui .medium .right .floated .image}
+![image3.jpg](image3.jpg)
 
 * **Legacy Name**: Link
 * **Real Name**: Leo Snow
@@ -39,7 +39,7 @@ The concept is "hot-blooded powersuit pilot with robot friends".
 
 #### Legacy Moves
 
-![image1.jpg](/assets/rpg/link/image1.jpg) {.ui .medium .right .floated .image}
+![image1.jpg](image1.jpg)
 
 **Punch everyone**: Whenever you charge into a fight without hedging your bets, you can shift your Danger up and any other Label down.
 
@@ -53,7 +53,7 @@ You always have exactly one love and one rival. You can change your love or riva
 
 **Defender**: When you leap to defend your love or rival in battle, roll +Danger instead of +Savior to defend them.
 
-![image2.jpg](/assets/rpg/link/image2.jpg) {.ui .fluid .image}
+![image2.jpg](image2.jpg)
 
 #### Link Suit and Robot Friends
 
@@ -63,4 +63,4 @@ You always have exactly one love and one rival. You can change your love or riva
 * "Otto's got built-in jets, so when combined I can fly."
 * "I'm building some other systems into both of them. And who knows? I might build more robots in the future. But they aren't just tools. My dad builds weapons. I build friends."
 
-{% youtube ILskBqF0rCw %}
+https://www.youtube.com/watch?v=ILskBqF0rCw

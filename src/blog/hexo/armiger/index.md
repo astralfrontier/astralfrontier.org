@@ -20,7 +20,7 @@ The concept is "modern Knight of the Round Table wielding a fragment of Excalibu
 
 ### Armiger (Legacy)
 
-![image2.png](/assets/rpg/armiger/image2.png) {.ui .medium .right .floated .image}
+![image2.png](image2.png)
 
 * **Legacy Name**: Armiger
 * **Real Name**: William Eddison
@@ -38,7 +38,7 @@ The concept is "modern Knight of the Round Table wielding a fragment of Excalibu
 
 #### Legacy Moves
 
-![image3.png](/assets/rpg/armiger/image3.png) {.ui .medium .right .floated .image}
+![image3.png](image3.png)
 
 **I Know What I Am**: Once per scene, when you defend a teammate you can shift Savior up and another label down in addition to any other benefits from the move, even on a miss. If you do, add 1 Team to the pool.
 
@@ -61,7 +61,7 @@ a 7-9, another is upset with your most recent actions, and will make their displ
 a miss, something you did stirred up the hornet’s nest—expect several members of your legacy to
 meddle with your life.
 
-![image1.png](/assets/rpg/armiger/image1.png) {.ui .fluid .image}
+![image1.png](image1.png)
 
 #### Excalibur
 * "I'm not carrying, like, the real Excalibur. This here's more like a shadow, or echo, or reflection of the true sword. We call them fragments."
@@ -72,6 +72,6 @@ meddle with your life.
 * "My sword is also heavy. That means getting hit by it really freakin' hurts. The people who lighten their swords until they can swing them with ease? Those guys don't understand Excalibur.
 I'll tell you the secret. The sword shouldn't weaken itself to match the wielder. The wielder must grow to match the blade. The king and the land are one. The land isn't subservient. The king isn't either. They're just united. You get it?"
 
-{% youtube 0Hi8IWqic0U %}
+https://www.youtube.com/watch?v=0Hi8IWqic0U
 
 Note: [Jeff Seid](https://jeffseid.com/) is the character model.

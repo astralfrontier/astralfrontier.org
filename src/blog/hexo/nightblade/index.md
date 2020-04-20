@@ -20,7 +20,7 @@ The concept is "light-manipulating truth-seeking modern ninja".
 
 ### Nightblade (Delinquent)
 
-![image2.jpg](/assets/rpg/nightblade/image2.jpg) {.ui .medium .right .floated .image}
+![image2.jpg](image2.jpg)
 
 * **Legacy Name**: Nightblade
 * **Real Name**: Lincoln "L.A." Abe
@@ -38,7 +38,7 @@ The concept is "light-manipulating truth-seeking modern ninja".
 
 #### Delinquent Moves
 
-![image3.jpg](/assets/rpg/nightblade/image3.jpg) {.ui .medium .right .floated .image}
+![image3.jpg](image3.jpg)
 
 **Mary Contrary**: When someone tries to pierce
 your mask, comfort or support you, or provoke
@@ -68,7 +68,7 @@ hit, they are fooled, at least for a moment. On a
 On a miss, you’re hopelessly embroiled in it and
 under pressure; mark a condition.
 
-![image1.png](/assets/rpg/nightblade/image1.png) {.ui .fluid .image}
+![image1.png](image1.png)
 
 #### Photokinesis
 

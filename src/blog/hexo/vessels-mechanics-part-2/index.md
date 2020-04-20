@@ -22,7 +22,7 @@ of hope. Instead she faces contempt, tied to her own feelings of shame.
 How do we model what happens to her? Let's take a look at the emotional
 map.
 
-![Emotional map](/assets/emotion-cube.png)
+![Emotional map](emotion-cube.png)
 
 We're going to measure everything in 'stars', where a 1-star obstacle
 is minor and 5-star is as serious as it gets. Having a star rating

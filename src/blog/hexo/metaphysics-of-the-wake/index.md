@@ -61,7 +61,7 @@ in essence concluding and completing the dream.
 
 ### Prophecy and Significance
 
-![Wake Prophecy](/assets/rpg/wake-prophecy.svg) {.ui .right .floated .medium .image}
+![Wake Prophecy](/assets/rpg/wake-prophecy.svg)
 
 Dreams and prophecies are connected.
 One of the PCs has prophetic dreams, in fact.
@@ -95,7 +95,7 @@ We must steer our own ships through the sea of time, and try our best to stay af
 
 ### Sigils and Significance
 
-![Wake Symbol](/assets/rpg/wake-symbol.jpg) {.ui .right .floated .medium .image}
+![Wake Symbol](/assets/rpg/wake-symbol.jpg)
 
 The characters have encountered a strange symbol,
 pictured to the right.
