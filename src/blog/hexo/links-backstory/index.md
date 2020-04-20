@@ -9,7 +9,7 @@ tags:
   - supers
   - link
 links: []
-category: Roleplaying
+category: Characters
 ---
 
 Here's [Link](/2017/08/07/link/)'s backstory for the Tuesday Masks game.

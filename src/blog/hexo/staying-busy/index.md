@@ -12,7 +12,7 @@ tags:
   - helping hand
   - pbta
 links: []
-category: avert the apocalypse
+category: Palaver
 ---
 
 The last several weeks have been pretty busy.

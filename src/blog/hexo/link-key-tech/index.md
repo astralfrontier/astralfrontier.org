@@ -9,7 +9,7 @@ tags:
   - supers
   - link
 links: []
-category: Roleplaying
+category: Characters
 ---
 
 Some key technology concepts for [Link](/2017/08/07/link/).

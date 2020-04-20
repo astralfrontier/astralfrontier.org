@@ -7,7 +7,7 @@ featuredImage: ../hexo.png
 tags:
   - pinned
 links: []
-category: pinned
+category: Palaver
 ---
 
 Here's a big master list of resources for people doing creative writing.

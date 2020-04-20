@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - supers
 links: []
-category: supers
+category: Palaver
 ---
 
 After writing about the

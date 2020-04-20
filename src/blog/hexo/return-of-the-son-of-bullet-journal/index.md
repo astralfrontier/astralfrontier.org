@@ -11,7 +11,7 @@ tags:
   - dndnext
   - bullet journal
 links: []
-category: Roleplaying
+category: Props
 ---
 
 Similar to the [other journal](/2018/11/06/wednesday-d-d-bullet-journal/) I started, here's one for the D&D game running on alternating Sundays, in which I play the character described [here](/2018/11/19/the-emotionally-available-barbarian/).

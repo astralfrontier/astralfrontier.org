@@ -9,7 +9,7 @@ tags:
   - supers
   - link
 links: []
-category: Roleplaying
+category: Characters
 ---
 
 This is a run-down of the battlesuit and technology [Link](/2017/08/07/link/) uses.

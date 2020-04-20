@@ -12,7 +12,7 @@ tags:
   - song of eden
   - supers
 links: []
-category: compleat villain
+category: Game Design Diary
 ---
 
 I've occasionally thought about resurrecting [Villains Victorious!]

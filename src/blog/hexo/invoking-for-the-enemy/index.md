@@ -2,14 +2,13 @@
 date: '2016-10-05T00:00:00-07:00'
 title: Invoking For the Enemy
 description: >-
-  Recently my Tuesday Star Wars GM wrote an [article](http://randomaverage.com/index.php/2016/09/on-fate-and-gming/) about what bothers him when running Fate. I
-  wanted to write a counter-point to some o...
+  How to effectively run adversaries in Fate.
 path: /2016/10/05/invoking-for-the-enemy
 featuredImage: ../hexo.png
 tags:
   - fate
 links: []
-category: fate
+category: Game Rules
 ---
 
 Recently my Tuesday Star Wars GM wrote an

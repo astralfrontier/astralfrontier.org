@@ -10,7 +10,7 @@ tags:
   - crafting
   - ffxiv
 links: []
-category: MMORPG
+category: Video Games
 ---
 
 This is a follow-on from my previous guide,

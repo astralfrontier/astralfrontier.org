@@ -2,15 +2,14 @@
 date: '2015-10-12T00:00:00-07:00'
 title: Souls of Steel play report
 description: >-
-  On Sunday at [GeekGirlCon], I got to play a Powered by the Apocalypse game called [Souls of Steel], run by the designer. Here's how it went for me, and what I
-  thought. 
+  A fun PBTA mecha/military game.
 path: /2015/10/12/souls-of-steel-play-report
 featuredImage: ../hexo.png
 tags:
   - convention
   - mecha
 links: []
-category: convention
+category: Recap
 ---
 
 On Sunday at [GeekGirlCon], I got to play a

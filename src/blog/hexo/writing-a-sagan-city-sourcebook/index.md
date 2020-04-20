@@ -10,7 +10,7 @@ tags:
   - sssc
   - supers
 links: []
-category: sssc
+category: Game Design Diary
 ---
 
 I'm running a play-by post game, called

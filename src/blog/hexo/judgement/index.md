@@ -2,15 +2,14 @@
 date: '2017-01-31T00:00:00-08:00'
 title: Judgement
 description: >-
-  Body-swaps in fiction are interesting because they shake up social dynamics. What can you do with these in a typical RPG computer game? Here's the start of a
-  heroic journey, involving two very unlikel...
+  Body-swaps in fiction are interesting because they shake up social dynamics.
 path: /2017/01/31/judgement
 featuredImage: ../hexo.png
 tags:
   - fantasy
   - body swap
 links: []
-category: fantasy
+category: Game Design Diary
 ---
 
 Body-swaps in fiction are interesting because they shake up social dynamics.

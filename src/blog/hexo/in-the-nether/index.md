@@ -6,8 +6,9 @@ path: /2018/11/24/in-the-nether
 featuredImage: ../hexo.png
 tags:
   - minecraft
-links: []
-category: minecraft
+  - comedy
+  - filk
+category: Fiction
 ---
 
 I posted this Minecraft filk a long time ago. It's random and goofy, so now seems a good time to put it up on this site.

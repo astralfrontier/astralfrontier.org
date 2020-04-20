@@ -8,7 +8,7 @@ path: /2016/02/09/the-long-game
 featuredImage: ../hexo.png
 tags: []
 links: []
-category: Roleplaying
+category: Game Design Diary
 ---
 
 I want to offer a metaphor for the challenges you'll encounter as GM

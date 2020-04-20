@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - vessels
 links: []
-category: vessels
+category: Rules
 ---
 
 The "Vessels" game I've been working on has been a struggle.

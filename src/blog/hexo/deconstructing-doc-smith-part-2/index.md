@@ -8,8 +8,9 @@ path: /2016/04/16/deconstructing-doc-smith-part-2
 featuredImage: ../hexo.png
 tags:
   - scifi
+  - doc smith
 links: []
-category: scifi
+category: Palaver
 ---
 
 This is a continuation of part 1,

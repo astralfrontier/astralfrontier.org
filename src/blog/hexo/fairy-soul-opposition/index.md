@@ -10,7 +10,7 @@ tags:
   - fairy soul
   - pbta
 links: []
-category: fairy soul
+category: Game Design Diary
 ---
 
 I'm taking a break from Grand Adventure to work on some other game design,

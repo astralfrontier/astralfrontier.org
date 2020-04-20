@@ -2,14 +2,13 @@
 date: '2015-06-19T00:00:00-07:00'
 title: Why Moves...
 description: >-
-  Writing the long-delayed, much-changed Vessels game has led me back, again and again, to the model used by Apocalypse World and Dungeon World: "moves". In
-  short, a move is a piece of mechanics that e...
+  Early opinions on an aspect of PBTA game design
 path: /2015/06/19/why-moves
 featuredImage: ../hexo.png
 tags:
   - pbta
 links: []
-category: pbta
+category: Game Design Diary
 ---
 
 Writing the long-delayed, much-changed Vessels game has led me back,

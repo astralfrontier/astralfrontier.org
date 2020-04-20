@@ -11,7 +11,7 @@ tags:
   - fantasy
   - setting
 links: []
-category: Roleplaying
+category: Game Design Diary
 ---
 
 I've run two sessions of [The Wake](/2017/07/17/the-wake/) for people.

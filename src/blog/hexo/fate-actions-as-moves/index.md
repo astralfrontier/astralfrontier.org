@@ -8,7 +8,7 @@ tags:
   - fate
   - pbta
 links: []
-category: fate
+category: Game Design Diary
 ---
 
 Let's take a Dungeon World playbook,

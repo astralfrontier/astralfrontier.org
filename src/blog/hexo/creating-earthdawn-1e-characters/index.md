@@ -10,7 +10,7 @@ tags:
   - characters
   - earthdawn
 links: []
-category: Roleplaying
+category: Game Rules
 ---
 
 I might be playing in an Earthdawn 1st Edition game soon. To help other people in that game with character creation, I'm creating a sample PC and talking about the whys and hows of it.

@@ -7,7 +7,7 @@ featuredImage: ../hexo.png
 tags:
   - scifi
 links: []
-category: scifi
+category: Palaver
 ---
 
 Two ideas came together for me this morning:

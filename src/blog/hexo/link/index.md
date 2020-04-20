@@ -11,7 +11,7 @@ tags:
   - supers
   - link
 links: []
-category: Roleplaying
+category: Characters
 ---
 
 This is a character concept for an upcoming potential [Masks](http://www.magpiegames.com/masks/) game.

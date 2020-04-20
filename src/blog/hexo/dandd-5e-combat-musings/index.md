@@ -11,7 +11,7 @@ tags:
   - sunday dnd
   - theorycrafting
 links: []
-category: Roleplaying
+category: Game Rules
 ---
 
 When building a D&D character, experience has taught me that they must be useful in combat, no matter what else they do. The game is built around combat encounters, after all, and if you I can't contribute to the main activity of the game somehow, I feel disappointed. D&D also has specific ideas about how combat works. Do I understand those ideas well enough to make a useful PC? More below.

@@ -2,15 +2,14 @@
 date: '2016-04-22T00:00:00-07:00'
 title: Oddball Characters
 description: >-
-  I'm a fan of odd or unusual player characters. I like creating PCs that could plausibly plug into a typical gameworld in some atypical way, and especially
-  when those PCs explore the edges of what a ga...
+  I'm a fan of odd or unusual player characters.
 path: /2016/04/22/oddball-characters
 featuredImage: ../hexo.png
 tags:
   - characters
   - supers
 links: []
-category: characters
+category: Characters
 ---
 
 I'm a fan of odd or unusual player characters.

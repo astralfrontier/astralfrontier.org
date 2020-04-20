@@ -11,7 +11,7 @@ tags:
   - pbta
   - scifi
 links: []
-category: avert the apocalypse
+category: Recap
 ---
 
 I was sick yesterday so couldn't run, but two Sundays before that,

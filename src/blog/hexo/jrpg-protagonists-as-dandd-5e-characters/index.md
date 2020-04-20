@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - dndnext
 links: []
-category: Roleplaying
+category: Game Rules
 ---
 
 The classic JRPG protagonist is a recognizable character. He (it's a male) is a teenager, with one surviving parent, a weakness for girls he met three seconds ago, and an outrageous hairstyle. So let's build a character like this in Dungeons & Dragons, 5th edition (5e).

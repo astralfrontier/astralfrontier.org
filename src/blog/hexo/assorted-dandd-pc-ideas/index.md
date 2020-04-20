@@ -8,7 +8,7 @@ tags:
   - dndnext
   - characters
 links: []
-category: Roleplaying
+category: Characters
 ---
 
 Here's a few D&D 5th edition character ideas that I'm working on for an upcoming game.

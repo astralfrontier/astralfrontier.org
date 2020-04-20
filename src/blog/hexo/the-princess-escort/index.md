@@ -7,7 +7,7 @@ featuredImage: ../hexo.png
 tags:
   - talispire
 links: []
-category: talispire
+category: Fiction
 ---
 
 I had this random idea for a short story, about a grizzled mercenary

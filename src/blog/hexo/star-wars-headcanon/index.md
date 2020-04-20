@@ -2,14 +2,13 @@
 date: '2016-08-24T00:00:00-07:00'
 title: Star Wars Headcanon
 description: >-
-  I like putting thought into the reasons why a setting must work a certain way. It's good practice for a roleplaying game, where some player will ask "hey, can
-  we do X?" and I need to have a better rea...
+  I like putting thought into the reasons why a setting must work a certain way.
 path: /2016/08/24/star-wars-headcanon
 featuredImage: ../hexo.png
 tags:
   - star wars
 links: []
-category: star wars
+category: Palaver
 ---
 
 I like putting thought into the reasons why a setting must work a certain way.

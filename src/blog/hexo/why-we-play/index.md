@@ -2,14 +2,13 @@
 date: '2016-11-22T00:00:00-08:00'
 title: Why We Play
 description: >-
-  Political posts don't normally appear in this space. But almost everybody I know has expressed fear about a Donald Trump presidency. That fear separates
-  itself into a series of questions about RPGs an...
+  Political posts don't normally appear in this space.
 path: /2016/11/22/why-we-play
 featuredImage: ../hexo.png
 tags:
   - grand adventure
 links: []
-category: grand adventure
+category: Palaver
 ---
 
 Political posts don't normally appear in this space.

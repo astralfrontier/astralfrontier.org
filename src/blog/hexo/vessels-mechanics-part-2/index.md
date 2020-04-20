@@ -7,7 +7,7 @@ featuredImage: ../hexo.png
 tags:
   - vessels
 links: []
-category: vessels
+category: Game Design Diary
 ---
 
 [In the last post](/2015/07/13/vessels-mechanics-part-1/),

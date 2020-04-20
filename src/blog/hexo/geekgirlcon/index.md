@@ -2,15 +2,15 @@
 date: '2015-09-27T00:00:00-07:00'
 title: GeekGirlCon
 description: >-
-  I've been invited to run [Inept Sorcerers] at [GeekGirlCon] this year, October 10 and 11. During the sessions, I'll be testing out one of the "frames" for the
-  game, called *Race For the Crown*. 
+  I've been invited to run Inept Sorcerers at GeekGirlCon this year. 
 path: /2015/09/27/geekgirlcon
 featuredImage: ../hexo.png
 tags:
   - inept sorcerers
   - convention
+  - geekgirlcon
 links: []
-category: inept sorcerers
+category: Game Design Diary
 ---
 
 I've been invited to run [Inept Sorcerers] at [GeekGirlCon] this year,

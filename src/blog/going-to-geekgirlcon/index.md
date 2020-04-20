@@ -3,7 +3,7 @@ date: '2019-11-16T05:25:57.000Z'
 title: Going to GeekGirlCon
 path: /going-to-geekgirlcon
 featuredImage: ./featured.jpg
-category: convention
+category: Palaver
 tags:
   - convention
   - geekgirlcon

@@ -10,7 +10,7 @@ tags:
   - masks
   - supers
 links: []
-category: Roleplaying
+category: Palaver
 ---
 
 I'd written about the Monday Masks game ending [earlier](/2018/10/30/the-unmasking/). Tonight, we saw the penultimate episode. And I'm pretty happy about how things are wrapping up. Why is that?

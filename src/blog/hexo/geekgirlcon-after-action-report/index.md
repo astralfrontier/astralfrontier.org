@@ -2,15 +2,15 @@
 date: '2015-10-11T00:00:00-07:00'
 title: GeekGirlCon After-Action Report
 description: >-
-  I spent two days helping to facilitate games at the Games on Demand table at [GeekGirlCon]. I got to run [Inept Sorcerers] once, and played two new games:
-  [The Quiet Year] and [Souls of Steel]. 
+  I spent two days helping to facilitate games at the Games on Demand table at GeekGirlCon.
 path: /2015/10/11/geekgirlcon-after-action-report
 featuredImage: ../hexo.png
 tags:
   - inept sorcerers
   - convention
+  - geekgirlcon
 links: []
-category: inept sorcerers
+category: Recap
 ---
 
 I spent two days helping to facilitate games at the Games on Demand

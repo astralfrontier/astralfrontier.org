@@ -10,7 +10,7 @@ tags:
   - dndnext
   - sunday dnd
 links: []
-category: Roleplaying
+category: Characters
 ---
 
 So how effective is my [Emotionally Available Barbarian](/2018/11/19/the-emotionally-available-barbarian/) in combat, really? I don't know for real, so I decided to find out.

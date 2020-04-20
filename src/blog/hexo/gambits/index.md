@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - gambits
 links: []
-category: gambits
+category: Game Design Diary
 ---
 
 In the examples below, I'm introducing a mechanic called "Gambits". A Gambit is a package of conditions (when the Gambit can come into play), costs (determining the Action Cost), and consequences (what the Gambit does on success).

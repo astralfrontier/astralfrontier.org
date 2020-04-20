@@ -9,7 +9,7 @@ tags:
   - supers
   - link
 links: []
-category: Roleplaying
+category: Characters
 ---
 
 This is a run-down of the current and potential robots [Link](/2017/08/07/link/) allies with.

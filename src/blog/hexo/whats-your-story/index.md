@@ -7,7 +7,7 @@ featuredImage: ../hexo.png
 tags:
   - the wake
 links: []
-category: Roleplaying
+category: Fiction
 ---
 
 "What's your story?"

@@ -9,7 +9,7 @@ tags:
   - dndnext
   - bullet journal
 links: []
-category: Roleplaying
+category: Props
 ---
 
 Here's some pictures of the bullet journal I started keeping for the Wednesday D&D game I'm playing in.

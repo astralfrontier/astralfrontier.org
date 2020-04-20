@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - supers
 links: []
-category: supers
+category: Game Design Diary
 ---
 
 We often talk about "effects-based" superhero RPG rules.

@@ -10,7 +10,7 @@ tags:
   - sssc
   - supers
 links: []
-category: Roleplaying
+category: Game Design Diary
 ---
 
 This is more discussion about the Super-Sheriffs of Sagan City game,

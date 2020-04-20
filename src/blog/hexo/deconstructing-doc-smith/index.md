@@ -8,8 +8,9 @@ path: /2016/03/24/deconstructing-doc-smith
 featuredImage: ../hexo.png
 tags:
   - scifi
+  - doc smith
 links: []
-category: scifi
+category: Palaver
 ---
 
 [Film Crit Hulk] writes about "breaking a story".

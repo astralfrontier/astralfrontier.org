@@ -4,7 +4,7 @@ title: Back from GeekGirlCon
 path: /back-from-geekgirlcon
 description: 'Pictures and links from #GGC19'
 featuredImage: ./featured.jpg
-category: convention
+category: Palaver
 tags:
   - convention
   - geekgirlcon

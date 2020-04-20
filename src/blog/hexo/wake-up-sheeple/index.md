@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - storygames
 links: []
-category: Roleplaying
+category: Game Design Diary
 ---
 
 I think I have some sort of mental block about "story games", like

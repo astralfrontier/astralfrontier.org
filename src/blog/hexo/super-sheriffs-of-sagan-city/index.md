@@ -10,7 +10,7 @@ tags:
   - sssc
   - supers
 links: []
-category: Roleplaying
+category: Recap
 ---
 
 I've been running a play-by-post game with an overly long name.

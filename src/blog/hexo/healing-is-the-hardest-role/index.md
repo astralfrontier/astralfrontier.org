@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - world of warcraft
 links: []
-category: MMORPG
+category: Video Games
 ---
 
 **Note:** This was written from the perspective of a World of Warcraft raider, but some of it will apply to other MMOs as well.

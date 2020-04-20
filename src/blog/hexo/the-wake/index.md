@@ -11,7 +11,7 @@ tags:
   - fantasy
   - setting
 links: []
-category: Roleplaying
+category: Game Design Diary
 ---
 
 "The Wake" is the name of a dreamlike fantasy world I'm creating for Fate.

@@ -11,7 +11,7 @@ tags:
   - mecha
   - scifi
 links: []
-category: convention
+category: Palaver
 ---
 
 Thinking more about the

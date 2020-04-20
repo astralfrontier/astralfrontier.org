@@ -7,7 +7,7 @@ featuredImage: ../hexo.png
 tags:
   - fate
 links: []
-category: Roleplaying
+category: Game Rules
 ---
 
 I mentioned this to a few other people at the Fate meetup in Seattle, but I wanted to share more broadly. If there is anyone in your group that is doubtful about the uses of Create Advantage in combat, and prefers Attack and attrition, here are two ways to describe it.

@@ -8,7 +8,7 @@ tags:
   - characters
   - star wars
 links: []
-category: Roleplaying
+category: Characters
 ---
 
 I had a weird idea for some character somewhere: the Accidental Jedi.

@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - supers
 links: []
-category: supers
+category: Palaver
 ---
 
 I recently backed the [Masks] Kickstarter, and I think it will be well worth it.

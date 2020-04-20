@@ -8,7 +8,7 @@ tags:
   - dndnext
   - sunday dnd
 links: []
-category: Roleplaying
+category: Characters
 ---
 
 Today I'm going to tell you about my greataxe-wielding half-orc barbarian, and talk about tropes.

@@ -2,14 +2,14 @@
 date: '2017-05-21T00:00:00-07:00'
 title: The Demons of Talispire
 description: >-
-  What do you do when necessity compels you to throw away your heart? The demons of Talispire inhabit flame-red caverns. They are merciless creatures, to be
-  sure. Soulless, too. They can be conjured by...
+  What do you do when necessity compels you to throw away your heart?
 path: /2017/05/21/the-demons-of-talispire
 featuredImage: ../hexo.png
 tags:
   - talispire
+  - demons
 links: []
-category: talispire
+category: Fiction
 ---
 
 What do you do when necessity compels you to throw away your heart?

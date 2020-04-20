@@ -7,7 +7,7 @@ featuredImage: ../hexo.png
 tags:
   - hexo
 links: []
-category: h
+category: Meta
 ---
 
 A couple years ago, I moved my blog to Metalsmith.

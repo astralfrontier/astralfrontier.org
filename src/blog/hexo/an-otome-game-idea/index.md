@@ -7,10 +7,10 @@ description: >-
 path: /2016/01/03/an-otome-game-idea
 featuredImage: ../hexo.png
 tags:
-  - silver sheen
   - otome
+  - silver sheen
 links: []
-category: silver sheen
+category: Video Games
 ---
 
 I watched a friend live-stream one of the [Amnesia] games the other night.

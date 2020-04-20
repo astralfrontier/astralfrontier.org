@@ -7,7 +7,7 @@ featuredImage: ../hexo.png
 tags:
   - world of warcraft
 links: []
-category: MMORPG
+category: Video Games
 ---
 
 With news that the Warcraft movie [will be released on December 18, 2015](https://twitter.com/Warcraft/status/385161242886696960), we thought you should know how familiar it'll feel to players of the MMO.

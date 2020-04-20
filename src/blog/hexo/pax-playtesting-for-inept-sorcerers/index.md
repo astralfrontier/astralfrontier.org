@@ -2,8 +2,7 @@
 date: '2015-09-01T00:00:00-07:00'
 title: PAX Playtesting for Inept Sorcerers
 description: >-
-  I attended PAX Prime's [Games on Demand] over the weekend, and both ran and played in games of [Inept Sorcerers]. Here's a brief rundown of those games, and
-  what I learned. 
+  Learnings from Games on Demand, playing my own game.
 path: /2015/09/01/pax-playtesting-for-inept-sorcerers
 featuredImage: ../hexo.png
 tags:
@@ -11,7 +10,7 @@ tags:
   - inept sorcerers
   - playtest
 links: []
-category: convention
+category: Recap
 ---
 
 I attended PAX Prime's [Games on Demand] over the weekend, and both ran

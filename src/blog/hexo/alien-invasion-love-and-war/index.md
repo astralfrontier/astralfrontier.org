@@ -7,7 +7,7 @@ featuredImage: ../hexo.png
 tags:
   - scifi
 links: []
-category: scifi
+category: Fiction
 ---
 
 Human culture had prepped the public for the idea of a hostile alien invasion.

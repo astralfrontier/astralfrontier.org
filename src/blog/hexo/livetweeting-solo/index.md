@@ -7,7 +7,7 @@ featuredImage: ../hexo.png
 tags:
   - star wars
 links: []
-category: star wars
+category: Palaver
 ---
 
 A long time ago, on a Blu-Ray far far away...

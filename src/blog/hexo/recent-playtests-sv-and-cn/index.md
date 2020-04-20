@@ -9,7 +9,7 @@ tags:
   - scum and villainy
   - champions now
 links: []
-category: Roleplaying
+category: Recap
 ---
 
 I've been trying out two new (for me) games lately: Scum and Villainy, and Champions Now. How's that been working out?

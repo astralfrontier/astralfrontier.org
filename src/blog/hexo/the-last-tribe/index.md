@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - the last tribe
 links: []
-category: the last tribe
+category: Game Design Diary
 ---
 
 An idea for a hack of [Ammo](http://cegames.wikidot.com/ammorpg),

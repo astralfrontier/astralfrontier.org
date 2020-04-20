@@ -10,7 +10,7 @@ tags:
   - masks
   - supers
 links: []
-category: Roleplaying
+category: Palaver
 ---
 
 The game I've been playing for over a year, colloquially known as "Monday Masks", is coming to an end.

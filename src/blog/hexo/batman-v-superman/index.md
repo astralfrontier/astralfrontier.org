@@ -10,7 +10,7 @@ tags:
   - comics
   - supers
 links: []
-category: comics
+category: Fiction
 ---
 
 I haven't seen "Batman v. Superman" and I probably won't see it in theaters.

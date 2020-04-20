@@ -10,7 +10,7 @@ tags:
   - crafting
   - ffxiv
 links: []
-category: MMORPG
+category: Video Games
 ---
 
 Now that FFXIV's Stormblood expansion has been with us for a few months,

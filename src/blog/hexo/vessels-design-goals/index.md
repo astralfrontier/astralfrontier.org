@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - vessels
 links: []
-category: vessels
+category: Rules
 ---
 
 What do I want out of this game? While this isn't an AW/DW game, that design vocabulary is useful and I am using it here.

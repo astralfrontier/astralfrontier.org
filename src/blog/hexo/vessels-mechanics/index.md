@@ -9,7 +9,7 @@ featuredImage: ../hexo.png
 tags:
   - vessels
 links: []
-category: vessels
+category: Game Design Diary
 ---
 
 Let's start with some of my deeper goals.
