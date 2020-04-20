@@ -8,7 +8,7 @@
   "dependencies": {
     "@loadable/component": "^5.12.0",
     "bootstrap": "^4.4.1",
-    "gatsby": "^2.19.7",
+    "gatsby": "^2.20.0",
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-catch-links": "^2.1.25",
     "gatsby-plugin-categories": "^2.3.7",
@@ -18,7 +18,9 @@
     "gatsby-plugin-react-helmet": "^3.1.21",
     "gatsby-plugin-sharp": "^2.4.3",
     "gatsby-plugin-tags": "^2.3.7",
+    "gatsby-plugin-twitter": "^2.2.4",
     "gatsby-plugin-typescript": "^2.1.27",
+    "gatsby-remark-embedder": "^2.0.0",
     "gatsby-remark-external-links": "0.0.4",
     "gatsby-remark-images": "^3.1.44",
     "gatsby-remark-smartypants": "^2.1.21",
