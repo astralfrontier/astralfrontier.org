@@ -2,6 +2,7 @@ const { name, description, author, homepage } = require('./package.json')
 
 // Defined separately so that we can reuse the same plugins for mdx
 const remarkPlugins = [
+  `gatsby-remark-embedder`,
   {
     resolve: `gatsby-remark-images`,
     options: {
@@ -30,6 +31,7 @@ module.exports = {
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-catch-links`,
+    `gatsby-plugin-twitter`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
