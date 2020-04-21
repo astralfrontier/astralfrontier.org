@@ -2,7 +2,7 @@
 date: '2016-09-20T00:00:00-07:00'
 title: Beggars on Horseback
 description: >-
-  Wishes have power. Especially if you are playing [Inept Sorcerers](http://peppermile.com/inept-sorcerers.html). This is an early version of an add-on rule for
+  Wishes have power. Especially if you are playing [Inept Sorcerers](https://astralfrontier.itch.io/inept-sorcerers). This is an early version of an add-on rule for
   that game, allowing players to create wis...
 path: /2016/09/20/beggars-on-horseback
 featuredImage: ../hexo.png
@@ -14,7 +14,7 @@ category: Game Design Diary
 
 Wishes have power.
 Especially if you are playing
-[Inept Sorcerers](http://peppermile.com/inept-sorcerers.html).
+[Inept Sorcerers](https://astralfrontier.itch.io/inept-sorcerers).
 This is an early version of an add-on rule for that game,
 allowing players to create wishes that _must_ come true, regardless of cost.
 

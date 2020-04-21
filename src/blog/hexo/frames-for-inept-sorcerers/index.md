@@ -94,4 +94,4 @@ Inspirations:
 
 * Magic User's Club
 
-[Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html
+[Inept Sorcerers]: https://astralfrontier.itch.io/inept-sorcerers

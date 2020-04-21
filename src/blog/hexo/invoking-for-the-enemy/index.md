@@ -154,7 +154,7 @@ by letting them accumulate Fate points.
 
 ### Failure in Grand Adventure
 
-[Grand Adventure](http://peppermile.com/grand-adventure.html)
+[Grand Adventure](https://astralfrontier.org/tags/grand-adventure)
 tries to solve this general problem in three ways.
 
 1. **Actions** can never simply "fail".

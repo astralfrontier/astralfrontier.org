@@ -2,7 +2,7 @@
 date: '2015-06-11T00:00:00-07:00'
 title: The Floating d20
 description: >-
-  I've been thinking more about the [new dice mechanic](/2015/06/08/baroque-dice-mechanic/). In some games, players can (a few times a session) have their
+  I've been thinking more about the [new dice mechanic](/2015/06/08/a-baroque-dice-mechanic/). In some games, players can (a few times a session) have their
   characters go above and beyond their normal abi...
 path: /2015/06/11/the-floating-d20
 featuredImage: ../hexo.png
@@ -12,7 +12,7 @@ links: []
 category: Game Design Diary
 ---
 
-I've been thinking more about the [new dice mechanic](/2015/06/08/baroque-dice-mechanic/). In some games, players can (a few times a session) have their characters go above and beyond their normal abilities for a desperate, risky, or effective super-move. How would this system accommodate that? There's a few possibilities.
+I've been thinking more about the [new dice mechanic](/2015/06/08/a-baroque-dice-mechanic/). In some games, players can (a few times a session) have their characters go above and beyond their normal abilities for a desperate, risky, or effective super-move. How would this system accommodate that? There's a few possibilities.
 
 <!-- more -->
 

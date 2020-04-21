@@ -140,4 +140,4 @@ any physical attack Zambar chose to make. Instead, by narrating using his wits
 Zambar will hopefully wear down the swordsman, maybe make his leg a little worse,
 and possibly get a grateful barmaid to nurse him back to health...
 
-[Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html
+[Inept Sorcerers]: https://astralfrontier.itch.io/inept-sorcerers
