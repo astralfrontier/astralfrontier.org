@@ -122,7 +122,7 @@ or did the placement imply a connection? Not as far as I could tell.
 I'm going to save my comments on *Souls of Steel* for a
 [separate post](/2015/10/12/souls-of-steel/).
 
-[Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html
+[Inept Sorcerers]: https://astralfrontier.itch.io/inept-sorcerers
 [GeekGirlCon]: http://geekgirlcon.com/
 [The Quiet Year]: http://buriedwithoutceremony.com/the-quiet-year/
 [Souls of Steel]: https://plus.google.com/communities/102943199048807904747

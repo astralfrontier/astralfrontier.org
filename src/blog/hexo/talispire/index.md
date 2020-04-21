@@ -114,6 +114,6 @@ who wields an animal army in defense of her homeland.
 You can create this sort of character with only three advances.
 
 [Crystal Dragon Jesus]: http://tvtropes.org/pmwiki/pmwiki.php/Main/CrystalDragonJesus
-[Grand Adventure]: http://peppermile.com/grand-adventure.html
+[Grand Adventure]: https://astralfrontier.org/tags/grand-adventure
 [Badass Princess]: http://tvtropes.org/pmwiki/pmwiki.php/Main/BadassPrincess
 [Standard Fantasy Setting]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StandardFantasySetting

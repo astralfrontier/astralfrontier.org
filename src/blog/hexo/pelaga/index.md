@@ -168,5 +168,5 @@ by joining the Aeronauts.
 The secrets of Pelaga might be found in some lightless cave in the Core,
 or beyond the Skywall in the forbidding and unknown Outer Sea.
 
-[Grand Adventure]: http://peppermile.com/grand-adventure.html
+[Grand Adventure]: https://astralfrontier.org/tags/grand-adventure
 [previous post]: /2016/10/15/talispire/

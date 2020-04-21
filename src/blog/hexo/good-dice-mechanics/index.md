@@ -68,4 +68,4 @@ I also posted an alternate version. Let's see how that one works.
 
 In this case, at any given moment there's only two numbers you need (remaining Action Cost, and either current die value or Ability value). This is objectively simpler, with less math, but mathematically identical to the former model.
 
-[Baroque Dice System]: /2015/06/08/baroque-dice-mechanic/
+[Baroque Dice System]: /2015/06/08/a-baroque-dice-mechanic/

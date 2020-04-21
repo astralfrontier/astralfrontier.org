@@ -2,7 +2,7 @@
 date: '2015-07-10T00:00:00-07:00'
 title: Inept Sorcerer Classes
 description: >-
-  [Inept Sorcerers](http://peppermile.com/inept-sorcerers.html) doesn't say anything about the sort of magic your character uses, or where they learned it, or
+  [Inept Sorcerers](https://astralfrontier.itch.io/inept-sorcerers) doesn't say anything about the sort of magic your character uses, or where they learned it, or
   anything really. But what if it did? 
 path: /2015/07/10/inept-sorcerer-classes
 featuredImage: ../hexo.png
@@ -12,7 +12,7 @@ links: []
 category: Game Design Diary
 ---
 
-[Inept Sorcerers](http://peppermile.com/inept-sorcerers.html) doesn't say anything
+[Inept Sorcerers](https://astralfrontier.itch.io/inept-sorcerers) doesn't say anything
 about the sort of magic your character uses, or where they learned it,
 or anything really. But what if it did?
 

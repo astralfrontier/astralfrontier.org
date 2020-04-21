@@ -3,7 +3,7 @@ date: '2015-07-08T00:00:00-07:00'
 title: 'It Was There, Honest!'
 description: >-
   I've been looking for a way to play-test the [cue system I described earlier](/2015/07/06/cues/). I could plug it into [Inept
-  Sorcerers](http://peppermile.com/inept-sorcerers.html), but I thought of a...
+  Sorcerers](https://astralfrontier.itch.io/inept-sorcerers), but I thought of a...
 path: /2015/07/08/it-was-there-honest
 featuredImage: ../hexo.png
 tags:
@@ -14,7 +14,7 @@ category: Game Design Diary
 
 I've been looking for a way to play-test the
 [cue system I described earlier](/2015/07/06/cues/).
-I could plug it into [Inept Sorcerers](http://peppermile.com/inept-sorcerers.html),
+I could plug it into [Inept Sorcerers](https://astralfrontier.itch.io/inept-sorcerers),
 but I thought of another possibility: make a separate game.
 
 <!-- more -->

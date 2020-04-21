@@ -34,5 +34,5 @@ magic and responsibility.
 I'm still writing RFTC, but it's probably not more than two pages' different
 from Inept Sorcerers itself.
 
-[Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html
+[Inept Sorcerers]: https://astralfrontier.itch.io/inept-sorcerers
 [GeekGirlCon]: http://geekgirlcon.com/

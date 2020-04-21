@@ -4,7 +4,7 @@ title: Attack From the Stars
 description: >-
   This is a "fusion AU", or an alternate universe created by combining and reconciling many movies, television shows, video games, and other sources. The topic
   is "alien invasion": extraterrestrial crea...
-path: /2016/05/20/attack-from-the-stars
+path: /2016/05/21/attack-from-the-stars
 featuredImage: ../hexo.png
 tags:
   - babylon 5

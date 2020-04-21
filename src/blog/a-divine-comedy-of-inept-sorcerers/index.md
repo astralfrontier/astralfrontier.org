@@ -12,7 +12,7 @@ tags:
     
 
 
-A friend of mine ran "[Inept Sorcerers](http://peppermile.com/inept-sorcerers.html)" for three friends. I was not there, but she relayed events to me and gave me permission to post this recap. Here's my condensed version of her notes:
+A friend of mine ran "[Inept Sorcerers](https://astralfrontier.itch.io/inept-sorcerers)" for three friends. I was not there, but she relayed events to me and gave me permission to post this recap. Here's my condensed version of her notes:
 
 > The setting is a steampunk Victorian England. Magic items are common, but spellcasters are not. Mages have spirit familiars or pets, that cannot speak English (so directions can be misunderstood or misinterpreted). Mages effectively have a magical tattoo, indicating their first physical contact with their familiar.
 

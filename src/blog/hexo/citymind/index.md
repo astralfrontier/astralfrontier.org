@@ -48,7 +48,7 @@ Variables like budget, the conditions of roads and bridges,
 population levels, geographical constraints, and so forth.
 
 I wrote about this in Song of Eden, postulating an automated "living city"
-called [Hubris]. In that case, the city had robots to realize its vision.
+called Hubris. In that case, the city had robots to realize its vision.
 But here we'll scale back that ambition, and go with something similar.
 We'll let a CityMind - a massive AI enabled by this sort of technology -
 essentially act as a player in a game of "SimCity".
@@ -70,4 +70,3 @@ Would its decisions start to seem as quirky and mysterious as the city itself?
 
 [London And Its Dead]: http://www.bldgblog.com/2014/06/london-and-its-dead/
 [AlphaGo vs. Lee Sedol]: http://www.wired.com/2016/03/sadness-beauty-watching-googles-ai-play-go/
-[Hubris]: http://wiki.astralfrontier.org/wiki/Hubris

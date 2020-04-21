@@ -280,6 +280,6 @@ Build outward from your idea, and be ready for your idea to go in odd directions
 you didn't expect. Let it grow naturally, and it will be beautiful.
 
 [Grey Pawn]: https://plus.google.com/101426386622372860909/about
-[Inept Sorcerers]: http://peppermile.com/inept-sorcerers.html
+[Inept Sorcerers]: https://astralfrontier.itch.io/inept-sorcerers
 [Scribus]: http://www.scribus.net/
 [Tim Bannock]: http://timbannock.com/

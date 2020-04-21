@@ -147,4 +147,4 @@ There's no penalty and no downside to either multiclassing or staying focused.
 Your PC's identity can be something you find through play,
 or something you brought to the table on day one, but either style is fine.
 
-[Grand Adventure]: http://peppermile.com/grand-adventure.html
+[Grand Adventure]: https://astralfrontier.org/tags/grand-adventure

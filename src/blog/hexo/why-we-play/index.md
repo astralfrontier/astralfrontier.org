@@ -118,4 +118,4 @@ If I can conquer fear and hate in my mind,
 I'm preparing myself to beat it in the real world too.
 
 [Christmas truce]: https://en.wikipedia.org/wiki/Christmas_truce
-[Grand Adventure]: http://peppermile.com/grand-adventure.html
+[Grand Adventure]: https://astralfrontier.org/tags/grand-adventure

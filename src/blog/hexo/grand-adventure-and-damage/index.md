@@ -181,4 +181,4 @@ which then drives additional story,
 they can feel like a reverse of traditional damage systems
 while still trying to solve the same sorts of problems.
 
-[Grand Adventure]: http://peppermile.com/grand-adventure.html
+[Grand Adventure]: https://astralfrontier.org/tags/grand-adventure

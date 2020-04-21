@@ -4,7 +4,7 @@ title: The Unmasking
 description: >-
   The game I've been playing for over a year, colloquially known as "Monday Masks", is coming to an end. I don't know if it'll be in two sessions or twenty. So
   what should I make of all this? 
-path: /2018/10/29/the-unmasking
+path: /2018/10/30/the-unmasking
 featuredImage: ../hexo.png
 tags:
   - masks
