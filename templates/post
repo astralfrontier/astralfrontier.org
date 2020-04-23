@@ -1,6 +1,6 @@
 ---
 date: ${NOW}
-title: ${TITLE}
+title: "${TITLE}"
 path: /${SLUG}
 description: No description
 featuredImage: ./featured.jpg
