@@ -1,0 +1,14 @@
+---
+date: ${NOW}
+title: ${TITLE}
+path: /${SLUG}
+description: No description
+featuredImage: ./featured.jpg
+category: Uncategorized
+tags:
+  - tag1
+---
+
+Your article here
+
+Image source: ${FEATURED}

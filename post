@@ -1,0 +1,22 @@
+#!/bin/bash
+
+slugify () {
+    echo "$1" | iconv -t ascii//TRANSLIT | sed -r s/[~\^]+//g | sed -r s/[^a-zA-Z0-9]+/-/g | sed -r s/^-+\|-+$//g | tr A-Z a-z
+}
+
+read -p "Title: " TITLE
+read -p "Featured Image: " FEATURED
+
+export TITLE
+export FEATURED
+export TEMPLATE=${1:-post}
+export SLUG=$(slugify "$TITLE")
+export NOW=$(date -Iseconds)
+
+export DEST=src/blog/${SLUG}
+
+mkdir -p $DEST
+envsubst < templates/$TEMPLATE > $DEST/index.md
+curl -L $FEATURED -o $DEST/featured.jpg
+
+echo Created $DEST
