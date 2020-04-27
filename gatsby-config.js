@@ -89,6 +89,7 @@ module.exports = {
         icon: `src/images/favicon.png`,
       },
     },
+    `gatsby-plugin-feed`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
