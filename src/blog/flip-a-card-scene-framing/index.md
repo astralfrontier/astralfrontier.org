@@ -35,6 +35,26 @@ Each of the GM roles are involved in setting the scene up. These steps can happe
 The Facilitator and Storyteller confirm with the group as a whole when the scene feels ended,
 by asking if there's anything else any of the PCs or ECs want to do with the scene.
 
+### Genre conventions and safety tools
+
+Sometimes, we play to find out what's going to happen next.
+But often, we have some kind of assumption, stated or not, about what can or can't happen.
+
+For example, if a peaceful village is under threat of being razed by an army, or poisoned,
+or enslaved, a lot of gamers will feel that this threat _actually happening_
+is not something they're comfortable with. That's perfectly okay, and should be respected.
+
+The way to respect it is to _change the stakes or the question_ that drive a scene.
+For example, we can go from "will the village be annihilated" to "what does it cost to save the village".
+The challenge of trying to stop the event can be plenty exciting (and dangerous).
+
+Similarly, if having the PCs cool their heels in a dungeon for years isn't interesting,
+a question like "do we escape the dungeon" can be rephrased as "how do we escape the dungeon".
+The PCs might encounter a prisoner who has a way out but needs their help to enact it,
+or they might trick the guards, or the cavalry might arrive, or the dungeon itself
+might even be damaged somehow (via earthquake or flooding), making the escape perhaps
+more dangerous than the stay.
+
 ### Building scenes from encounter cards
 
 It's not always clear what the PCs should have to deal with next. Examples of when this can happen:
