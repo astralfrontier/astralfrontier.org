@@ -41,8 +41,7 @@ const Header = ({ siteTitle, toggleTransparent = false }: HeaderProps) => {
         <Nav>
           <CategoryNavs />
         </Nav>
-      </Navbar.Collapse>
-      <Nav className="justify-content-end">
+        <Nav className="justify-content-end ml-auto">
           <Nav.Item>
             <Nav.Link
               href={`https://twitter.com/${data.site.siteMetadata.author}`}
@@ -58,6 +57,7 @@ const Header = ({ siteTitle, toggleTransparent = false }: HeaderProps) => {
             </Nav.Link>
           </Nav.Item>
         </Nav>
+      </Navbar.Collapse>
     </Navbar>
   )
 }
