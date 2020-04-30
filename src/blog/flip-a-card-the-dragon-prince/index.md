@@ -33,4 +33,4 @@ After a terrifying incident, Rayla, Callum, and Ezran find themselves fleeing th
 
 I've already seen Seasons 2 and most of 3, so I know the answer of course.
 
-Image source: https://www.publicdomainpictures.net/en/view-image.php?image=189408&picture=dragon-prince
+_[Image source](https://www.publicdomainpictures.net/en/view-image.php?image=189408&picture=dragon-prince)_

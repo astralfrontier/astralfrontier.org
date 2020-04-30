@@ -62,4 +62,4 @@ I think the next steps are as follows:
 4. Write an article on how to frame scenes using encounter cards
 5. Think about how to pace or manage difficulty
 
-Image source: https://c7.uihere.com/files/302/970/550/stack-letters-letter-handwriting-family-letters-thumb.jpg
+_[Image source](https://c7.uihere.com/files/302/970/550/stack-letters-letter-handwriting-family-letters-thumb.jpg)_

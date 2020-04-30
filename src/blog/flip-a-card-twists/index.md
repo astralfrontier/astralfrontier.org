@@ -57,4 +57,4 @@ A suggested rule here is that a player can draw a twist card from a deck. If the
 
 Individual characters might also have twists written for them. For example, a brash and adventurous rogue might have a card that says something like "Kinna steals something". This can be brought into play to get characters into trouble, letting them meet one challenge but probably creating others. Character creation might then include creating a selection of twist cards.
 
-Image source: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Transfagarasan_twisty_road.jpg/800px-Transfagarasan_twisty_road.jpg
+_[Image source](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Transfagarasan_twisty_road.jpg/800px-Transfagarasan_twisty_road.jpg)_

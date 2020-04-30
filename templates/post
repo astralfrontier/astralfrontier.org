@@ -11,4 +11,4 @@ tags:
 
 Your article here
 
-Image source: ${FEATURED}
+_[Image source](${FEATURED})_

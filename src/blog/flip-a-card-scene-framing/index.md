@@ -97,4 +97,4 @@ The scene can now begin with a couple of key questions or stakes:
 "are the soldiers going to let us through?" and
 "what are the soldiers guarding against?"
 
-Image source: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Storyboard_Template.jpg/800px-Storyboard_Template.jpg
+_[Image source](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Storyboard_Template.jpg/800px-Storyboard_Template.jpg)_
