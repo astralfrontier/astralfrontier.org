@@ -70,4 +70,4 @@ Rather than Stress and Heat, characters can cause aggravation for the guest or t
 
 Position is how invasive you are in the guest's life - are you pushing boundaries to help them?
 
-_[Image source](https://upload.wikimedia.org/wikipedia/commons/1/19/Stork_Cafe%2C_3rd_Street%2C_Route_66%2C_Winslow%2C_Arizona_LOC_38290545991.jpg)_
+[Image source](https://upload.wikimedia.org/wikipedia/commons/1/19/Stork_Cafe%2C_3rd_Street%2C_Route_66%2C_Winslow%2C_Arizona_LOC_38290545991.jpg)
