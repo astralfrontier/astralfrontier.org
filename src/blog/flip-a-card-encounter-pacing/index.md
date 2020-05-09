@@ -35,6 +35,8 @@ A good challenge spotlights a character, the situation, or the themes of your st
 * Is our story about something, like redemption or vengeance or environmentalism, that we can say something about via the challenge?
 * If the player doesn't meet the challenge, would the other players throw up their hands and express frustration? Or would they lean forward, like "yeah, now some shit is about to go down"?
 
+What should the challenge be, specifically? The encounter cards provide writing prompts that suggest ideas. For example, the "Flying" card says "Strike targets on the ground without risking counterattacks", so avoiding being struck can be a challenge. For encounters that don't fit onto the existing cards, you'll have to come up with your own ideas. If you do, write a new card!
+
 > I was flipping cards on Jake the whole time which made me realize, "Oh, snap, every time I ask them to face a challenge, I'm 33% closer to them HAVING to fail or take a condition."  And that *felt* in the moment like i was doing too much, maybe?
 
 Listening to that voice is what the game wants you to do. If posing a challenge feels unfair or unfun, you know it's time to stop.
@@ -47,7 +49,7 @@ Alright, tool time! Here's three ways to pace encounters.
 
 This is suitable for fighting singular monsters or overcoming big threats, in a rapidly evolving situation. Pick a star rating for your encounter, 1-5. Multiply that by 3. That's your challenge budget. For example, you have an Armored Flying dragon that's a four-star encounter. This means it will pose about 12 challenges.
 
-You spend your budget making the characters do these three things in order:
+You pose challenges to make the characters do these three things:
 
 * Analyze the encounter for a weakness
 * Create an opportunity
@@ -64,6 +66,18 @@ Either way, the conclusion feels like a group that's exhausted and out of resour
 ### Hit points and progress clocks
 
 This is like the ACE system, but much more freeform. Rate the challenge from 1-5 stars, as before. Roll 1d6 per star, and add up the numbers. That's how many challenges are necessary to get through the encounter.
+
+How do you pick challenges? Alternate between the categories given earlier:
+
+* A challenge that spotlights the character's strengths or weaknesses
+* A challenge that tells us about the encounter or the environment
+* A challenge that pushes on the story's themes
+
+For example, we have an Armored Flying dragon, a four-star challenge. We roll 4d6 and get 13, so we want about 13 challenges. We can imagine those playing out in the following ways:
+
+* Four character challenges (the mage getting to use her magic; the nimble thief diving onto the dragon's back; the brave knight provoking the creature's attention; the wary archer taking careful shots)
+* Six encounter challenges (finding cover against the dragon's fiery breath; ascending a crumbling tower, but almost falling through it; the dragon swooping down over the party, almost knocking someone off the tower roof; and three incidental challenges from PC action)
+* Three story challenges (the mage pushed her magic harder than she should; the archer took a surprising risk; and one other, depending on campaign)
 
 ### Spotlight
 
