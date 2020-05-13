@@ -64,6 +64,10 @@ you can repeat the process and detail other areas.
 Eventually you can connect your ideas together,
 forming a city as simple or as complex as you like.
 
+The shape of the cards doesn't have to match the city's actual geography.
+You can toss cards carelessly onto a table to create a layout
+for the city, or arrange it based on the dynamics you established.
+
 ### Example City
 
 We'll draw four Neighborhood cards and arrange them in a triangle,
