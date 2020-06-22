@@ -4,9 +4,10 @@ title: "${TITLE}"
 path: /${SLUG}
 description: No description
 featuredImage: ./featured.jpg
-category: Uncategorized
+category: flip-a-card
 tags:
-  - tag1
+  - flip-a-card
+  - game design diary
 ---
 
 Your article here

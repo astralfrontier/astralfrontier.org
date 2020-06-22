@@ -6,13 +6,12 @@ slugify () {
 
 read -p "Title: " TITLE
 read -p "Featured Image: " FEATURED
+read -p "Featured Source: " FEATUREDSOURCE
 
-export TITLE
-export FEATURED
+export TITLE FEATURED FEATUREDSOURCE
 export TEMPLATE=${1:-post}
 export SLUG=$(slugify "$TITLE")
 export NOW=$(date -Iseconds)
-
 export DEST=src/blog/${SLUG}
 
 mkdir -p $DEST
