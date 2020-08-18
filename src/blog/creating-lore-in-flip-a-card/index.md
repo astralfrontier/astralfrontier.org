@@ -32,6 +32,9 @@ If the game is using [pole stars](https://astralfrontier.itch.io/pole-stars), al
 When the players find answers to these questions,
 or when the story is in a lull and more lore would push it forward,
 create a new lore card by answering a question off a previous card.
+When players discover the truth behind a rumor,
+or hear a rumor about something where the truth is known,
+fill in the appropriate side of the card.
 
 For example, if a question is "what is the Bronze Horde after?",
 one answer might be "a nearby kingdom", which can be described via a lore card.
