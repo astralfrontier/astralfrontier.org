@@ -1,7 +1,7 @@
 +++
 title = "Characters"
 sort_by = "title"
-generate_feed = false
+generate_feeds = false
 template = "library.html"
 +++
 

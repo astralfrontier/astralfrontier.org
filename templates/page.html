@@ -21,7 +21,7 @@
 {% block rss %}
 {% if page.ancestors and page.ancestors[1] %}
 {% set parent_section = get_section(path=page.ancestors[1], metadata_only=true) %}
-{% if parent_section.generate_feed %}
+{% if parent_section.generate_feeds %}
 <link rel="alternate" type="application/atom+xml" title="{{parent_section.title}} Feed" href="{{parent_section.permalink | safe}}atom.xml">
 {% endif %}
 {% endif %}

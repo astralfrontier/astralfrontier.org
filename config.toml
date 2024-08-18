@@ -16,7 +16,7 @@ taxonomies = [{ name = "tags", feed = true }]
 
 # For whatever reason, minifying breaks the banner image
 minify_html = false
-generate_feed = true
+generate_feeds = true
 
 [markdown]
 # Whether to do syntax highlighting

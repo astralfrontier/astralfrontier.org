@@ -19,7 +19,7 @@
 {% endblock %}
 
 {% block rss %}
-{% if section.generate_feed %}
+{% if section.generate_feeds %}
 <link rel="alternate" type="application/atom+xml" title="{{section.title}} Feed" href="{{section.permalink | safe}}atom.xml">
 {% endif %}
 {% endblock %}
