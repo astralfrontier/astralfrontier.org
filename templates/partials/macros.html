@@ -39,7 +39,13 @@
 <div class="h-entry">
     <div class="media">
         <div class="media-center">
+            {% if page.extra.icon %}
+            <span class="icon author-image">
+                <i class="{{page.extra.icon}}"></i>
+            </span>
+            {% else %}
             <img src="/brand/avatar-256x256.png" class="author-image" alt="Astral Frontier">
+            {% endif %}
         </div>
         {% if force_full %}
         <a id="article-top"></a>
