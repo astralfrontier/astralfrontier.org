@@ -3,12 +3,12 @@
 
 {% block title %}
 <title>{{page.title}}</title>
-<meta name="description" content="{{page.description | default(value=config.description)}}" />
+<meta name="description" content="{{page.description | default(value=page.summary) | default(value=config.description)}}" />
 {% endblock %}
 
 {% block ogp %}
 <meta property="og:title" content="{{page.title}}" />
-<meta property="og:description" content="{{page.description | default(value=config.description)}}" />
+<meta property="og:description" content="{{page.description | default(value=page.summary) | default(value=config.description)}}" />
 <meta property="og:type" content="website" />
 {% if current_url %}
 <meta property="og:url" content="{{current_url | safe}}" />
