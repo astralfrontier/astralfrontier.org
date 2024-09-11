@@ -6,6 +6,9 @@ authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Worldbuilding" ]
+
+[extra]
+icon = "fa-solid fa-rocket"
 +++
 
 I started writing a setting to roll up a lot of thoughts about high fantasy and science fantasy.

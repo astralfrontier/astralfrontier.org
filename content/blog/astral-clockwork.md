@@ -9,6 +9,7 @@ tags = [ "Worldbuilding" ]
 
 [extra]
 banner_image = "blog/print-template-947873_1920.jpg"
+icon = "fa-solid fa-hat-wizard"
 +++
 
 For the [Gigaia](https://astralfrontier.itch.io/gigaia) supplement

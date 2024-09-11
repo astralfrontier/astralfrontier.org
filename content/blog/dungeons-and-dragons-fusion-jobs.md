@@ -3,6 +3,9 @@ title = "Dungeons & Dragons fusion jobs"
 description = "Another mashup of classes"
 date = "2024-04-07 10:49:32"
 authors = [ "astralfrontier" ]
+
+[extra]
+icon = "fa-brands fa-d-and-d"
 +++
 
 In the spirit of [Final Fantasy fusion jobs](@/blog/final-fantasy-fusion-jobs.md),

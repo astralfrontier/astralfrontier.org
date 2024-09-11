@@ -9,6 +9,7 @@ tags = [ "Software", "Lacuna" ]
 
 [extra]
 banner_image = "/blog/blood-rage-4311101_1920.jpg"
+icon = "fa-solid fa-dice"
 hide_toc = true
 +++
 

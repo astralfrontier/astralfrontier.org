@@ -9,6 +9,7 @@ tags = [ "Game Design Diary" ]
 
 [extra]
 banner_image = "blog/telephone-7292504_1920.png"
+icon = "fa-solid fa-crown"
 +++
 
 [For the Queen](https://darringtonpress.com/forthequeen/) is a collaborative card-driven game

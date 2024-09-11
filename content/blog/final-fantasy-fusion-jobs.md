@@ -9,6 +9,7 @@ tags = ["Final Fantasy XIV"]
 
 [extra]
 banner_image="quarto-decimo-novum/quarto-decimo-novum-introduction.jpg"
+icon = "fa-solid fa-blender"
 hide_toc = true
 +++
 

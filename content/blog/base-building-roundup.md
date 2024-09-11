@@ -9,6 +9,7 @@ tags = [ "Games" ]
 
 [extra]
 banner_image = "blog/base-building-roundup.png"
+icon = "fa-solid fa-tower-observation"
 pullquote = """
 You don't start with a drone system at first, but when it unlocks, it's a game changer.
 """

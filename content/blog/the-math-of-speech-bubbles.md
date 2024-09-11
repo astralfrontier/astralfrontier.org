@@ -6,6 +6,9 @@ authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Comic Design Diary"]
+
+[extra]
+icon = "fa-regular fa-comments"
 +++
 
 In the interest of creating a comic book, and/or a visual novel with a comic-book vibe,

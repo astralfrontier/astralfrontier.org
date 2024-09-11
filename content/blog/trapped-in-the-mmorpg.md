@@ -6,6 +6,9 @@ authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Worldbuilding" ]
+
+[extra]
+icon = "fa-solid fa-earth-europe"
 +++
 
 The [LitRPG](https://tvtropes.org/pmwiki/pmwiki.php/Main/LitRPG) or "Literary Role-Playing Game" has become prominent in recent years.

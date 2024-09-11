@@ -9,6 +9,7 @@ tags = [ "Worldbuilding", "Menagerie" ]
 
 [extra]
 banner_image = "/blog/man-5640540_1920.jpg"
+icon = "fa-solid fa-mask"
 pullquote = """
 Comic books love bringing people back to life, we can think of a person’s existence as the continuity of their memories, and the idea of a soul as carrying memories mean we have a way to say "this is really that person".
 """
