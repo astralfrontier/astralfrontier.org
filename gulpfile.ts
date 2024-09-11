@@ -11,6 +11,8 @@ import path from "node:path";
 import slugify from "slugify";
 import ogs from "open-graph-scraper";
 // const cheerio = require("gulp-cheerio");
+const matter = require("gray-matter");
+import through2 from "gulp-through2";
 
 function fontAwesome() {
   return src("node_modules/@fortawesome/fontawesome-free/webfonts/*").pipe(
@@ -253,6 +255,26 @@ async function downloadFileToPath(
   return bannerImage;
 }
 
+async function contentReport() {
+  const matterOptions = {
+    delims: "+++",
+    language: "toml",
+    engines: {
+      toml: toml.parse.bind(toml),
+    },
+  };
+  return src("content/**/*.md").pipe(
+    through2({
+      transform(content, file, encoding) {
+        const result = matter(content, matterOptions);
+        const data = { path: file.path, ...result.data };
+        console.log(JSON.stringify(data));
+        return null;
+      },
+    })
+  );
+}
+
 exports.newblog = newBlog;
 exports.addBanner = addBanner;
 exports.preinstall = parallel(fontAwesome, jquery);
@@ -263,4 +285,5 @@ exports.build = series(
   css
 );
 exports.serve = series(exports.preinstall, zolaServe);
+exports.report = contentReport;
 exports.default = exports.build;
