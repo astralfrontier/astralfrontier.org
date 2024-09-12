@@ -256,6 +256,7 @@ async function downloadFileToPath(
 }
 
 async function contentReport() {
+  const contentRoot = path.join(__dirname, "content");
   const matterOptions = {
     delims: "+++",
     language: "toml",
@@ -265,9 +266,12 @@ async function contentReport() {
   };
   return src("content/**/*.md").pipe(
     through2({
-      transform(content, file, encoding) {
+      transform(content, file, _encoding) {
         const result = matter(content, matterOptions);
-        const data = { path: file.path, ...result.data };
+        const data = {
+          path: path.relative(contentRoot, file.path),
+          ...result.data,
+        };
         console.log(JSON.stringify(data));
         return null;
       },

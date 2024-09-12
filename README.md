@@ -34,3 +34,13 @@ If I ever migrate past basic jQuery, I might include a JS build pipeline, but we
 You can look for broken links with wget, e.g.
 
 `C:\ProgramData\chocolatey\lib\Wget\tools\wget  -r -nv --spider -o broken.log https://astralfrontier.org`
+
+## Reports
+
+You can generate reports on content metadata with `gulp report`, e.g.
+
+```
+npm run gulp report | findstr path | jq -r 'select(.extra?.icon? == null) | .path'
+```
+
+This will show all content by path that doesn't have an 'icon' field in the extra section of the front matter.
