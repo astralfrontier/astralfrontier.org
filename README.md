@@ -14,6 +14,26 @@ You can use `npm run new-blog` to kick off a script that generates a new blog po
 
 Any git commit will trigger a build on Netlify, where the site is currently hosted. Look at `netlify.toml` for the commands that are run.
 
+### Front matter
+
+These are the top-level front matter keys and their significance.
+
+- **title**: the name of the article.
+- **description**: a short description of the article. Will be used for previews and OG metadata.
+- **date**: the current date and time, formatted as `YYYY-MM-DD hh:mm:ss`.
+- **authors**: an array, e.g. `["username]`. Used to display authorship of a blog post.
+
+The **taxonomies** section can include these keys:
+
+- **tags**: an array of tag names, e.g. `["Game Design Diary"]`.
+
+The **extra** section can include these keys:
+
+- **banner_image**: the URL to a banner image to show on the post, relative to the site root. Must be a local file, to allow dynamic image resizing to work.
+- **icon**: if supplied, shows a Font Awesome icon e.g. `fa-solid fa-icon`. If not supplied, a default avatar will be shown.
+- **hide_toc**: if a table of contents sidebar would be shown on the blog post due to length, this suppresses that behavior.
+- **pullquote**: if supplied, shows a blockquoted bit of text in the TOC sidebar.
+
 ## Images
 
 You have two choices for images:
@@ -39,8 +59,6 @@ You can look for broken links with wget, e.g.
 
 You can generate reports on content metadata with `gulp report`, e.g.
 
-```
-npm run gulp report | findstr path | jq -r 'select(.extra?.icon? == null) | .path'
-```
+`npm run gulp report | findstr path | jq -r 'select(.extra?.icon? == null) | .path'`
 
 This will show all content by path that doesn't have an 'icon' field in the extra section of the front matter.
