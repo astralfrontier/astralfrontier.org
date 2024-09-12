@@ -39,13 +39,17 @@
 <div class="h-entry">
     <div class="media">
         <div class="media-center">
-            {% set icon_candidate = config.extra.icon %}
-            {% if section.extra.icon %}
-            {% set icon_candidate = section.extra.icon %}
-            {% endif %}
-            {% if page.extra.icon %}
-            {% set icon_candidate = page.extra.icon %}
-            {% endif %}
+            {% set icon_candidate = config.extra.icon -%}
+            {% if page.extra.icon -%}
+            {% set icon_candidate = page.extra.icon -%}
+            {% else -%}
+            {% for ancestor_name in page.ancestors -%}
+            {% set ancestor = get_section(path=ancestor_name, metadata_only=true) -%}
+            {% if ancestor.extra.icon -%}
+            {% set_global icon_candidate = ancestor.extra.icon -%}
+            {% endif -%}
+            {% endfor -%}
+            {% endif -%}
             <span class="icon author-image">
                 <i class="{{icon_candidate}}"></i>
             </span>

@@ -7,6 +7,7 @@ paginate_by = 10
 
 [extra]
 banner_image = "/exsurge-auroram/ExsurgeAuroramLogo.png"
+icon = "fa-solid fa-sun"
 flip_pagination = true
 +++
 
