@@ -39,13 +39,16 @@
 <div class="h-entry">
     <div class="media">
         <div class="media-center">
-            {% if page.extra.icon %}
-            <span class="icon author-image">
-                <i class="{{page.extra.icon}}"></i>
-            </span>
-            {% else %}
-            <img src="/brand/avatar-256x256.png" class="author-image" alt="Astral Frontier">
+            {% set icon_candidate = config.extra.icon %}
+            {% if section.extra.icon %}
+            {% set icon_candidate = section.extra.icon %}
             {% endif %}
+            {% if page.extra.icon %}
+            {% set icon_candidate = page.extra.icon %}
+            {% endif %}
+            <span class="icon author-image">
+                <i class="{{icon_candidate}}"></i>
+            </span>
         </div>
         {% if force_full %}
         <a id="article-top"></a>

@@ -36,6 +36,7 @@ index_format = "elasticlunr_json"
 
 [extra]
 default_banner = "/brand/shutterstock_2284544289.jpg"
+icon = "fa-solid fa-a"
 tag_banner_images = [
     { tag = "Constellation Cards", banner_image = "blog/north-star-2869817_1280.jpg" },
     { tag = "Final Fantasy XIV", banner_image = "quarto-decimo-novum/quarto-decimo-novum-introduction.jpg" },
