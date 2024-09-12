@@ -9,6 +9,7 @@ tags = ["Worldbuilding","Fantasy"]
 
 [extra]
 banner_image = "blog/detective-6677956_1280.jpg"
+icon = "fa-solid fa-magnifying-glass"
 hide_toc = true
 +++
 

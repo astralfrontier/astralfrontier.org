@@ -9,6 +9,7 @@ tags = ["Worldbuilding","Game Design Diary"]
 
 [extra]
 banner_image = "blog/treasure-chest-619868_1280.jpg"
+icon = "fa-solid fa-code-fork"
 +++
 
 The [Quantum Ogre](https://www.reddit.com/r/rpg/comments/2b3qsx/the_quantum_ogre_a_dialogue/)

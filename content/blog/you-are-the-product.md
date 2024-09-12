@@ -9,6 +9,7 @@ draft = true
 tags = [ "Commentary" ]
 
 [extra]
+icon = "fa-solid fa-rectangle-ad"
 hide_toc = true
 +++
 

@@ -9,6 +9,7 @@ tags = ["Arise"]
 
 [extra]
 banner_image = "blog/Arise.png"
+icon = "fa-solid fa-people-arrows"
 pullquote = """
 Skrint are small goblinkind
 with a worrying quality: when a band of Skrint latch onto something

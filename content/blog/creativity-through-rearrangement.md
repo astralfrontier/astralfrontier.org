@@ -9,6 +9,7 @@ tags = ["Worldbuilding"]
 
 [extra]
 banner_image = "blog/scrabble-921254_1280.jpg"
+icon = "fa-solid fa-shuffle"
 +++
 
 "I have to come up with something but I don't have any ideas!"

@@ -6,6 +6,7 @@ authors = ["astralfrontier"]
 
 [extra]
 banner_image = "blog/fast-and-furious.jpg"
+icon = "fa-solid fa-person-falling-burst"
 +++
 
 Different TTRPG systems try to mesh mechanics together to yield a satisfactory outcome.

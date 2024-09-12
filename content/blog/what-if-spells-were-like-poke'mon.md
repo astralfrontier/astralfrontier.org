@@ -9,6 +9,7 @@ tags = ["Worldbuilding"]
 
 [extra]
 banner_image = "blog/firebirds-695766_1280.jpg"
+icon = "fa-solid fa-hat-wizard"
 +++
 
 "The elements of life and the makings of our world, they have intent. Fire burns, sure, but is it a cozy campfire or a roaring inferno eating away at a forest? Water flows, but is it the gentle brook or a drowning tidal wave?"

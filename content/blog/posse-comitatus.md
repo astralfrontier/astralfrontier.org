@@ -3,6 +3,9 @@ title = "POSSE Comitatus"
 description = "Another incarnation of the blog"
 date = "2023-10-24"
 authors = ["astralfrontier"]
+
+[extra]
+icon = "fa-solid fa-blog"
 +++
 
 Twitter is taking an awfully long time to die, but its death is widely seen as inevitable.

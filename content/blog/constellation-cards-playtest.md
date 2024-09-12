@@ -9,6 +9,7 @@ tags = ["Constellation Cards","Game Design Diary"]
 
 [extra]
 banner_image = "blog/north-star-2869817_1280.jpg"
+icon = "fa-solid fa-star-half-stroke"
 pullquote = """
 ...Explorers about to pass through a magical or technological portal into an unknown world...
 """

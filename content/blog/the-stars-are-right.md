@@ -9,6 +9,7 @@ tags = ["Constellation Cards", "Game Design Diary"]
 
 [extra]
 banner_image = "blog/north-star-2869817_1280.jpg"
+icon = "fa-solid fa-file-pdf"
 pullquote = """
 ConTeXt is a more modern LaTeX engine that supports PDF/X, TrueType and OpenType fonts, and other features I needed.
 """

@@ -9,6 +9,7 @@ tags = ["Worldbuilding","Magic"]
 
 [extra]
 banner_image = "blog/magic-8191902_1280.png"
+icon = "fa-solid fa-circle-nodes"
 +++
 
 How does your fictional world’s summoning or conjuring work? When your magic users call for something to appear, what’s going on that makes it work?

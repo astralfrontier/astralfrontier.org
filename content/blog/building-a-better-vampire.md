@@ -9,6 +9,7 @@ tags = ["Vampire","Worldbuilding"]
 
 [extra]
 banner_image = "blog/gothic-2097966_1280.jpg"
+icon = "fa-solid fa-moon"
 +++
 
 There’s an [excellent thread on Twitter](https://x.com/ianwaprice/status/1585526067514802176?s=20) about magic, urban fantasy, and the Dresden Files in particular.

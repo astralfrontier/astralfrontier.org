@@ -9,6 +9,7 @@ tags = ["Commentary"]
 
 [extra]
 banner_image = "blog/road-856028_1280.jpg"
+icon = "fa-solid fa-mountain"
 pullquote = """
 The story of Red Rock Mountain is that the ideal goal for many activists is, essentially, unattainable in their lifetime.
 There are compromises and alternative destinations on the journey, but it’s risky to think of them as rest stops instead of traps.
