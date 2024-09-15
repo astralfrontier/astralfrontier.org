@@ -104,6 +104,11 @@ async function newBlog() {
     },
     {
       type: "input",
+      name: "icon",
+      message: "FA Icon (https://fontawesome.com/search?o=r&m=free)",
+    },
+    {
+      type: "input",
       name: "tags",
       message: "Comma-separated tags",
     },
@@ -162,6 +167,15 @@ async function newBlog() {
     } else {
       metadata["extra"] = { banner_image: answers["banner_image"] };
     }
+  }
+  if (answers["icon"]) {
+    if (!metadata["extra"]) {
+      metadata["extra"] = {};
+    }
+    metadata["extra"]["icon"] = answers["icon"].replace(
+      /^<i class="(.*)"><\/i>$/,
+      "$1"
+    );
   }
 
   const text = `+++\n${toml.stringify(
