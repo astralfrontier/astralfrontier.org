@@ -3,6 +3,9 @@ title = "Performing Yourself vs. Moving In"
 description = "An explanation of the appeal different games have for me"
 date = "2024-09-14 04:55:31"
 authors = [ "astralfrontier" ]
+
+[extra]
+icon = "fa-solid fa-masks-theater"
 +++
 
 It's sometimes hard for me to find roleplaying games that satisfy the particular goals I have. And I sometimes describe those goals as "moving into a game",
