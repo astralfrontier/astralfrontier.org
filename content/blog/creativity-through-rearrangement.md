@@ -2,7 +2,6 @@
 title = "Creativity Through Rearrangement"
 description = "Specific techniques for coming up with names and other ideas in a hurry"
 date = "2023-10-26 17:15:06"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Worldbuilding"]

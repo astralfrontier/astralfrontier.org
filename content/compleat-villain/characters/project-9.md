@@ -2,7 +2,6 @@
 title = "Project 9"
 description = "A mysterious alien trying to entertain people wherever they go"
 date = "2022-03-20T12:04:31.356Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Outsider Playbook"]

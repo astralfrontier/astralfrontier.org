@@ -137,7 +137,6 @@ async function newBlog() {
     title,
     description: answers["description"],
     date,
-    authors: ["astralfrontier"],
   };
   if (tags.length) {
     metadata["taxonomies"] = { tags };

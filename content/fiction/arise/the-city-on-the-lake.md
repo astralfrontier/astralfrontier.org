@@ -2,7 +2,6 @@
 title = "The City on the Lake"
 description = "The adventurers search for answers as time runs out"
 date = "2023-11-22 07:08:05"
-authors = ["astralfrontier"]
 +++
 
 This is the third part of the Project Arise playtest story.

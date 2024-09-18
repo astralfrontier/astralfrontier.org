@@ -2,7 +2,6 @@
 title = "\"You Are The Product\""
 description = "Why online advertising is more complex than a slogan"
 date = "2024-04-07 16:43:59"
-authors = [ "astralfrontier" ]
 draft = true
 
 [taxonomies]

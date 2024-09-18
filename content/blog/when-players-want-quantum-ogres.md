@@ -2,7 +2,6 @@
 title = "When players want quantum ogres"
 description = "An approach to game design that rewards player interest"
 date = "2023-10-31 17:34:23"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Worldbuilding","Game Design Diary"]

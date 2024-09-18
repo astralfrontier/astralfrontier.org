@@ -2,7 +2,7 @@
 title = "The Party"
 description = "A scientist struggles with the proper use of time travel"
 date = "2016-05-19T00:00:00.000Z"
-authors = ["astralfrontier"]
+
 [taxonomies]
 tags = ["Time Travel", "Death"]
 +++

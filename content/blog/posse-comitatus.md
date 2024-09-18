@@ -2,7 +2,6 @@
 title = "POSSE Comitatus"
 description = "Another incarnation of the blog"
 date = "2023-10-24"
-authors = ["astralfrontier"]
 
 [extra]
 icon = "fa-solid fa-blog"

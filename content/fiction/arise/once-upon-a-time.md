@@ -2,7 +2,6 @@
 title = "Once Upon a Time"
 description = "The start of our story, and an explanation"
 date = "2023-11-16 16:32:38"
-authors = ["astralfrontier"]
 +++
 
 To help [matara](https://mataramg.itch.io/) playtest a new game project,

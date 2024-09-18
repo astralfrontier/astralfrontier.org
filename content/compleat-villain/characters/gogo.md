@@ -2,7 +2,6 @@
 title = "Gogo"
 description = "A highly agile transforming hero"
 date = "2021-09-11T08:46:27.258Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Janus Playbook"]

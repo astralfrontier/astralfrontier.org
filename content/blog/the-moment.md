@@ -2,7 +2,6 @@
 title = "The Moment"
 description = "A For the Queen game based on Doctor Who"
 date = "2024-08-17 17:39:19"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Game Design Diary" ]

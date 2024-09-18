@@ -2,7 +2,6 @@
 title = "Base-Building Roundup"
 description = "What am I looking for in a base-building game and what am I getting?"
 date = "2024-05-03 11:23:14"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Games" ]

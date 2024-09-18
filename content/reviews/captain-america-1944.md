@@ -2,7 +2,6 @@
 title = "Captain America (1944)"
 description = "The Republic serial featuring a not-at-all expected version of the Marvel character"
 date = "2024-03-26 09:31:30"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Serial" ]

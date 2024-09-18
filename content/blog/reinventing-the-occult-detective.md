@@ -2,7 +2,6 @@
 title = "Reinventing the Occult Detective"
 description = "How I would do a subgenre of urban fantasy, and why I'd do it that way"
 date = "2023-10-27 01:12:31"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Worldbuilding","Fantasy"]

@@ -2,7 +2,6 @@
 title = "The Ferry"
 description = "A small riverboat has come under attack by hostile forces as it prepares to set sail. The heroes must defend it - or escape on it."
 date = "2023-12-13T00:17:00.000Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise"]

@@ -2,7 +2,6 @@
 title = "Spitfire"
 description = "A Golden Age hero with a jetpack"
 date = "2022-05-05T01:50:58.862Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Janus Playbook"]

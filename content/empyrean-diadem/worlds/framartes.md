@@ -2,7 +2,6 @@
 title = "Framartes"
 description = "The fourth planet of the system"
 date = "2024-03-06 20:15:00"
-authors = [ "astralfrontier" ]
 weight = 4
 
 [taxonomies]

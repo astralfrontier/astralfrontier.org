@@ -2,7 +2,6 @@
 title = "Fungal Necropolis Entrance"
 description = "The fortified entrance to a mysteriously abandoned city"
 date = "2024-01-13 11:20:11"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise", "Fungal Necropolis"]

@@ -2,7 +2,6 @@
 title = "Quarto Decimo Novum: Soul Crystals"
 description = "A draft on how to implement soul crystals"
 date = "2019-11-30T08:17:21.000Z"
-authors = ["astralfrontier"]
 weight = 38
 
 [taxonomies]

@@ -2,7 +2,6 @@
 title = "Nick Knack"
 description = "A psychic who depends on the emotional power of items he carries"
 date = "2021-09-11T09:27:13.164Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Nova Playbook"]

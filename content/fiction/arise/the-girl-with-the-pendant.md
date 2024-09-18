@@ -2,7 +2,6 @@
 title = "The Girl With the Pendant"
 description = "The second chapter of the Arise playtest"
 date = "2023-11-19 21:05:57"
-authors = ["astralfrontier"]
 +++
 
 This is the second part of the Project Arise playtest story.

@@ -2,7 +2,6 @@
 title = "The Math of Speech Bubbles"
 description = "Building an comic book, one computation at a time"
 date = "2024-01-12 01:06:58"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Comic Design Diary"]

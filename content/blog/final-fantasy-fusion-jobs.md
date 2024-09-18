@@ -2,7 +2,6 @@
 title = "Final Fantasy fusion jobs"
 description = "What if we combined classic FF jobs into new forms?"
 date = "2024-01-18 07:57:03"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Final Fantasy XIV"]

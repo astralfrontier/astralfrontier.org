@@ -2,7 +2,6 @@
 title = "Zarkhaen"
 description = "The first planet of the system"
 date = "2024-03-03 10:32:09"
-authors = [ "astralfrontier" ]
 weight = 1
 
 [taxonomies]

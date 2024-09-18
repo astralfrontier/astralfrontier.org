@@ -2,7 +2,6 @@
 title = "Quarto Decimo Novum: Talents Part 1"
 description = "New and modified talents for the game"
 date = "2019-11-22T21:02:47.000Z"
-authors = ["astralfrontier"]
 weight = 40
 
 [taxonomies]

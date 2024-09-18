@@ -2,11 +2,12 @@
 title = "Pray"
 description = "What we worship is not always what we think"
 date = "2015-09-04T00:00:00.000Z"
-authors = ["astralfrontier"]
-[extra]
-banner_image = "/stock/death-164761_1280.jpg"
+
 [taxonomies]
 tags = ["Religion"]
+
+[extra]
+banner_image = "/stock/death-164761_1280.jpg"
 +++
 
 "Vice is the spice of life, reverend," said Sutherland, smiling around his cigar like a Cheshire cat. The black-clad minister sighed and slid a weathered pamphlet across the table, and Sutherland toyed with it for a few moments.

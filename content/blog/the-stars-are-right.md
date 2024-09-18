@@ -2,7 +2,6 @@
 title = "The Stars Are Right"
 description = "Getting Constellation Cards shippable, and next steps"
 date = "2023-11-11 20:49:15"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Constellation Cards", "Game Design Diary"]

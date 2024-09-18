@@ -2,7 +2,6 @@
 title = "Trapped in the MMORPG"
 description = "A way to handle high-stakes LitRPGs"
 date = "2024-04-19 13:10:59"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Worldbuilding" ]

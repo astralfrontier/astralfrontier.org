@@ -2,7 +2,6 @@
 title = "Quarto Decimo Novum: Sample Characters"
 description = "Sample characters using the provided rules"
 date = "2019-12-05T20:10:05.000Z"
-authors = ["astralfrontier"]
 weight = 99
 
 [taxonomies]

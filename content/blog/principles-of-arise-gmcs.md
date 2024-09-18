@@ -2,7 +2,6 @@
 title = "Principles of Arise GMCs"
 description = "How to design adversaries for Arise"
 date = "2023-11-28 23:13:37"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise"]

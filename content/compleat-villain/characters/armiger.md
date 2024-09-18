@@ -2,7 +2,6 @@
 title = "Armiger"
 description = "A squire wielding the legendary sword Excalibur"
 date = "2021-09-11T09:19:31.154Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Legacy Playbook"]

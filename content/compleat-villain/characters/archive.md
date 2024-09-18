@@ -2,7 +2,6 @@
 title = "Archive"
 description = "A hero with a civilization's knowledge in his head"
 date = "2022-03-18T03:40:44.818Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Nova Playbook"]

@@ -2,7 +2,6 @@
 title = "Gaming Recap: September 15, 2024"
 description = "A rundown of games and game activity this week"
 date = "2024-09-15 15:01:14"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Game Recap" ]

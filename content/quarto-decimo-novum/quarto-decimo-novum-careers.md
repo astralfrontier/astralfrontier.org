@@ -2,7 +2,6 @@
 title = "Quarto Decimo Novum: Careers"
 description = "Character careers for adventurers of all kinds"
 date = "2019-11-20T02:23:22.000Z"
-authors = ["astralfrontier"]
 weight = 30
 
 [taxonomies]

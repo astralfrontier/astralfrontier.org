@@ -2,7 +2,6 @@
 title = "iSpider"
 description = "A former villain henchman turned fun-loving vigilante"
 date = "2022-03-19T05:06:25.816Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Star Playbook"]

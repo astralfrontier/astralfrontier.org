@@ -2,7 +2,6 @@
 title = "Quarto Decimo Novum: Talents Part 2"
 description = "Second-tier talents for FFXIV characters"
 date = "2019-12-15T00:20:36.000Z"
-authors = ["astralfrontier"]
 weight = 45
 
 [taxonomies]

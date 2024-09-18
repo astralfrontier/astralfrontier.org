@@ -2,7 +2,6 @@
 title = "Astral Clockwork"
 description = "A paradigm for wizards in a high fantasy setting"
 date = "2024-04-05 13:03:09"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Worldbuilding" ]

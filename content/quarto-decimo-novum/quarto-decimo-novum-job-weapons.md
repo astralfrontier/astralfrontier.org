@@ -2,7 +2,6 @@
 title = "Quarto Decimo Novum: Job Weapons"
 description = "What are the iconic weapons and armor of the various classes and jobs?"
 date = "2019-12-15T03:37:27.000Z"
-authors = ["astralfrontier"]
 weight = 50
 
 [taxonomies]

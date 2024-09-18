@@ -2,7 +2,6 @@
 title = "Rivet"
 description = "A not-so-ex-villain trying to do right and failing miserably"
 date = "2021-09-11T09:46:23.343Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Reformed Playbook"]

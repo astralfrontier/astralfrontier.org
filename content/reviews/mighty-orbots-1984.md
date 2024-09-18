@@ -2,7 +2,6 @@
 title = "Mighty Orbots (1984)"
 description = "The robot hero series that lost to the Gobots. Wait, are you kidding? The Gobots? What the f"
 date = "2024-05-02 23:43:09"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Series", "Animation" ]

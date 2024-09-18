@@ -2,7 +2,6 @@
 title = "Quarto Decimo Novum: Implements"
 description = "The magical implements used by some classes and jobs"
 date = "2019-12-03T08:34:39.000Z"
-authors = ["astralfrontier"]
 weight = 55
 
 [taxonomies]

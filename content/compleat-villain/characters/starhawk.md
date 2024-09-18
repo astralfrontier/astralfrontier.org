@@ -2,7 +2,6 @@
 title = "Starhawk"
 description = "A hero recruit taking care of a nascent font of power"
 date = "2022-03-01T22:08:33.618Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Legacy Playbook"]

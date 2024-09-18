@@ -2,7 +2,6 @@
 title = "Skrint"
 description = "A goblin type that develops a hivemind devoted to protecting beautiful things"
 date = "2023-12-13T10:17:00.000Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise", "Goblinkind", "Metal Aspect"]

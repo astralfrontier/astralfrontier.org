@@ -2,7 +2,7 @@
 title = "Uncertainty"
 description = "The effects of a new invention on the film industry"
 date = "2015-09-04T00:00:00.000Z"
-authors = ["astralfrontier"]
+
 [taxonomies]
 tags = ["Science Fiction", "Quantum Immortality"]
 +++

@@ -2,7 +2,6 @@
 title = "The Kingdom and the Throne"
 description = "A rivalry between superscience families"
 date = "2021-09-11T09:19:31.154Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks"]

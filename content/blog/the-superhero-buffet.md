@@ -2,7 +2,6 @@
 title = "The Superhero Buffet"
 description = "Why the superhero genre appeals to me so much"
 date = "2023-11-08 08:21:37"
-authors = ["astralfrontier"]
 
 [extra]
 banner_image = "blog/batman-2216148_1280.jpg"

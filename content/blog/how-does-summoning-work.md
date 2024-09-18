@@ -2,7 +2,6 @@
 title = "How Does Summoning Work?"
 description = "Ways to break down how summoning or conjuring entities can work in fantasy"
 date = "2022-08-03 08:58:00"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Worldbuilding","Magic"]

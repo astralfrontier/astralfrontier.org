@@ -2,7 +2,6 @@
 title = "Session 2 Playtest"
 description = "The second staged combat and how it turned out"
 date = "2023-12-31 20:11:32"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise", "Recap"]

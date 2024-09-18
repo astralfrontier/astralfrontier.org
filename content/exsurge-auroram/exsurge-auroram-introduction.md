@@ -2,7 +2,6 @@
 title = "Exsurge Auroram Introduction"
 description = "What is this world about, and what can you expect?"
 date = "2023-12-13 00:44:40"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise"]

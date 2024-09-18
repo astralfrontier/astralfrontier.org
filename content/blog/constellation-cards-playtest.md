@@ -2,7 +2,6 @@
 title = "Constellation Cards playtest"
 description = "The results of a live test of the printed cards, and feedback from that game"
 date = "2023-12-06 09:38:27"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Constellation Cards","Game Design Diary"]

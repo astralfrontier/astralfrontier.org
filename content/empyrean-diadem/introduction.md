@@ -2,7 +2,6 @@
 title = "Introduction"
 description = "What this project is about"
 date = "2024-03-02 10:49:00"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Worldbuilding" ]

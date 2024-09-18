@@ -2,7 +2,6 @@
 title = "Quarto Decimo Novum: Introduction"
 description = "Building an FFXIV fan game in Genesys"
 date = "2019-11-19T01:48:45.000Z"
-authors = ["astralfrontier"]
 weight = 10
 
 [taxonomies]

@@ -2,7 +2,6 @@
 title = "Quarto Decimo Novum: Archetypes"
 description = "Eorzean racial archetypes"
 date = "2019-11-22T09:42:11.000Z"
-authors = ["astralfrontier"]
 weight = 20
 
 [taxonomies]

@@ -2,7 +2,6 @@
 title = "Galidrie"
 description = "A new Cath for Arise, a 'fungal elf'"
 date = "2023-12-22 15:38:33"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise", "Cath"]

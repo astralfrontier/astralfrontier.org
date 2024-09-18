@@ -2,7 +2,6 @@
 title = "The Metaphysics of the Menagerie"
 description = "A comic-book take on gods, souls, and more"
 date = "2024-03-10 10:13:59"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Worldbuilding", "Menagerie" ]

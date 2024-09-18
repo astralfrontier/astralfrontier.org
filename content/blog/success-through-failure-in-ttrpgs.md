@@ -2,7 +2,6 @@
 title = "Success Through Failure in TTRPGs"
 description = "A breakdown of a scene from the Fast & the Furious franchise in RPG terms"
 date = "2023-12-28 14:32:50"
-authors = ["astralfrontier"]
 
 [extra]
 banner_image = "blog/fast-and-furious.jpg"

@@ -2,11 +2,12 @@
 title = "Army of the Dead"
 description = "A letter from a young man in the armed forces"
 date = "2015-09-04T00:00:00.000Z"
-authors = ["astralfrontier"]
-[extra]
-banner_image = "/stock/death-164761_1280.jpg"
+
 [taxonomies]
 tags = ["Fantasy", "Undead"]
+
+[extra]
+banner_image = "/stock/death-164761_1280.jpg"
 +++
 
 To my dearest Tomas,

@@ -2,7 +2,6 @@
 title = "Happy Phantom"
 description = "A Beacon who became convinced he's a ghost"
 date = "2021-09-11T10:47:32.747Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Beacon Playbook"]

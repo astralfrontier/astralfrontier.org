@@ -2,11 +2,12 @@
 title = "Duo"
 description = "A priest receives confession from a seasoned warrior"
 date = "2016-08-19T00:00:00.000Z"
-authors = ["astralfrontier"]
-[extra]
-banner_image = "/stock/death-164761_1280.jpg"
+
 [taxonomies]
 tags = ["Fantasy", "Religion"]
+
+[extra]
+banner_image = "/stock/death-164761_1280.jpg"
 +++
 
 Forgive me, Father.

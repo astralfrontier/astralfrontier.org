@@ -2,7 +2,6 @@
 title = "The Unpleasable Progressive and Red Rock Mountain"
 description = "Different reactions to how people critique media, and what we can do about it"
 date = "2023-10-25 01:39:16"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Commentary"]

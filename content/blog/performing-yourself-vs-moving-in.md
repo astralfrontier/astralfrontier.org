@@ -2,7 +2,6 @@
 title = "Performing Yourself vs. Moving In"
 description = "An explanation of the appeal different games have for me"
 date = "2024-09-14 04:55:31"
-authors = [ "astralfrontier" ]
 
 [extra]
 icon = "fa-solid fa-masks-theater"

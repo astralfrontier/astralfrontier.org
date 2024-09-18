@@ -2,7 +2,6 @@
 title = "Building a Better Vampire"
 description = "A set of consistent assumptions that give us a hopefully interesting take on an old story"
 date = "2022-11-01 06:07:00"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Vampire","Worldbuilding"]

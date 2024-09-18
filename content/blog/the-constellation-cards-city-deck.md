@@ -2,7 +2,6 @@
 title = "The Constellation Cards City Deck"
 description = "A quick introduction to an optional deck"
 date = "2023-11-14 01:51:18"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Constellation Cards","Game Design Diary"]

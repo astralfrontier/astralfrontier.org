@@ -2,7 +2,6 @@
 title = "Saturday Playtest"
 description = "The first session of the Exsurge Auroram playtest game"
 date = "2023-12-20 06:31:50"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise", "Recap"]

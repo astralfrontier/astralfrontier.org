@@ -2,7 +2,6 @@
 title = "The Fantasy Solar System"
 description = "An early idea for a high-fantasy setting"
 date = "2024-03-02 07:45:51"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Worldbuilding" ]

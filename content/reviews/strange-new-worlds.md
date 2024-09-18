@@ -2,7 +2,6 @@
 title = "Strange New Worlds"
 description = "A review of the new Star Trek series"
 date = "2024-06-04 20:36:30"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Series", "Live Action" ]

@@ -3,6 +3,7 @@ base_url = "https://astralfrontier.org"
 
 title = "Astral Frontier"
 description = "A personal blog for posting opinions, reactions, fiction, and art"
+author = "astralfrontier"
 
 default_language = "en"
 

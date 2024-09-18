@@ -2,7 +2,6 @@
 title = "Principles of Arise Map Creation"
 description = "What makes a good Arise map, in terms of design?"
 date = "2023-11-25 18:05:11"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise"]

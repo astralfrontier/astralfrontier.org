@@ -2,7 +2,6 @@
 title = "Walking Pavise"
 description = "A shield brought to artificial life, and charged with guarding other beings"
 date = "2023-12-22T12:57:00.000Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise", "Artificia", "Stone Aspect"]

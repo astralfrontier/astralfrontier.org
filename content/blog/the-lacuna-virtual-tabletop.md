@@ -2,7 +2,6 @@
 title = "The Lacuna Virtual Tabletop"
 description = "Creating a new open-source VTT for gamers"
 date = "2024-05-29 04:53:30"
-authors = [ "astralfrontier" ]
 
 [taxonomies]
 tags = [ "Software", "Lacuna" ]

@@ -2,7 +2,6 @@
 title = "Red Hugh"
 description = "A vampire with a crush on his diabolical sire"
 date = "2022-05-19T03:41:19.324Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Doomed Playbook"]

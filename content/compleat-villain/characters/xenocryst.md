@@ -2,7 +2,6 @@
 title = "Xenocryst"
 description = "An archaeologist's child transformed into an earth elemental by a chthonic god"
 date = "2022-03-25T10:56:26.489Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Legacy Playbook"]

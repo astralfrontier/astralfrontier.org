@@ -2,7 +2,6 @@
 title = "The Forest Path"
 description = "A path winding its way through a lush forest. What might be lurking in the shadows of the green?"
 date = "2023-12-15T11:39:00.000Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Arise"]

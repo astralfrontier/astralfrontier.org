@@ -2,7 +2,6 @@
 title = "What if spells were like Poke'mon?"
 description = "From a thread on Twitter"
 date = "2023-11-15 10:30:31"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Worldbuilding"]

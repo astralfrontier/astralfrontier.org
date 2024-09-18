@@ -2,7 +2,6 @@
 title = "Breakthrough"
 description = "A legacy hero with a housing problem"
 date = "2021-09-11T12:40:52.315Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Character"]

@@ -2,7 +2,6 @@
 title = "Reckoner"
 description = "A human kaiju"
 date = "2021-09-11T08:55:13.692Z"
-authors = ["astralfrontier"]
 
 [taxonomies]
 tags = ["Masks Character", "Bull Playbook"]
