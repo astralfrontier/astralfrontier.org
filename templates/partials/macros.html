@@ -60,7 +60,13 @@
         <div class="media-content has-text-centered mt-6">
             <p class="title article-title"><a href="{{page.permalink | safe}}" class="p-name">{{page.title}}</a></p>
             <p class="subtitle is-6 article-subtitle">
-                <a class="p-author h-card" href="https://astralfrontier.org">@astralfrontier</a>
+                {% if page.authors %}
+                {% set author_name = page.authors.0 %}
+                {% else %}
+                {% set author_name = config.author | default(value="No Author") %}
+                {% endif %}
+                {% set author_info = config.extra.authors | filter(attribute="name", value=author_name) %}
+                <a class="p-author h-card" href="{{author_info[0].url | default(value=config.base_url | safe)}}">{{author_name}}</a>
                 {% if page.date %}
                 on <time class="dt-published" datetime="{{page.date}}">{{page.date | date(format="%b %e %Y")}}</time>
                 {% endif %}

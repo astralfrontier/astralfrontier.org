@@ -3,7 +3,7 @@ base_url = "https://astralfrontier.org"
 
 title = "Astral Frontier"
 description = "A personal blog for posting opinions, reactions, fiction, and art"
-author = "astralfrontier"
+author = "@astralfrontier"
 
 default_language = "en"
 
@@ -38,6 +38,7 @@ index_format = "elasticlunr_json"
 [extra]
 default_banner = "/brand/shutterstock_2284544289.jpg"
 icon = "fa-solid fa-a"
+authors = [{ name = "@astralfrontier", url = "https://astralfrontier.org" }]
 tag_banner_images = [
     { tag = "Constellation Cards", banner_image = "blog/north-star-2869817_1280.jpg" },
     { tag = "Final Fantasy XIV", banner_image = "quarto-decimo-novum/quarto-decimo-novum-introduction.jpg" },
