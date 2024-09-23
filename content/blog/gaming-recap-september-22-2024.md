@@ -16,7 +16,7 @@ Here's where this week took me.
 
 <!-- more -->
 
-As usual, it was a week for cancellations. Last Sunday's Mechatron game didn't happen (and at this point, honestly, only really happens once every 1-2 months). I didn't run Tuesday for personal reasons. Thursday didn't happen because the GM hadn't prepped for a one-shot, and other players weren't feeling super amazing. We didn't have anything on the calendar Friday, because we're anticipating a new player and want to run a one-shot as a vibe check and because one player was out for family reasons.
+As usual, it was a week for cancellations. Last Sunday's Mechatron game didn't happen. I didn't run Tuesday for personal reasons. Thursday didn't happen because the GM hadn't prepped for a one-shot, and other players weren't feeling super energized anyway. We didn't have anything on the calendar Friday, because we're anticipating a new player and want to run a one-shot as a vibe check and because one player was out for family reasons.
 
 That left Sunday Star Wars (using the [West End Games 1st Ed.](https://en.wikipedia.org/wiki/Star_Wars:_The_Roleplaying_Game) rules), which has been increasingly fun. It's even more fun because there's two Jedi PCs out of three total, and I'm not one of them. So where are we there?
 
