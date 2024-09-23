@@ -20,15 +20,27 @@ As usual, it was a week for cancellations. Last Sunday's Mechatron game didn't h
 
 That left Sunday Star Wars (using the [West End Games 1st Ed.](https://en.wikipedia.org/wiki/Star_Wars:_The_Roleplaying_Game) rules), which has been increasingly fun. It's even more fun because there's two Jedi PCs out of three total, and I'm not one of them. So where are we there?
 
-My character is a Smuggler named **Crow**. We have a Quixotic Jedi named **Charadan** - the son of a crime lord Crow owes money to - and a Failed Jedi named **Scoria**, who until recently kept her Force powers under wraps.
+My character is a Smuggler named **Crow**. We have a Quixotic Jedi named **Charadan**, and a Failed Jedi named **Scoria**. Crow owes money to Charadan's father **Valto Churan**, a big crime boss involved in smuggling.
 
-We just finished a job on Nar Shaddaa, bringing in a scumbag who had done Crow dirty in the past and deliver him to a syndicate on a water world. A member of Charadan's crime family, who the scumbag worked for and then betrayed, showed up to intercept us and bring the scumbag back to them instead of the syndicate.
+One of the key figures in Crow's life is an associate of Valto Churan called **Preelo Fisk**, a Rodian. After chasing Preelo through a few star systems and jobs, the team finally found his hideout and nabbed him.
+Crow wants Preelo to go down generally, but Scoria specifically wants Preelo because there's a syndicate who wants him, and will trade one of Scoria's captive friends for him.
 
-Oh, and she wants to take Charadan back to take over the family business.
+We were on our way back to our ship with Preelo in tow when we got jumped by some bounty hunters, who also had an interest in bringing him in. And then the bounty hunters were jumped by **Thila Rex**, another associate of Valto Churan, and her super combat droid. Thila brings news: daddy wants Charadan to come home and take over the family business. However, she may have unstated motives or goals of her own.
 
-Okay, we can work with that. Crow does a tricky deal where the "nanny" and her super battle droid ride along with us, to see how Charadan actually performs as a crime lord. Everyone wins, or at least survives the encounter, except now we have someone on board who will definitely notice either of the Jedi PCs doing Jedi shit. Hooray for drama!
+Crow thought fast and pitched a deal:
 
-We're approached by a researcher from a previous job, who needs our help smuggling three coworkers and an important gizmo out from under Imperial noses. Fine, Crow comes up with a plan to distract the Imperials with another freighter and some religious pilgrims, and hopefully get the people out quietly.
+1. Preelo goes back with Thila to Valto Churan
+2. Valto sends a slicer to work for the syndicate that has Scoria's friend, and that friend is freed
+3. The bounty hunters get a little money so they don't go home entirely empty handed
+4. Most importantly, Thila comes with us, so she can see how Charadan actually would perform as a crime boss
+
+Why would Thila go along with this? The syndicate can make the trade because they'll be exchanging a slicer who doens't want to work for them with one who does. Valto Churan gets to send one of his people to infiltrate another syndicate - our cover story is that the replacement slicer is independent, looking for a place to lay low, and not actually an agent of Valto Churan.
+
+Most importantly, she has time to influence Charadan however she's thinking of doing, instead of just taking him directly home. We don't know what she specifically plans to do, but we think she has some kind of independent ambition. So good enough!
+
+Out of character, this is good for the players as it puts immediate pressure on Charadan (perform well for day) and larger pressure on both Charadan and Scoria (somehow get training from their Jedi holocron without revealing themselves as Force users to the associate of a crime lord).
+
+That's how we started this session. We're approached by a researcher from a previous job. They want help smuggling three coworkers and an important gizmo off a space station, where a garrison of Imperials are keeping an eye on things. Fine, Crow comes up with a plan to distract the Imperials with another freighter and some religious pilgrims, and hopefully get the people out quietly.
 
 Charadan's "nanny", however, has a talk with him about burnishing his leadership credentials. Charadan flat out asks Crow, "can I take credit for your plan?" Crow says no, but adds an important request to the refusal: "come up with your _own_ plan, in case mine fails."
 
