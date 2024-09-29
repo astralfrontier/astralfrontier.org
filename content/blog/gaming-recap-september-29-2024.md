@@ -25,7 +25,7 @@ then describe how they interact with our regular PCs during the inevitable cross
 
 I cancelled Tuesday (again) due to illness that lasted through Thursday, which wasn't fun.
 
-Friday and Monday didn't happen because people had other stuff going on.
+Friday and Sunday didn't happen because people had other stuff going on.
 
 That leaves Thursday, where the group ran another Sentinels Comics one-shot
 with characters from our old [Masks](https://magpiegames.com/pages/masks)
