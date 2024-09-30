@@ -76,6 +76,7 @@ in either reading or commenting on what I've written.
 
 It's therefore discouraging to see the other players get excited about an SCRPG one-shot
 in the same universe where I've been putting so much work.
-This isn't their problem to solve - this is only how I feel about it - but it's frustrating and discouraging.
+This isn't their problem to solve - this is only how I feel about it - but it's frustrating
+because I'm told they like that I'm doing it, but that they don't have time to engage with it.
 So while Thursday SCRPG has been interesting, I'm honestly ready to move to Brindlewood Bay
-to get away from feeling annoyed and disheartened.
+to get away from feeling disheartened.
