@@ -28,7 +28,7 @@
     "image-type": "^5.2.0",
     "moment": "^2.30.1",
     "open-graph-scraper": "^6.5.1",
-    "postcss": "^8.4.39",
+    "postcss": "^8.4.48",
     "slugify": "^1.6.6",
     "ts-node": "^10.9.2"
   }
