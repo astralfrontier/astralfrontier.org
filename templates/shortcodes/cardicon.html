@@ -1,0 +1,19 @@
+{# Usage: title="" icon="" href="" #}
+<div class="card mb-4">
+  <header class="card-header has-background-primary has-text-white">
+    <button class="card-header-icon" aria-label="more options">
+      <span class="icon">
+        <i class="{{icon}}" aria-hidden="true"></i>
+      </span>
+    </button>
+    <p class="card-header-title has-text-white">{{title}}</p>
+  </header>
+  <div class="card-content">
+    <div class="content">
+      {{body | markdown | safe}}
+    </div>
+  </div>
+  <footer class="card-footer">
+    <a href="{{href}}" target="_blank" class="card-footer-item">More</a>
+  </footer>
+</div>
