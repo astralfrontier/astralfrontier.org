@@ -7,7 +7,7 @@ date = "2024-12-24 04:55:55"
 hide_toc = true
 +++
 
-New blog post.
+Resources for posing characters, or pose libraries.
 
 <!-- more -->
 
