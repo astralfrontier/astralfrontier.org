@@ -24,8 +24,10 @@ This is the use of the modeling tools to build a rough outline, then to use scul
 4. Add a Subdivision Surface modifier to give a more rounded shape
 5. Use Mesh > Transform > Skin Resize (or Control-A) to grow or shrink the skin effect around edges or vertices
 
+{# youtube(v="kuUk_mAEl6s") #}
+
 # Retopology
 
-https://www.youtube.com/watch?v=CviZw41IbMg
-
 https://inspirationtuts.com/8-blender-addons-for-retopology/
+
+{# youtube(v="CviZw41IbMg") #}

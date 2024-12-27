@@ -11,6 +11,10 @@ Sometimes you want to make changes to every part of the output. This can mean tw
 
 <!-- more -->
 
+# Non-Photorealistic (NPR)
+
+https://blender-addons.org/npreevee/
+
 # Third Party Tools
 
 https://fotosketcher.com/
