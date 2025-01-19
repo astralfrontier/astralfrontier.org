@@ -45,6 +45,19 @@ function zolaServe() {
   return cp.exec("zola serve --open");
 }
 
+function runRollup(cb: (err?: any) => void) {
+  const cmd = `npm run rollup`;
+  cp.exec(cmd, (err, stdout, stderr) => {
+    console.log(stdout);
+    console.log(stderr);
+    if (err) {
+      cb(new Error(err?.message));
+    } else {
+      cb();
+    }
+  });
+}
+
 function minify() {
   return src("public/**/*.html")
     .pipe(htmlmin({ collapseWhitespace: true }))
@@ -298,6 +311,7 @@ exports.preinstall = parallel(fontAwesome, jquery);
 exports.build = series(
   exports.preinstall,
   zolaBuild,
+  runRollup,
   /* modifyHtml, */ minify,
   css
 );

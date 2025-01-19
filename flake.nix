@@ -20,7 +20,7 @@
           name = "astralfrontier.org";
           nativeBuildInputs = builddeps;
           src = self;
-          npmDepsHash = "sha256-kb1o1fbpL6bfxd5lh+6cau5S+UtqBYKKptTx7qGJYnk=";
+          npmDepsHash = "sha256-4rRqGHARQaa2bfxv4JzHObZTu4g3BVr2H5GWfevcIx4=";
           npmBuildScript = "gulp";
           installPhase = ''
             mkdir $out
