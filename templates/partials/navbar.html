@@ -1,57 +1,40 @@
-<nav class="navbar">
-    <div class="container">
-        <div class="navbar-brand">
-            <a class="navbar-item" href="/">
-                <img src="/brand/banner-640x160.png" alt="Astral Frontier">
-            </a>
-            <span class="navbar-burger burger" data-target="navbarMenu">
-            <span></span>
-            <span></span>
-            <span></span>
-            </span>
-        </div>
-        <div id="navbarMenu" class="navbar-menu">
-            <div class="navbar-end">
-                <div class="navbar-item has-dropdown" id="navbar-search-element">
-                    <a class="navbar-link is-arrowless">
-                        <input class="input is-rounded" type="text" placeholder="Search" id="navbar-search-input">
-                    </a>
-                    <div class="navbar-dropdown" id="navbar-search-dropdown">
-                        <a class="navbar-item">
-                          Overview
-                        </a>
-                      </div>
-                </div>
-                <a class="navbar-item"></a>
-                {% for link in config.extra.navbar %}
-                {% if link.items %}
-                <div class="navbar-item has-dropdown is-hoverable" aria-label="{{link.title}}">
-                    <a class="navbar-link" {% if link.url %} href="{{link.url | safe}}" {% endif %}>{{link.title}}</a>
-                    <div class="navbar-dropdown">
+<nav>
+    <ul>
+        <li>
+            <img src="/brand/banner-640x160.png" alt="Astral Frontier">
+        </li>
+        <li>
+            TODO: search
+        </li>
+    </ul>
+    <ul>
+        {% for link in config.extra.navbar %}
+        <li>
+        {% if link.items %}
+                <details class="dropdown">
+                    <summary>{{link.title}}</summary>
+                    <ul dir="rtl">
                         {% for item in link.items %}
-                        <a class="navbar-item" href="{{item.url | safe}}">
-                          {{item.title}}
-                        </a>
+                            <li>
+                                <a href="{{item.url | safe}}">{{item.title}}</a>
+                            </li>
                         {% endfor %}
-                      </div>
-                </div>
-                {% else %}
-                {% if link.external %}
-                <a class="navbar-item" rel="noopener noreferrer me" href="{{link.url | safe}}" target="_blank"  aria-label="{{link.title}}">
-                {% else %}
-                <a class="navbar-item" href="{{link.url | safe}}" aria-label="{{link.title}}">
-                {% endif %}
-                    {% if link.icon %}
-                    <span class="icon">
-                        <i class="{{link.icon}}" title="{{link.title}}" aria-hidden="true"></i>
-                    </span>
-                    {% elif link.title %}
-                    {{link.title}}
-                    {% endif %}
-                </a>
-                {% endif %}
-                {% endfor %}
-            </div>
-        </div>
-    </div>
+                    </ul>
+                </details>
+        {% else %}
+            {% if link.external %}
+                <a rel="noopener noreferrer me" href="{{link.url | safe}}" target="_blank" aria-label="{{link.title}}">
+            {% else %}
+                <a href="{{link.url | safe}}" aria-label="{{link.title}}">
+            {% endif %}
+            {% if link.icon %}
+                <span class="{{link.icon}}" title="{{link.title}}" aria-hidden="true"></span>
+            {% elif link.title %}
+            {{link.title}}
+            {% endif %}
+        </a>
+        {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
 </nav>
