@@ -91,6 +91,8 @@ The girl thinks, and nods at last. She lays a hand on the pendant she wears.
 "The first thing I remember is this gem. I felt sure I had to put it on. So I did.
 If this is what defines me for the moment, then please call me 'Gem'."
 
+PICOFLAG
+
 {% message(class="is-info") %}
 This is Gem's introduction as a character.
 

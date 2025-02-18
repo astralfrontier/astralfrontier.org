@@ -29,6 +29,8 @@ Once, he even chased off three bandits! Well, there were two at the time, but th
 Roland doesn't belong here. He should be a _knight_, up at the _castle_. He should be going to war!
 All the old storybooks, with their gallant champions in their bright and invulnerable armor - that's where he belongs. He knows it in his soul.
 
+PICOFLAG
+
 {% message(class="is-info") %}
 We're going to be creating the first of our characters, a typical JRPG protagonist named Roland.
 

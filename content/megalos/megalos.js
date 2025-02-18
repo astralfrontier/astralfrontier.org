@@ -17,6 +17,8 @@ function intializeHtml() {
     leftColumn.append(rowHtml);
   }
 
+  // PICOFLAG
+
   const diceRow = $(`<div class="columns" />`);
   for (let i = 0; i < 4; i++) {
     diceRow.append(

@@ -136,6 +136,8 @@ This system uses the pips of a six-sided die as a guide to which parts of a 3x3 
 
 ## Using 4x4 AOE Effects
 
+PICOFLAG
+
 <div class="columns is-centered">
 <div class="column">
 <img src="/dice/4x4-2.svg" width="120" height="120">

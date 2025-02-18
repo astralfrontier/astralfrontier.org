@@ -34,6 +34,8 @@ Although Gem doesn't seem to know who she is, she still knows how the world work
 He trusts her to realize they both need to find food and shelter here,
 but isn't sure if she knows how any more than he does.
 
+PICOFLAG
+
 {% message(class="is-info") %}
 Let's start by filling out some personal and party EXP Triggers, which is how characters advance.
 The concept was introduced in the previous draft doc, but now we have examples to work from!

@@ -1,23 +1,20 @@
 @charset "UTF-8"
 
-@import "../node_modules/bulma-scss/bulma.scss"
-@import "../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss"
-@import "../node_modules/@fortawesome/fontawesome-free/scss/solid.scss"
-@import "../node_modules/@fortawesome/fontawesome-free/scss/brands.scss"
+@use "../node_modules/@picocss/pico/scss/pico"
 
 .fullheight
     height: 100%
 
+// TODO: only show on desktop or larger
 .is-article-toc
-    @include desktop
-        position: -webkit-sticky
-        position: -moz-sticky
-        position: -ms-sticky
-        position: -o-sticky
-        position: sticky
-        height: 100%
-        top: 10px
-        bottom: auto
+    position: -webkit-sticky
+    position: -moz-sticky
+    position: -ms-sticky
+    position: -o-sticky
+    position: sticky
+    height: 100%
+    top: 10px
+    bottom: auto
 
 // Stuff from the Bulma blog template - view-source:https://bulmatemplates.github.io/bulma-templates/css/blog.css
 
@@ -74,10 +71,10 @@
 
 .article-body
     line-height: 1.4
-    @include mobile
-        margin: 0 1rem
-    @include tablet
-        margin: 0 6rem
+    // TODO: mobile
+    // margin: 0 1rem
+    // TODO: tablet
+    margin: 0 6rem
 
 .promo-block .container
     margin: 1rem 5rem
